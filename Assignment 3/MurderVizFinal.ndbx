@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ndbx formatVersion="21" type="file" uuid="91a00a11-91be-482d-966e-8fcfbb20f15f">
+    <property name="canvasHeight" value="1000"/>
+    <property name="canvasWidth" value="1000"/>
+    <property name="canvasX" value="0"/>
+    <property name="canvasY" value="0"/>
+    <node name="root" prototype="core.network" renderedChild="combine1">
+        <node name="DarkBlue" position="31.00,15.00" prototype="color.color">
+            <port name="color" type="color" value="#4b58c6af"/>
+        </node>
+        <node name="DarkPink" position="28.00,15.00" prototype="color.color">
+            <port name="color" type="color" value="#a320aeaf"/>
+        </node>
+        <node name="FORTYONE" position="22.00,-3.00" prototype="corevector.arc"/>
+        <node name="FemaleVictim" position="22.00,13.00" prototype="data.lookup">
+            <port name="key" type="string" value="Female victim"/>
+        </node>
+        <node name="Green" position="16.00,15.00" prototype="color.color">
+            <port name="color" type="color" value="#86e7b8a2"/>
+        </node>
+        <node name="LightBlue" position="25.00,15.00" prototype="color.color">
+            <port name="color" type="color" value="#51d6f9af"/>
+        </node>
+        <node name="LightPink" position="22.00,15.00" prototype="color.color">
+            <port name="color" type="color" value="#f485f1af"/>
+        </node>
+        <node name="MaleVictim" position="25.00,13.00" prototype="data.lookup">
+            <port name="key" type="string" value="Male victim"/>
+        </node>
+        <node name="Red" position="19.00,15.00" prototype="color.color">
+            <port name="color" type="color" value="#d81159af"/>
+        </node>
+        <node name="SIXTYONE" position="22.00,-2.00" prototype="corevector.arc"/>
+        <node name="Solved" position="16.00,13.00" prototype="data.lookup">
+            <port name="key" type="string" value="Crimes solved"/>
+        </node>
+        <node name="Unsolved" position="19.00,13.00" prototype="data.lookup">
+            <port name="key" type="string" value="Crimes unsolved"/>
+        </node>
+        <node name="angle1" position="13.00,9.00" prototype="math.angle"/>
+        <node name="color19" position="40.00,-2.00" prototype="color.color">
+            <port name="color" type="color" value="#d8115982"/>
+        </node>
+        <node name="color20" position="40.00,-1.00" prototype="color.color">
+            <port name="color" type="color" value="#f485f182"/>
+        </node>
+        <node name="color21" position="43.00,-3.00" prototype="color.color">
+            <port name="color" type="color" value="#51d6f982"/>
+        </node>
+        <node name="color22" position="43.00,-2.00" prototype="color.color">
+            <port name="color" type="color" value="#a320ae82"/>
+        </node>
+        <node name="color23" position="40.00,-3.00" prototype="color.color">
+            <port name="color" type="color" value="#86e7b882"/>
+        </node>
+        <node name="color24" position="43.00,-1.00" prototype="color.color">
+            <port name="color" type="color" value="#4b58c682"/>
+        </node>
+        <node name="colorize1" position="16.00,17.00" prototype="corevector.colorize">
+            <port name="fill" type="color" value="#00000000"/>
+            <port name="strokeWidth" type="float" value="6.0"/>
+        </node>
+        <node name="colorize2" position="19.00,17.00" prototype="corevector.colorize"/>
+        <node name="colorize3" position="30.00,9.00" prototype="corevector.colorize">
+            <port name="fill" type="color" value="#ffffffff"/>
+        </node>
+        <node name="colorize4" position="33.00,9.00" prototype="corevector.colorize">
+            <port name="fill" type="color" value="#ffffff9c"/>
+        </node>
+        <node name="colorize5" position="22.00,17.00" prototype="corevector.colorize">
+            <port name="strokeWidth" type="float" value="1.0"/>
+        </node>
+        <node name="colorize6" position="25.00,17.00" prototype="corevector.colorize"/>
+        <node name="colorize7" position="28.00,17.00" prototype="corevector.colorize"/>
+        <node name="colorize8" position="31.00,17.00" prototype="corevector.colorize"/>
+        <node name="combine1" position="17.00,26.00" prototype="list.combine"/>
+        <node name="combine2" position="32.00,11.00" prototype="list.combine"/>
+        <node name="combine3" position="18.00,19.00" prototype="list.combine"/>
+        <node name="combine6" position="40.00,2.00" prototype="list.combine"/>
+        <node name="coordinates1" position="13.00,7.00" prototype="math.coordinates">
+            <port name="position" type="point" value="63.00,20.00"/>
+            <port name="distance" type="float" value="1470.0"/>
+        </node>
+        <node name="count1" position="13.00,5.00" prototype="list.count"/>
+        <node name="count2" position="16.00,6.00" prototype="list.count"/>
+        <node name="distinct1" position="9.00,5.00" prototype="list.distinct"/>
+        <node name="distinct2" position="16.00,5.00" prototype="list.distinct"/>
+        <node name="distinct3" position="31.00,3.00" prototype="list.distinct"/>
+        <node name="divide1" position="31.00,4.00" prototype="math.divide">
+            <port name="value2" type="float" value="6678.0"/>
+        </node>
+        <node name="ellipse1" position="19.00,4.00" prototype="corevector.ellipse">
+            <port name="position" type="point" value="86.00,19.00"/>
+            <port name="width" type="float" value="1627.0"/>
+            <port name="height" type="float" value="2158.0"/>
+        </node>
+        <node name="ellipse2" position="33.00,8.00" prototype="corevector.ellipse">
+            <port name="width" type="float" value="240.0"/>
+            <port name="height" type="float" value="240.0"/>
+        </node>
+        <node name="import_csv1" position="9.00,3.00" prototype="data.import_csv">
+            <port name="file" type="string" value="data.csv"/>
+        </node>
+        <node name="line1" position="19.00,14.00" prototype="corevector.line"/>
+        <node name="line2" position="16.00,14.00" prototype="corevector.line"/>
+        <node name="line3" position="22.00,14.00" prototype="corevector.line"/>
+        <node name="line4" position="25.00,14.00" prototype="corevector.line"/>
+        <node name="line5" position="28.00,14.00" prototype="corevector.line"/>
+        <node name="line6" position="31.00,14.00" prototype="corevector.line"/>
+        <node name="lookup1" position="9.00,4.00" prototype="data.lookup">
+            <port name="key" type="string" value="Category"/>
+        </node>
+        <node name="lookup2" position="16.00,4.00" prototype="data.lookup">
+            <port name="key" type="string" value="Type"/>
+        </node>
+        <node name="lookup3" position="16.00,10.00" prototype="data.lookup"/>
+        <node name="lookup4" position="28.00,13.00" prototype="data.lookup">
+            <port name="key" type="string" value="Female perpetrator"/>
+        </node>
+        <node name="lookup5" position="40.00,4.00" prototype="data.lookup"/>
+        <node name="lookup6" position="31.00,2.00" prototype="data.lookup">
+            <port name="key" type="string" value="Total"/>
+        </node>
+        <node name="lookup7" position="37.00,12.00" prototype="data.lookup">
+            <port name="key" type="string" value="Size"/>
+        </node>
+        <node name="lookup8" position="31.00,13.00" prototype="data.lookup">
+            <port name="key" type="string" value="Male perpetrator"/>
+        </node>
+        <node name="multiply1" position="37.00,14.00" prototype="math.multiply"/>
+        <node name="multiply2" position="33.00,6.00" prototype="math.multiply">
+            <port name="value2" type="float" value="9.0"/>
+        </node>
+        <node name="multiply3" position="29.00,6.00" prototype="math.multiply"/>
+        <node name="multiply4" position="40.00,14.00" prototype="math.multiply"/>
+        <node name="multiply5" position="43.00,14.00" prototype="math.multiply"/>
+        <node name="multiply6" position="46.00,14.00" prototype="math.multiply"/>
+        <node name="multiply7" position="49.00,14.00" prototype="math.multiply"/>
+        <node name="multiply8" position="52.00,14.00" prototype="math.multiply"/>
+        <node name="rotate1" position="9.00,8.00" prototype="corevector.rotate"/>
+        <node name="sample1" position="13.00,6.00" prototype="math.sample">
+            <port name="end" type="float" value="352.5001525878906"/>
+        </node>
+        <node name="scatter1" position="19.00,7.00" prototype="corevector.scatter">
+            <port name="seed" type="int" value="61"/>
+        </node>
+        <node name="slice1" position="37.00,13.00" prototype="list.slice">
+            <port name="size" type="int" value="44"/>
+        </node>
+        <node name="slice2" position="40.00,13.00" prototype="list.slice">
+            <port name="start_index" type="int" value="44"/>
+            <port name="size" type="int" value="44"/>
+        </node>
+        <node name="slice3" position="43.00,13.00" prototype="list.slice">
+            <port name="start_index" type="int" value="88"/>
+            <port name="size" type="int" value="44"/>
+        </node>
+        <node name="slice4" position="46.00,13.00" prototype="list.slice">
+            <port name="start_index" type="int" value="132"/>
+            <port name="size" type="int" value="44"/>
+        </node>
+        <node name="slice5" position="49.00,13.00" prototype="list.slice">
+            <port name="start_index" type="int" value="176"/>
+            <port name="size" type="int" value="44"/>
+        </node>
+        <node name="slice6" position="52.00,13.00" prototype="list.slice">
+            <port name="start_index" type="int" value="220"/>
+            <port name="size" type="int" value="44"/>
+        </node>
+        <node name="textpath1" position="9.00,7.00" prototype="corevector.textpath">
+            <port name="align" type="string" value="LEFT"/>
+        </node>
+        <node name="textpath2" position="30.00,8.00" prototype="corevector.textpath"/>
+        <node name="translate1" position="9.00,10.00" prototype="corevector.translate"/>
+        <node name="zip_map1" position="40.00,3.00" prototype="list.zip_map"/>
+        <node name="zip_map_Category" position="16.00,9.00" prototype="list.zip_map"/>
+        <node name="zip_map_type" position="19.00,9.00" prototype="list.zip_map"/>
+        <conn input="lookup1.list" output="import_csv1"/>
+        <conn input="rotate1.shape" output="textpath1"/>
+        <conn input="sample1.amount" output="count1"/>
+        <conn input="coordinates1.angle" output="sample1"/>
+        <conn input="distinct1.list" output="lookup1"/>
+        <conn input="textpath1.text" output="distinct1"/>
+        <conn input="angle1.point2" output="coordinates1"/>
+        <conn input="rotate1.angle" output="angle1"/>
+        <conn input="count1.list" output="distinct1"/>
+        <conn input="translate1.shape" output="rotate1"/>
+        <conn input="translate1.translate" output="coordinates1"/>
+        <conn input="scatter1.shape" output="ellipse1"/>
+        <conn input="lookup2.list" output="import_csv1"/>
+        <conn input="distinct2.list" output="lookup2"/>
+        <conn input="count2.list" output="distinct2"/>
+        <conn input="scatter1.amount" output="count2"/>
+        <conn input="zip_map_Category.values" output="coordinates1"/>
+        <conn input="zip_map_type.values" output="scatter1"/>
+        <conn input="zip_map_type.keys" output="distinct2"/>
+        <conn input="lookup3.list" output="zip_map_Category"/>
+        <conn input="zip_map_Category.keys" output="distinct1"/>
+        <conn input="lookup3.key" output="lookup1"/>
+        <conn input="lookup7.list" output="import_csv1"/>
+        <conn input="combine1.list1" output="translate1"/>
+        <conn input="colorize1.strokeWidth" output="multiply1"/>
+        <conn input="textpath2.text" output="distinct2"/>
+        <conn input="textpath2.position" output="scatter1"/>
+        <conn input="colorize3.shape" output="textpath2"/>
+        <conn input="colorize4.shape" output="ellipse2"/>
+        <conn input="ellipse2.position" output="scatter1"/>
+        <conn input="combine2.list1" output="colorize4"/>
+        <conn input="combine2.list2" output="colorize3"/>
+        <conn input="lookup6.list" output="import_csv1"/>
+        <conn input="distinct3.list" output="lookup6"/>
+        <conn input="divide1.value1" output="distinct3"/>
+        <conn input="multiply2.value1" output="divide1"/>
+        <conn input="ellipse2.width" output="multiply2"/>
+        <conn input="ellipse2.height" output="multiply2"/>
+        <conn input="multiply3.value1" output="divide1"/>
+        <conn input="textpath2.font_size" output="multiply3"/>
+        <conn input="combine6.list1" output="color23"/>
+        <conn input="combine6.list2" output="color19"/>
+        <conn input="combine6.list3" output="color20"/>
+        <conn input="combine6.list4" output="color21"/>
+        <conn input="combine6.list5" output="color22"/>
+        <conn input="combine6.list6" output="color24"/>
+        <conn input="combine1.list3" output="combine2"/>
+        <conn input="zip_map1.values" output="combine6"/>
+        <conn input="zip_map1.keys" output="distinct2"/>
+        <conn input="lookup5.key" output="distinct2"/>
+        <conn input="lookup5.list" output="zip_map1"/>
+        <conn input="colorize4.fill" output="lookup5"/>
+        <conn input="line1.point2" output="lookup3"/>
+        <conn input="line2.point2" output="lookup3"/>
+        <conn input="Solved.list" output="zip_map_type"/>
+        <conn input="line2.point1" output="Solved"/>
+        <conn input="Unsolved.list" output="zip_map_type"/>
+        <conn input="line1.point1" output="Unsolved"/>
+        <conn input="combine1.list2" output="combine3"/>
+        <conn input="slice1.list" output="lookup7"/>
+        <conn input="multiply1.value1" output="slice1"/>
+        <conn input="colorize1.shape" output="line2"/>
+        <conn input="colorize1.stroke" output="Green"/>
+        <conn input="slice2.list" output="lookup7"/>
+        <conn input="multiply4.value1" output="slice2"/>
+        <conn input="colorize2.shape" output="line1"/>
+        <conn input="colorize2.stroke" output="Red"/>
+        <conn input="colorize2.strokeWidth" output="multiply4"/>
+        <conn input="combine3.list1" output="colorize1"/>
+        <conn input="combine3.list2" output="colorize2"/>
+        <conn input="line3.point2" output="lookup3"/>
+        <conn input="colorize5.shape" output="line3"/>
+        <conn input="combine3.list3" output="colorize5"/>
+        <conn input="slice3.list" output="lookup7"/>
+        <conn input="multiply5.value1" output="slice3"/>
+        <conn input="colorize5.strokeWidth" output="multiply5"/>
+        <conn input="FemaleVictim.list" output="zip_map_type"/>
+        <conn input="line3.point1" output="FemaleVictim"/>
+        <conn input="colorize5.stroke" output="LightPink"/>
+        <conn input="slice4.list" output="lookup7"/>
+        <conn input="multiply6.value1" output="slice4"/>
+        <conn input="colorize6.stroke" output="LightBlue"/>
+        <conn input="colorize6.strokeWidth" output="multiply6"/>
+        <conn input="combine3.list4" output="colorize6"/>
+        <conn input="line4.point2" output="lookup3"/>
+        <conn input="colorize6.shape" output="line4"/>
+        <conn input="MaleVictim.list" output="zip_map_type"/>
+        <conn input="line4.point1" output="MaleVictim"/>
+        <conn input="lookup4.list" output="zip_map_type"/>
+        <conn input="line5.point1" output="lookup4"/>
+        <conn input="line5.point2" output="lookup3"/>
+        <conn input="colorize7.shape" output="line5"/>
+        <conn input="colorize7.stroke" output="DarkPink"/>
+        <conn input="slice5.list" output="lookup7"/>
+        <conn input="multiply7.value1" output="slice5"/>
+        <conn input="colorize7.strokeWidth" output="multiply7"/>
+        <conn input="combine3.list5" output="colorize7"/>
+        <conn input="lookup8.list" output="zip_map_type"/>
+        <conn input="line6.point1" output="lookup8"/>
+        <conn input="line6.point2" output="lookup3"/>
+        <conn input="colorize8.shape" output="line6"/>
+        <conn input="colorize8.stroke" output="DarkBlue"/>
+        <conn input="slice6.list" output="lookup7"/>
+        <conn input="multiply8.value1" output="slice6"/>
+        <conn input="colorize8.strokeWidth" output="multiply8"/>
+        <conn input="combine3.list6" output="colorize8"/>
+    </node>
+</ndbx>

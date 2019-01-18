@@ -1,0 +1,1791 @@
+incidentDate,state,cityOrCounty,address,killed,injured,operations: d.operations,type,age
+22-Nov-16,Indiana,Anderson,1600 block of West 7th Street,1,0,N/A,Accidental,Teen
+22-Nov-16,Virginia,Christiansburg,700 block of Dabney Road,1,0,N/A,Accidental,Teen
+12-Nov-16,Colorado,La Salle,18000 block of County Road 43,1,0,N/A,Accidental,Teen
+11-Nov-16,Oklahoma,Fort Towson,N/A,1,0,N/A,Accidental,Teen
+08-Nov-16,Virginia,Hampton,500 block of Pennsylvania Ave,1,0,N/A,Accidental,Teen
+07-Nov-16,Pennsylvania,New Kensington (Arnold),1417 Orchard Ave,1,0,N/A,Accidental,Teen
+06-Nov-16,Georgia,Atlanta,1800 block of Charleston Avenue,1,0,N/A,Accidental,Teen
+30-Oct-16,Pennsylvania,Norristown,600 block of George Street,1,0,N/A,Accidental,Teen
+22-Oct-16,Louisiana,Larose,East Avenue C,1,0,N/A,Accidental,Teen
+16-Oct-16,Washington,Yacolt,34900 block of NE Thompson Road,1,0,N/A,Accidental,Teen
+16-Oct-16,North Dakota,Bismarck,106th St SE,1,0,N/A,Accidental,Teen
+11-Oct-16,Georgia,Acworth,4800 block of Ryan Road,1,0,N/A,Accidental,Teen
+09-Oct-16,South Carolina,Aynor,Garner Road,1,0,N/A,Accidental,Teen
+07-Oct-16,Georgia,Richmond (county),Done Roven Road,1,0,N/A,Accidental,Teen
+03-Oct-16,North Dakota,Sanborn,N/A,1,0,N/A,Accidental,Teen
+29-Sep-16,Texas,Fort Worth,3712 North Elm Street,1,0,N/A,Accidental,Teen
+27-Sep-16,Iowa,Cedar Rapids,800 block of 15th Street SE,1,0,N/A,Accidental,Teen
+22-Sep-16,Maryland,Bladensburg,4200 block of 58th Avenue,1,0,N/A,Accidental,Teen
+17-Sep-16,Alaska,Juneau,3000 block of Mountainwood Circle,1,0,N/A,Accidental,Teen
+14-Sep-16,Texas,Bexar (county),N/A,1,0,N/A,Accidental,Teen
+08-Sep-16,California,Rosamond,2600 block of 25th Street West,1,0,N/A,Accidental,Teen
+05-Sep-16,Texas,San Benito,200 block of Los Ranchitos,1,0,N/A,Accidental,Teen
+05-Sep-16,Michigan,Kalamazoo,1500 block of Clinton Avenue,2,0,N/A,Accidental,Teen
+28-Aug-16,Kentucky,Louisville,3015 Penway Ave,1,0,N/A,Accidental,Teen
+27-Aug-16,Texas,San Benito,500 block of Doherty Street,1,0,N/A,Accidental,Teen
+15-Aug-16,Florida,Naples,1900 Tamiami Trail N,1,0,N/A,Accidental,Teen
+12-Aug-16,Pennsylvania,Mountville,17 West Main Street,1,0,N/A,Accidental,Teen
+06-Aug-16,North Carolina,Shelby,105 Lindsey Lee Ln,1,0,N/A,Accidental,Teen
+05-Aug-16,Illinois,Chicago,2700 block of West Evergreen Avenue,1,0,N/A,Accidental,Teen
+02-Aug-16,South Carolina,Coward,4312 Circle Drive,1,1,N/A,Accidental,Teen
+02-Aug-16,Ohio,Columbus,400 block of East Markison Avenue,1,0,N/A,Accidental,Teen
+01-Aug-16,Oklahoma,Ardmore,1200 block of L Street,1,0,N/A,Accidental,Teen
+31-Jul-16,Alabama,Birmingham (Homewood),1301 Lakeshore Dr.,1,0,N/A,Accidental,Teen
+30-Jul-16,New York,Elmira,200 block of West Hudson Street,1,0,N/A,Accidental,Teen
+26-Jul-16,Texas,San Antonio,3600 block of Callaghan Road,1,0,N/A,Accidental,Teen
+25-Jul-16,Arizona,Tempe,1000 E Orange Street,1,0,N/A,Accidental,Teen
+22-Jul-16,Indiana,Huntingburg,202 N. Main St.,1,0,N/A,Accidental,Teen
+19-Jul-16,Texas,Alvin,3400 block of Oxford,1,0,N/A,Accidental,Teen
+15-Jul-16,Florida,Tallahassee,2684 Tess Circle,1,0,N/A,Accidental,Teen
+15-Jul-16,Texas,Houston,Sageland Drive,1,0,N/A,Accidental,Teen
+08-Jul-16,Texas,Mineral Wells,2600 block of S.W 8th Avenue,1,0,N/A,Accidental,Teen
+06-Jul-16,Alabama,Toney,2500 block of Alabama 251,1,0,N/A,Accidental,Teen
+03-Jul-16,Florida,Sarasota,4583 Bee Ridge Road,1,0,N/A,Accidental,Teen
+03-Jul-16,Tennessee,Chattanooga (East Ridge),201 Eads Street,1,0,N/A,Accidental,Teen
+29-Jun-16,Pennsylvania,Philadelphia,5300 block of E Walnut Lane,1,0,N/A,Accidental,Teen
+28-Jun-16,Texas,San Antonio,8600 block of Star Creek Drive,1,0,N/A,Accidental,Teen
+27-Jun-16,Arizona,Phoenix,1600 block of West Missouri Avenue,1,0,N/A,Accidental,Teen
+22-Jun-16,Indiana,Indianapolis,3300 block of Wallace Avenue,1,0,N/A,Accidental,Teen
+22-Jun-16,Georgia,Adel,800 block of Guy Street,1,0,N/A,Accidental,Teen
+17-Jun-16,Pennsylvania,Pittsburgh,4290 Melwood Ave,1,0,N/A,Accidental,Teen
+13-Jun-16,West Virginia,Fairmont,Cleveland Avenue,1,0,N/A,Accidental,Teen
+11-Jun-16,Louisiana,Baton Rouge,3500 block of Wayne Avenue,1,0,N/A,Accidental,Teen
+07-Jun-16,Michigan,Detroit,5300 block of Radnor,1,0,N/A,Accidental,Teen
+06-Jun-16,Georgia,Hawkinsville,18 Franklin Street,1,0,N/A,Accidental,Teen
+06-Jun-16,Maryland,Annapolis,1300 block of Tyler Avenue,1,0,N/A,Accidental,Teen
+03-Jun-16,Missouri,Saint Louis,9500 block of Page Ave,1,0,N/A,Accidental,Teen
+03-Jun-16,Colorado,Aurora,1575 Galena Street,1,0,N/A,Accidental,Teen
+03-Jun-16,Illinois,Chicago,3500 block of South Parnell Avenue,1,0,N/A,Accidental,Teen
+25-May-16,Washington,Seattle,6000 block of High Point Drive SW,1,0,N/A,Accidental,Teen
+19-May-16,New York,Bronx,810 Astor Avenue,1,0,N/A,Accidental,Teen
+14-May-16,Florida,Alford,Compass Lake Drive,1,0,N/A,Accidental,Teen
+10-May-16,Louisiana,Shreveport,1100 block of Wilkinson Street,1,0,N/A,Accidental,Teen
+19-Apr-16,California,Sacramento,7800 block of Sunrise Greens Drive,1,0,N/A,Accidental,Teen
+14-Apr-16,California,Victorville,13000 block of Bennington Drive,1,0,N/A,Accidental,Teen
+10-Apr-16,North Carolina,Granite Falls,Baton Church Road,1,0,N/A,Accidental,Teen
+02-Apr-16,South Carolina,Rock Hill,800 block of Horseman Drive,1,0,N/A,Accidental,Teen
+31-Mar-16,North Carolina,La Grange,Mimosa Lane and Maple Grove Dr,1,0,N/A,Accidental,Teen
+28-Mar-16,Georgia,Douglas,900 block of South Coffee Avenue,1,0,N/A,Accidental,Teen
+27-Mar-16,Mississippi,Brookhaven,Highway 550,1,0,N/A,Accidental,Teen
+25-Mar-16,Hawaii,Mountain View,Oshiro Road,1,0,N/A,Accidental,Teen
+20-Mar-16,Pennsylvania,Mount Pleasant,151 South Church St,1,0,N/A,Accidental,Teen
+19-Mar-16,Florida,Apopka,1008 Sheeler Hills Drive,1,0,N/A,Accidental,Teen
+18-Mar-16,Iowa,Cedar Rapids,1424 Bever Ave. SE,1,0,N/A,Accidental,Teen
+17-Mar-16,South Carolina,Bennettsville,Spencer Street,1,0,N/A,Accidental,Teen
+14-Mar-16,Texas,Bridgeport,County Road 3825,1,0,N/A,Accidental,Teen
+14-Mar-16,West Virginia,Beckley,Bethel Road,1,0,N/A,Accidental,Teen
+14-Mar-16,Missouri,Kansas City,North Flora and Northeast 80th Street,1,0,N/A,Accidental,Teen
+12-Mar-16,Iowa,Oskaloosa,1593 290th Street,1,0,N/A,Accidental,Teen
+07-Mar-16,West Virginia,Morgantown,Church Hill Drive,1,0,N/A,Accidental,Teen
+06-Mar-16,Mississippi,Laurel,County Road 237,1,0,N/A,Accidental,Teen
+05-Mar-16,South Dakota,Yankton,East Side Drive,1,0,N/A,Accidental,Teen
+27-Feb-16,Florida,Miami Gardens,2200 block of Northwest 172nd Terrace,1,0,N/A,Accidental,Teen
+21-Feb-16,Florida,Fountain,11601 Nonawood Road,1,0,N/A,Accidental,Teen
+21-Feb-16,Mississippi,Philadelphia,Highway 16 West Pearl River Resort - Choctaw,1,0,N/A,Accidental,Teen
+20-Feb-16,Ohio,Cleveland,N/A,1,0,N/A,Accidental,Teen
+19-Feb-16,Louisiana,Baton Rouge,2138 Tennessee Street,1,0,N/A,Accidental,Teen
+18-Feb-16,Louisiana,Baton Rouge,3811 Bradley Street,1,0,N/A,Accidental,Teen
+13-Feb-16,Nevada,Las Vegas,Buffalo and Vegas Drive,1,0,N/A,Accidental,Teen
+11-Feb-16,Georgia,Lawrenceville,1600 block of Balvaird Drive,1,0,N/A,Accidental,Teen
+11-Feb-16,New York,Brooklyn,703 Miller Avenue,1,0,N/A,Accidental,Teen
+08-Feb-16,Florida,Orlando,4700 block of Spottswood Drive,1,0,N/A,Accidental,Teen
+30-Jan-16,Georgia,Atlanta,Meadowglen Village Lane,1,0,N/A,Accidental,Teen
+25-Jan-16,Texas,Baytown,4100 block of Tumbleweed,2,0,N/A,Accidental,Teen
+25-Jan-16,Kentucky,White Plains,Farmers Crossing Road,1,0,N/A,Accidental,Teen
+22-Jan-16,Florida,Delray Beach (West Delray Beach),8000 block of Sawpine Drive,1,0,N/A,Accidental,Teen
+20-Jan-16,Indiana,Charlestown,Sycamore Drive and Cottonwood Lane,1,0,N/A,Accidental,Teen
+17-Jan-16,Missouri,Saint Louis (St Louis),5300 block of Patton Ave,1,0,N/A,Accidental,Teen
+16-Jan-16,Louisiana,Baton Rouge,1915 Birch Street,1,0,N/A,Accidental,Teen
+16-Jan-16,Texas,Houston,5203 Dumfries Drive,1,0,N/A,Accidental,Teen
+14-Jan-16,Pennsylvania,Hummelstown,200 block of West Main Street,1,0,N/A,Accidental,Teen
+12-Jan-16,Ohio,Cincinnati,1200 block of Blanchard Avenue,1,0,N/A,Accidental,Teen
+11-Jan-16,Pennsylvania,Duncannon,11D Rebecca Drive,1,1,N/A,Accidental,Teen
+09-Jan-16,Alabama,Auburn,400 block of Webster Road,1,0,N/A,Accidental,Teen
+09-Jan-16,Alabama,Mobile,2100 block of Agate Avenue,1,0,N/A,Accidental,Teen
+04-Jan-16,Tennessee,Memphis,1400 block of Briercrest Lane,2,1,N/A,Accidental,Teen
+31-Dec-15,Mississippi,Rolling Fork,68 Frontage Road,1,0,N/A,Accidental,Teen
+30-Dec-15,Georgia,Lithonia,4500 block of Idlewood Park,1,0,N/A,Accidental,Teen
+24-Dec-15,Tennessee,Nashville,400 block of Wilclay Drive,1,0,N/A,Accidental,Teen
+22-Dec-15,Wisconsin,Beloit,212 8th Street,1,0,N/A,Accidental,Teen
+21-Dec-15,Pennsylvania,Pittsburgh,200-block of Mathilda Street,3,0,N/A,Accidental,Teen
+21-Dec-15,Missouri,Poplar Bluff,500 section of County Road 42222,1,0,N/A,Accidental,Teen
+19-Dec-15,Louisiana,Thibodaux,117 Violet St,1,0,N/A,Accidental,Teen
+19-Dec-15,Mississippi,Magee,N/A,1,0,N/A,Accidental,Teen
+18-Dec-15,Louisiana,Patterson,Grandwood Drive,1,0,N/A,Accidental,Teen
+13-Dec-15,Mississippi,Natchez,Mount Carmel Road,1,0,N/A,Accidental,Teen
+13-Dec-15,Missouri,Kansas City,Interstate 435 and Winner Road,1,0,N/A,Accidental,Teen
+12-Dec-15,Florida,Tampa,4611 E Whiteway Drive,1,0,N/A,Accidental,Teen
+10-Dec-15,Texas,Universal City,300 block of Madrid,1,0,N/A,Accidental,Teen
+05-Dec-15,Colorado,Englewood,South Santa Fe Drive,1,0,N/A,Accidental,Teen
+04-Dec-15,Louisiana,Baton Rouge,2323 Spain St,1,0,N/A,Accidental,Teen
+03-Dec-15,Texas,Webb (county),Farm to Market 2050 Rd,1,0,N/A,Accidental,Teen
+29-Nov-15,Minnesota,Itasca (county),E. Natures Trail,1,0,N/A,Accidental,Teen
+28-Nov-15,Arkansas,Jonesboro,710 N. Caraway Road,1,0,N/A,Accidental,Teen
+27-Nov-15,Florida,West Palm Beach,1601 W 37th St,1,0,N/A,Accidental,Teen
+24-Nov-15,Ohio,Toledo,100 block of East Carleton,0,2,N/A,Accidental,Teen
+19-Nov-15,Virginia,Bohannon,The Long Ln and Myrtle Grove Ln,1,0,N/A,Accidental,Teen
+19-Nov-15,Louisiana,Saint Gabriel (Iberville),Stassi Rd.,1,0,N/A,Accidental,Teen
+15-Nov-15,Pennsylvania,York,200 block of North Richland Avenue,1,0,N/A,Accidental,Teen
+14-Nov-15,Arkansas,Lockesburg,376 Arkansas 24,1,0,N/A,Accidental,Teen
+12-Nov-15,New York,Bronx,363 East 171st Street,1,0,N/A,Accidental,Teen
+07-Nov-15,California,Los Angeles,3500 block of Cesar Chavez Avenue,1,0,N/A,Accidental,Teen
+23-Oct-15,Louisiana,Alexandria,N/A,1,0,N/A,Accidental,Teen
+18-Oct-15,Illinois,Effingham,3200 block of South Banker Street,1,0,N/A,Accidental,Teen
+17-Oct-15,Ohio,Pandora,13915 Road 3,1,0,N/A,Accidental,Teen
+17-Oct-15,Idaho,Meridian,2300 block of E. Franklin Road,1,0,N/A,Accidental,Teen
+15-Oct-15,South Carolina,Anderson,Dalrymple Road,1,0,N/A,Accidental,Teen
+15-Oct-15,Nevada,Las Vegas,3300 Bridge House Street,1,0,N/A,Accidental,Teen
+13-Oct-15,Louisiana,Baton Rouge,Hooper Road,1,0,N/A,Accidental,Teen
+10-Oct-15,Maryland,Henderson,Ell Downes Road,1,0,N/A,Accidental,Teen
+05-Oct-15,Georgia,Union City,4300 Flat Shoals Road,1,0,N/A,Accidental,Teen
+04-Oct-15,California,Exeter,Horse Meadow,1,0,N/A,Accidental,Teen
+03-Oct-15,Michigan,Detroit,14000 block of Steel Street,1,0,N/A,Accidental,Teen
+02-Oct-15,Ohio,Carrollton,8400 block of Bay Road,1,0,N/A,Accidental,Teen
+02-Oct-15,Florida,Jacksonville,Bullfinch Court,1,0,N/A,Accidental,Teen
+26-Sep-15,Indiana,Evansville,500 block of S. Linwood,1,0,N/A,Accidental,Teen
+23-Sep-15,Texas,San Antonio,1700 block of South Hamilton Street,1,0,N/A,Accidental,Teen
+13-Sep-15,Colorado,Cedaredge (Grand Mesa),N/A,1,0,N/A,Accidental,Teen
+12-Sep-15,Georgia,Forsyth,175 Rumble Road,1,0,N/A,Accidental,Teen
+11-Sep-15,Kansas,Fort Riley,N/A,1,0,N/A,Accidental,Teen
+24-Aug-15,Arizona,Buckeye,N/A,1,0,N/A,Accidental,Teen
+24-Aug-15,Georgia,Ringgold,385 Edgemond Circle,1,0,N/A,Accidental,Teen
+20-Aug-15,Georgia,Thomaston,105 Third St,1,0,N/A,Accidental,Teen
+20-Aug-15,Texas,Fort Worth (Benbrook),5600 block of Shallow Run,1,0,N/A,Accidental,Teen
+20-Aug-15,South Carolina,Charleston,7400 block of Northside Drive,1,0,N/A,Accidental,Teen
+13-Aug-15,Florida,Hollywood,5321 NW 27th Place,1,0,N/A,Accidental,Teen
+12-Aug-15,Illinois,Chicago,700 block of North Homan,1,0,N/A,Accidental,Teen
+10-Aug-15,Kentucky,Catlettsburg,600 block of 28th Street,1,0,N/A,Accidental,Teen
+09-Aug-15,Florida,Pomona Park,110 Pine Ave,1,0,N/A,Accidental,Teen
+06-Aug-15,Pennsylvania,Smicksburg,381 Whitaker Rd,1,0,N/A,Accidental,Teen
+06-Aug-15,Pennsylvania,Smicksburg,Whitaker Road,1,0,N/A,Accidental,Teen
+05-Aug-15,Tennessee,Springfield,Clinard Road,1,0,N/A,Accidental,Teen
+30-Jul-15,Kentucky,Louisville,9700 block of Hudson Lane,1,0,N/A,Accidental,Teen
+30-Jul-15,Florida,Fort Lauderdale (Cooper City),10000 41st Street,1,0,N/A,Accidental,Teen
+27-Jul-15,Colorado,Pueblo,2100 block of E. 14th Street,1,0,N/A,Accidental,Teen
+26-Jul-15,North Carolina,Catawba (county),2800 block of Rocky Ford Road,1,0,N/A,Accidental,Teen
+20-Jul-15,Wisconsin,Cassville,11129 Saint Charles Rd,1,0,N/A,Accidental,Teen
+20-Jul-15,Texas,Fresno,1000 block of Cove Crest Trail,1,0,N/A,Accidental,Teen
+16-Jul-15,Texas,San Antonio,5400 block of War Cloud Drive,1,0,N/A,Accidental,Teen
+15-Jul-15,Ohio,Salem,6746 Salem Township Highway 103,1,0,N/A,Accidental,Teen
+12-Jul-15,Connecticut,Berlin,65 Division Street,1,0,N/A,Accidental,Teen
+26-Jun-15,Massachusetts,Billerica,300 block of Andover Road,1,0,N/A,Accidental,Teen
+22-Jun-15,Arkansas,Blytheville,700-block of East McHaney Drive,1,0,N/A,Accidental,Teen
+12-Jun-15,Illinois,Chicago,4700 block of West Addison Street,1,0,N/A,Accidental,Teen
+03-Jun-15,Ohio,Hamilton,700 block of Fairview Avenue,1,0,N/A,Accidental,Teen
+23-May-15,Arkansas,Pine Bluff,1400 block of Cherry Street,1,0,N/A,Accidental,Teen
+22-May-15,Michigan,Kalamazoo,700 block of Dwight Street,1,0,N/A,Accidental,Teen
+16-May-15,California,Perris,140 block of Metz Road,1,0,N/A,Accidental,Teen
+11-May-15,Washington,Tacoma,9210 South Hosmer Street,1,0,N/A,Accidental,Teen
+10-May-15,Ohio,Leavittsburg,205 Ruth Ave,1,0,N/A,Accidental,Teen
+03-May-15,Minnesota,Minneapolis,4100 block of Fremont Avenue North,1,0,N/A,Accidental,Teen
+01-May-15,California,Klamath,100 block of Klamath Boulevard,1,0,N/A,Accidental,Teen
+29-Apr-15,Georgia,Augusta,1200 block of Holden Drive,1,0,N/A,Accidental,Teen
+19-Apr-15,California,Victorville,14400 block of Moon Valley Street,1,0,N/A,Accidental,Teen
+14-Apr-15,Ohio,Neffs,Pike Street,1,0,N/A,Accidental,Teen
+10-Apr-15,Florida,Key West,2800 block of  Venetian Drive,1,0,N/A,Accidental,Teen
+10-Apr-15,Texas,Houston,11290 Fondren,1,0,N/A,Accidental,Teen
+29-Mar-15,North Carolina,Anson County,Jim Hanna Lane,1,0,N/A,Accidental,Teen
+17-Mar-15,Washington,Grandview,200 block of Avenue E,1,0,N/A,Accidental,Teen
+17-Mar-15,Oklahoma,Comanche,Highway 81,1,0,N/A,Accidental,Teen
+13-Mar-15,Idaho,Caldwell,1600 block of East Cleveland Boulevard,1,0,N/A,Accidental,Teen
+07-Mar-15,Wisconsin,Glen Flora,N7283 County Road B W,1,0,N/A,Accidental,Teen
+06-Mar-15,Tennessee,Nashville,3024 Gwynwood Drive,1,0,N/A,Accidental,Teen
+05-Mar-15,Pennsylvania,Philadelphia,2124 E Susquehanna Ave,1,0,N/A,Accidental,Teen
+26-Feb-15,Texas,Garland,3900 block of Plymouth Drive,1,0,N/A,Accidental,Teen
+24-Feb-15,Iowa,Vinton,1207 W. 4th Street,1,0,N/A,Accidental,Teen
+21-Feb-15,South Dakota,Aberdeen,38312 124th St,1,0,N/A,Accidental,Teen
+21-Feb-15,Louisiana,Baton Rouge,2014 Tennessee Street,1,0,N/A,Accidental,Teen
+07-Feb-15,Texas,Dallas,5900 block of Highland Village Dr.,1,0,N/A,Accidental,Teen
+03-Feb-15,Tennessee,Deer Lodge,Perkins Trail,1,0,N/A,Accidental,Teen
+27-Jan-15,Michigan,Detroit,15800 block of Lappin Street,1,0,N/A,Accidental,Teen
+26-Jan-15,Florida,Merritt Island,1014 Floral Lane,1,0,N/A,Accidental,Teen
+25-Jan-15,Minnesota,Eagan,1794 Silver Bell Circle,1,0,N/A,Accidental,Teen
+18-Jan-15,Georgia,Baconton,N/A,1,0,N/A,Accidental,Teen
+17-Jan-15,North Carolina,Hot Springs,1180 Grassy Creek Road,1,0,N/A,Accidental,Teen
+17-Jan-15,Louisiana,Baton Rouge,5800 block of South Sunset Hill Avenue,1,0,N/A,Accidental,Teen
+15-Jan-15,Alabama,Irvington,Magnolia Road,1,0,N/A,Accidental,Teen
+01-Jan-15,Idaho,Idaho Falls,900 block of South Emerson,1,0,N/A,Accidental,Teen
+30-Dec-14,Florida,West Palm Beach,2300 Caroma Lane,1,0,N/A,Accidental,Teen
+29-Dec-14,Michigan,Detroit,11200 block of Roxbury St,1,0,N/A,Accidental,Teen
+29-Dec-14,Michigan,Detroit,11200 block of Roxbury Street,1,0,N/A,Accidental,Teen
+28-Dec-14,Mississippi,Tylertown,Kirklin Road,1,0,N/A,Accidental,Teen
+27-Dec-14,Iowa,Traer,Ridge Road,1,0,N/A,Accidental,Teen
+26-Dec-14,West Virginia,Cameron,North Avenue,1,1,N/A,Accidental,Teen
+25-Dec-14,Kentucky,Frankfort,Taylor Avenue,1,0,N/A,Accidental,Teen
+21-Dec-14,Nevada,Las Vegas,3600 block of Elegant Saint Court,1,0,N/A,Accidental,Teen
+14-Dec-14,Wisconsin,Pierce County,Maiden Rock,1,0,N/A,Accidental,Teen
+11-Dec-14,Illinois,Lynwood,2700 block of Lake Park Drive,1,0,N/A,Accidental,Teen
+07-Dec-14,South Carolina,Greenville,Echols Drive,1,0,N/A,Accidental,Teen
+06-Dec-14,Michigan,Jackson County,500 block of Big Rock Street,1,0,N/A,Accidental,Teen
+04-Dec-14,Georgia,Savannah,600 block of W. 54th Street,1,0,N/A,Accidental,Teen
+04-Dec-14,Indiana,Kokomo,4500 block of West 1300 South Galveston,1,0,N/A,Accidental,Teen
+04-Dec-14,Texas,Arlington,1200 block of Golden View Court,1,0,N/A,Accidental,Teen
+01-Dec-14,Colorado,Yuma,S. Albany Street,1,0,N/A,Accidental,Teen
+29-Nov-14,South Carolina,Myrtle Beach,10177 N Kings Hwy,1,0,N/A,Accidental,Teen
+28-Nov-14,Texas,Childress,N/A,1,0,N/A,Accidental,Teen
+24-Nov-14,Texas,Atlanta,400 block of East Thomas Street,1,0,N/A,Accidental,Teen
+23-Nov-14,Utah,Kaysville,1200 Cooper Street,1,0,N/A,Accidental,Teen
+19-Nov-14,New Mexico,Albuquerque,Central and 57th Street,1,0,N/A,Accidental,Teen
+16-Nov-14,Colorado,Clifton,3200 block of E Rood Circle,1,0,N/A,Accidental,Teen
+13-Nov-14,Minnesota,Wadena,39573 615th Ave,1,0,N/A,Accidental,Teen
+08-Nov-14,North Dakota,Butte,ND 53,1,0,N/A,Accidental,Teen
+07-Nov-14,Michigan,Lansing,Ada Street,1,0,N/A,Accidental,Teen
+01-Nov-14,Georgia,Tifton,Tift Avenue North,1,0,N/A,Accidental,Teen
+29-Oct-14,Florida,Belleview,121st Place,1,0,N/A,Accidental,Teen
+26-Oct-14,Indiana,Evansville,2900 block of Fulton Avenue,1,0,N/A,Accidental,Teen
+19-Oct-14,Texas,Corpus Christi,3800 block of Reynosa Street,1,0,N/A,Accidental,Teen
+17-Oct-14,North Carolina,Catawba,Hudson Chapel Road,1,0,N/A,Accidental,Teen
+17-Oct-14,New York,Medina,5000 block of Salt Works Rd,1,0,N/A,Accidental,Teen
+01-Oct-14,South Carolina,Lexington,Armwood Court,1,0,N/A,Accidental,Teen
+26-Sep-14,Texas,Houston,Force and Crown,1,0,N/A,Accidental,Teen
+25-Sep-14,Wisconsin,Poynette,W10511 Tipperary Rd,1,0,N/A,Accidental,Teen
+21-Sep-14,Michigan,Drummond Island (Drummond),Glen Cove Rd,1,0,N/A,Accidental,Teen
+20-Sep-14,Tennessee,Cordova,9700 block of Woodland Edge Lane,1,0,N/A,Accidental,Teen
+11-Sep-14,Louisiana,Alexandria,600 block of Richmond Drive,1,0,N/A,Accidental,Teen
+18-Aug-14,Kentucky,Brooksville,Belmont Road,1,0,N/A,Accidental,Teen
+16-Aug-14,Oklahoma,Mcalester (Bache),2701 N Spruce,1,0,N/A,Accidental,Teen
+14-Aug-14,Texas,San Antonio,4600 East Houston St.,1,0,N/A,Accidental,Teen
+14-Aug-14,Oklahoma,Midwest City,200 block of N. Shadybrook Dr.,1,0,N/A,Accidental,Teen
+05-Aug-14,Connecticut,Killingly,Kenneth Drive,1,0,N/A,Accidental,Teen
+05-Aug-14,Georgia,Macon,308 Bobby Jones Street,1,0,N/A,Accidental,Teen
+03-Aug-14,Florida,Homestead (Florida City),425 NW 13th Street,1,0,N/A,Accidental,Teen
+03-Aug-14,Michigan,Wyoming,28th Street SW,1,0,N/A,Accidental,Teen
+02-Aug-14,Florida,Palm Beach Gardens,Pinella Circle,1,0,N/A,Accidental,Teen
+05-Jul-14,Texas,Houston,11400 block of Panay,1,0,N/A,Accidental,Teen
+03-Jul-14,Texas,Dallas,N/A,1,0,N/A,Accidental,Teen
+02-Jul-14,Arizona,Phoenix,363rd and Durango,1,0,N/A,Accidental,Teen
+30-Jun-14,Texas,Houston,6301 Ranchester,1,0,N/A,Accidental,Teen
+29-Jun-14,Ohio,Cincinnati,5500 block of Marie Avenue,1,0,N/A,Accidental,Teen
+24-Jun-14,Washington,Shelton (Skokomish),100 block of N Twana Ct,1,0,N/A,Accidental,Teen
+22-Jun-14,Texas,Austin,4500 Lareina Dr.,1,0,N/A,Accidental,Teen
+16-Jun-14,California,Santa Cruz,238 Center St,1,0,N/A,Accidental,Teen
+11-Jun-14,Florida,Miami,1400 block of Northwest 3rd Street,1,0,N/A,Accidental,Teen
+10-Jun-14,Louisiana,Baton Rouge,N. 48thStreet,1,0,N/A,Accidental,Teen
+05-Jun-14,Louisiana,Larose,100 block of East 23rd Street,1,0,N/A,Accidental,Teen
+05-Jun-14,Utah,Salt Lake City (Cottonwood Heights),6825 S. Pinerock Drive,1,0,N/A,Accidental,Teen
+03-Jun-14,Ohio,Columbus,1100 block of Oaks Boulevard,1,0,N/A,Accidental,Teen
+22-May-14,Georgia,Madison County,Broad River,1,0,N/A,Accidental,Teen
+28-Apr-14,North Carolina,Durham,Macon Street and Washington ,1,0,N/A,Accidental,Teen
+04-Apr-14,Georgia,Waycross, 4900 Jana Lane,1,0,N/A,Accidental,Teen
+04-Apr-14,Georgia,Savannah,1400 Church Street ,1,0,N/A,Accidental,Teen
+03-Apr-14,Oklahoma,Bokoshe,Buck Creek Road,1,0,N/A,Accidental,Teen
+22-Mar-14,Pennsylvania,Pittsburgh,Zara Street,1,0,N/A,Accidental,Teen
+19-Mar-14,Louisiana,New Orleans,3600 block of Kimi O'Gray Avenue,1,0,N/A,Accidental,Teen
+13-Mar-14,Texas,Emory,County Road 2130,1,0,N/A,Accidental,Teen
+11-Mar-14,Indiana,Greensburg,1000 block of North Carver Street,1,0,N/A,Accidental,Teen
+01-Mar-14,Illinois,Rock Falls,28615 Rock Ridge Dr,1,0,N/A,Accidental,Teen
+01-Mar-14,Texas,Houston,12800 block of Gotham,1,0,N/A,Accidental,Teen
+28-Feb-14,Louisiana,Shreveport,3100 block of Woodford Street,1,0,N/A,Accidental,Teen
+25-Feb-14,Tennessee,Memphis,600 block of Hillcrest Street,1,0,N/A,Accidental,Teen
+22-Feb-14,Tennessee,Memphis,Weaver Road and Canary Lane,1,0,N/A,Accidental,Teen
+15-Feb-14,Georgia,Cartersville (Euharlee),937 Euharlee Rd SW,1,0,N/A,Accidental,Teen
+11-Feb-14,Wisconsin,Boscobel,43105 Whippoorwill Ln,1,0,N/A,Accidental,Teen
+09-Feb-14,South Carolina,Eutawville,Yearling Drive,1,0,N/A,Accidental,Teen
+07-Feb-14,Massachusetts,Boston,617 Morton St.,1,0,N/A,Accidental,Teen
+06-Feb-14,Washington,Puyallup,500 block of 11th Street,1,0,N/A,Accidental,Teen
+28-Jan-14,Tennessee,Hermitage,345 Burning Tree Dr,1,0,N/A,Accidental,Teen
+25-Jan-14,Texas,Kilgore,1100 block of highway 31,1,0,N/A,Accidental,Teen
+20-Jan-14,Alabama,Decatur,3100 block of Cotton Place,1,0,N/A,Accidental,Teen
+02-Jan-14,Pennsylvania,Dunbar,200 block of Hustosky Road,1,0,N/A,Accidental,Teen
+01-Jan-14,Mississippi,Bogue Chitto,1347 Brumfield Rd SW,1,0,N/A,Accidental,Teen
+19-Nov-16,Illinois,Pembroke Township,13500E block of 2000S Road,0,1,N/A,Accidental,Teen
+15-Nov-16,Michigan,Alcona (county),N/A,0,1,N/A,Accidental,Teen
+13-Nov-16,Oregon,Lebanon,36400 block of Gore Drive,0,1,N/A,Accidental,Teen
+13-Nov-16,Indiana,Vevay,Ashland Cove Road,0,1,N/A,Accidental,Teen
+13-Nov-16,New Jersey,Paterson,Fair Street,0,1,N/A,Accidental,Teen
+12-Nov-16,Michigan,Grand Rapids,Griggs Street,0,1,N/A,Accidental,Teen
+11-Nov-16,Wisconsin,Oconto (county),N/A,0,1,N/A,Accidental,Teen
+06-Nov-16,Indiana,Posey (county),River Road,0,2,N/A,Accidental,Teen
+05-Nov-16,Georgia,Jonesboro,10000 block of Fitzgerald Road,0,1,N/A,Accidental,Teen
+05-Nov-16,Arizona,Phoenix,55th Avenue and Clarendon,0,1,N/A,Accidental,Teen
+03-Nov-16,Maine,Springfield,N/A,0,1,N/A,Accidental,Teen
+31-Oct-16,Pennsylvania,Lebanon,302 E Weidman Street,0,1,N/A,Accidental,Teen
+30-Oct-16,Louisiana,Plain Dealing,N/A,0,1,N/A,Accidental,Teen
+28-Oct-16,West Virginia,Hedgesville,Durham Drive,0,1,N/A,Accidental,Teen
+26-Oct-16,Ohio,Zanesville,507 Imlay Avenue,0,1,N/A,Accidental,Teen
+26-Oct-16,Florida,Pinellas Park,7600 block of 62nd Way,0,1,N/A,Accidental,Teen
+22-Oct-16,Maine,New Sharon,236 Starks Road,0,1,N/A,Accidental,Teen
+22-Oct-16,Ohio,Cleveland,East 131st,0,2,N/A,Accidental,Teen
+17-Oct-16,Indiana,Elkhart,311 East Carlton Avenue,0,2,N/A,Accidental,Teen
+16-Oct-16,Kansas,Cowley (county),22000 block of 12th Road,0,1,N/A,Accidental,Teen
+16-Oct-16,North Dakota,Abercrombie,N/A,0,1,N/A,Accidental,Teen
+14-Oct-16,Illinois,Freeport,1100 block of South State Ave,0,1,N/A,Accidental,Teen
+12-Oct-16,Kentucky,Louisville,5600 block of Rustic Way,0,1,N/A,Accidental,Teen
+12-Oct-16,Arizona,Peoria,7522 W Deer Valley Rd,0,2,N/A,Accidental,Teen
+11-Oct-16,Illinois,Chicago,2800 block of South Central Park,0,1,N/A,Accidental,Teen
+05-Oct-16,North Dakota,Enderlin,N/A,0,1,N/A,Accidental,Teen
+04-Oct-16,Tennessee,Nashville,1400 block of 16th Avenue North,0,1,N/A,Accidental,Teen
+04-Oct-16,Florida,Immokalee,300 block of South Seventh Street,0,1,N/A,Accidental,Teen
+02-Oct-16,Tennessee,Memphis,3400 block of Dupre Street,0,1,N/A,Accidental,Teen
+02-Oct-16,Pennsylvania,Indiana,Airport Road,0,1,N/A,Accidental,Teen
+01-Oct-16,Ohio,Lima,4251 Reservoir Road,0,1,N/A,Accidental,Teen
+26-Sep-16,Kentucky,Lexington,3500 block of Gunbow Court,0,1,N/A,Accidental,Teen
+26-Sep-16,Georgia,Norcross,1400 block of Wingfoot Way,0,1,N/A,Accidental,Teen
+25-Sep-16,Tennessee,Nashville (Donelson),209 Blue Hills Drive,0,1,N/A,Accidental,Teen
+24-Sep-16,Utah,Sandy,9575 S State St,0,2,N/A,Accidental,Teen
+20-Sep-16,North Carolina,Wilmington,15th and Castle Streets,0,1,N/A,Accidental,Teen
+16-Sep-16,Texas,Harris (county),N/A,0,1,N/A,Accidental,Teen
+16-Sep-16,Georgia,Morgan (county),Hawkins Avenue,0,1,N/A,Accidental,Teen
+15-Sep-16,Wisconsin,Milwaukee,7878 N 60th Street,0,1,N/A,Accidental,Teen
+15-Sep-16,California,Fresno,2500 block of Fairmont,0,1,N/A,Accidental,Teen
+08-Sep-16,Texas,Alpine,704 West Sul Ross Avenue,1,2,N/A,Accidental,Teen
+08-Sep-16,Tennessee,Nashville,Wildgrove Court,0,1,N/A,Accidental,Teen
+05-Sep-16,Kentucky,Lexington,Augusta Drive,0,1,N/A,Accidental,Teen
+30-Aug-16,Illinois,Chicago (Englewood),600 block of West 61st Place,0,1,N/A,Accidental,Teen
+30-Aug-16,Kentucky,Lexington,175 North Locust Hill Dr,0,1,N/A,Accidental,Teen
+29-Aug-16,Pennsylvania,Philadelphia,2100 block of South Etting Terr,0,2,N/A,Accidental,Teen
+28-Aug-16,Kansas,Hutchinson,300 block of East 11th Ave,0,1,N/A,Accidental,Teen
+28-Aug-16,Georgia,Savannah,1400 block of New Jersey St,0,1,N/A,Accidental,Teen
+19-Aug-16,Michigan,Detroit,Glastonbury Ave,0,1,N/A,Accidental,Teen
+15-Aug-16,Indiana,Michigan City,1107 Wabash St,0,1,N/A,Accidental,Teen
+14-Aug-16,Pennsylvania,Erie,200 block of W 20th St,0,1,N/A,Accidental,Teen
+12-Aug-16,Washington,Lake Stevens,13600 block of 12th Street Northeast,0,1,N/A,Accidental,Teen
+09-Aug-16,Pennsylvania,Harrisburg,2600 Woodlawn Street,0,1,N/A,Accidental,Teen
+07-Aug-16,Virginia,Portsmouth,100 block of Carol Lane,0,1,N/A,Accidental,Teen
+07-Aug-16,Texas,Texarkana,300 block of Breckenridge Street,0,1,N/A,Accidental,Teen
+04-Aug-16,Indiana,Terre Haute,N/A,0,1,N/A,Accidental,Teen
+02-Aug-16,South Carolina,Coward,4312 Circle Drive,1,1,N/A,Accidental,Teen
+31-Jul-16,Michigan,Jackson,300 block of Moorman Drive,0,1,N/A,Accidental,Teen
+27-Jul-16,Texas,Fort Worth,3600 block of Hulen Park Circle,0,1,N/A,Accidental,Teen
+24-Jul-16,North Carolina,Rocky Mount,400 block of Ambler Avenue,0,1,N/A,Accidental,Teen
+21-Jul-16,Florida,Saint Petersburg,600 block of 44th Street South,0,1,N/A,Accidental,Teen
+20-Jul-16,Michigan,Kalamazoo,2100 block of Sunnyside Drive,0,1,N/A,Accidental,Teen
+15-Jul-16,Washington,Seattle,3400 block of 34 Ave S.,0,1,N/A,Accidental,Teen
+14-Jul-16,Michigan,Eastpointe,22385 Hayes Avenue,0,2,N/A,Accidental,Teen
+14-Jul-16,Colorado,Denver (Edgewater),N/A,0,1,N/A,Accidental,Teen
+14-Jul-16,Kentucky,Lexington,Lindberg Drive,0,1,N/A,Accidental,Teen
+13-Jul-16,Kentucky,Louisville,3000 block of University Road,0,1,N/A,Accidental,Teen
+11-Jul-16,Alabama,Birmingham,1700 block of 28th Street Ensley,0,1,N/A,Accidental,Teen
+11-Jul-16,Nebraska,Omaha,4700 block of Fowler Avenue,0,1,N/A,Accidental,Teen
+07-Jul-16,New York,Niagara Falls,22nd Street and Forest Avenue,0,1,N/A,Accidental,Teen
+06-Jul-16,Florida,Saint Johns (Fruit Cove),1300 block of Lemonwood Road,0,1,N/A,Accidental,Teen
+06-Jul-16,New Jersey,Jersey City,Arlington Avenue,0,1,N/A,Accidental,Teen
+06-Jul-16,Ohio,Beachwood (Highland Hills),4053 Warrensville Center Rd,0,1,N/A,Accidental,Teen
+06-Jul-16,Pennsylvania,Philadelphia,Bloyd Street,0,1,N/A,Accidental,Teen
+04-Jul-16,Missouri,Kansas City,2000 block of Benton,0,1,N/A,Accidental,Teen
+04-Jul-16,New York,Buffalo,200 block of Dartmouth Avenue,0,1,N/A,Accidental,Teen
+02-Jul-16,Texas,Waco,3100 block of MacArthur Drive,0,1,N/A,Accidental,Teen
+30-Jun-16,Florida,Ocala,2432 Southwest 3rd Avenue,0,1,N/A,Accidental,Teen
+25-Jun-16,Iowa,Des Moines,400 block of Orchard Avenue,0,1,N/A,Accidental,Teen
+22-Jun-16,Louisiana,Metairie,900 block of Zinnia Avenue,0,1,N/A,Accidental,Teen
+18-Jun-16,Utah,Logan,N/A,0,1,N/A,Accidental,Teen
+16-Jun-16,North Carolina,Winston Salem (Winston-salem),600 Peters Creek Parkway,0,1,N/A,Accidental,Teen
+16-Jun-16,Ohio,Columbus,2200 block of Cleveland Avenue,0,1,N/A,Accidental,Teen
+14-Jun-16,Delaware,Felton,Unit block of Weatherstone Lane,0,1,N/A,Accidental,Teen
+11-Jun-16,Louisiana,Shreveport,7008 Pines Rd,0,1,N/A,Accidental,Teen
+09-Jun-16,South Dakota,Frederick,N/A,0,1,N/A,Accidental,Teen
+08-Jun-16,Florida,Apopka,Warren Sapp Drive and Monk Avenue,0,1,N/A,Accidental,Teen
+07-Jun-16,Ohio,Berlin Heights,7900 block of State Route 61 Ceylon Road,0,1,N/A,Accidental,Teen
+03-Jun-16,Maryland,Baltimore,2301 Gwynns Falls Pkwy,0,1,N/A,Accidental,Teen
+02-Jun-16,Delaware,Wilmington,700 block of S. Van Buren St,0,1,N/A,Accidental,Teen
+01-Jun-16,Florida,Pembroke Pines,8200 block of Northwest 10th Street,0,1,N/A,Accidental,Teen
+29-May-16,New Jersey,Jersey City,West Side Avenue,0,1,N/A,Accidental,Teen
+28-May-16,Kentucky,Olmstead,Olmstead Road,0,1,N/A,Accidental,Teen
+28-May-16,Ohio,Columbus,East 21st Avenue and Lexington,0,2,N/A,Accidental,Teen
+27-May-16,Ohio,Columbus,900 block of East 21st Avenue,0,2,N/A,Accidental,Teen
+25-May-16,Kentucky,Hickory,1434 Hickory Rd,0,1,N/A,Accidental,Teen
+25-May-16,Georgia,Atlanta,Cleveland Avenue and Old Hapeville Road,0,2,N/A,Accidental,Teen
+24-May-16,South Carolina,Bennettsville,Mill Street,0,1,N/A,Accidental,Teen
+20-May-16,Michigan,Sanilac (county),200 block of Ridge Road,0,1,N/A,Accidental,Teen
+19-May-16,Illinois,Chicago,1000 block of West 103rd Place,0,1,N/A,Accidental,Teen
+19-May-16,Michigan,Bay City,606 North Lincoln Street,0,1,N/A,Accidental,Teen
+18-May-16,South Dakota,Sioux Falls,2600 block of South Duluth Avenue,0,1,N/A,Accidental,Teen
+14-May-16,Indiana,Sharpsville,N/A,0,1,N/A,Accidental,Teen
+13-May-16,Tennessee,Memphis,900 block of North Hollywood St.,0,1,N/A,Accidental,Teen
+13-May-16,South Carolina,Greenville,6630 Frontage Road,0,1,N/A,Accidental,Teen
+12-May-16,Tennessee,Memphis,877 Jefferson Street,0,1,N/A,Accidental,Teen
+12-May-16,Ohio,Cleveland (University Heights),Baintree Rd,0,1,N/A,Accidental,Teen
+07-May-16,Mississippi,Jackson,6100 block of Brown Street,0,1,N/A,Accidental,Teen
+04-May-16,Vermont,Waitsfield,Elkhorn Road,0,1,N/A,Accidental,Teen
+02-May-16,Texas,Dallas,3606 South Westmoreland Road,0,1,N/A,Accidental,Teen
+01-May-16,Vermont,Moretown,River Rd,0,1,N/A,Accidental,Teen
+30-Apr-16,Tennessee,Memphis,800 block of South Graham Street,0,1,N/A,Accidental,Teen
+29-Apr-16,Washington,Lakewood,9330 59th Ave. SE,0,1,N/A,Accidental,Teen
+29-Apr-16,South Carolina,Bluffton,N/A,0,1,N/A,Accidental,Teen
+26-Apr-16,Ohio,Columbus,Skywae Drive,0,1,N/A,Accidental,Teen
+25-Apr-16,Indiana,Georgetown,6200 block of State Road 62,0,1,N/A,Accidental,Teen
+24-Apr-16,Texas,Lubbock,1900 block of 46th Street,0,1,N/A,Accidental,Teen
+24-Apr-16,Indiana,Georgetown,6200 block of State Road 62,0,1,N/A,Accidental,Teen
+23-Apr-16,Louisiana,New Orleans,7600 block of Downman Road,0,1,N/A,Accidental,Teen
+22-Apr-16,Illinois,Chicago,6900 block of South Paxton Avenue,0,1,N/A,Accidental,Teen
+21-Apr-16,Florida,Saint Augustine (St Augustine),22 Spring Street,0,1,N/A,Accidental,Teen
+20-Apr-16,California,West Point,1100 block of Bald Mountain Rd,1,0,N/A,Accidental,Teen
+20-Apr-16,New Jersey,Passaic,Gregory Avenue and Madison Street,0,1,N/A,Accidental,Teen
+16-Apr-16,Texas,Spring,Roth Forest Lane,0,1,N/A,Accidental,Teen
+15-Apr-16,Mississippi,Jackson,Hillside Drive,0,1,N/A,Accidental,Teen
+13-Apr-16,Kansas,Wichita,N/A,0,2,N/A,Accidental,Teen
+13-Apr-16,Texas,Burnet (county),1200 block of County Road 304,0,1,N/A,Accidental,Teen
+12-Apr-16,Indiana,Gary,400 block of West 45th Avenue,0,1,N/A,Accidental,Teen
+11-Apr-16,Pennsylvania,Harrisburg (Steelton),1800 block of South 19th Street,0,1,N/A,Accidental,Teen
+10-Apr-16,Arkansas,Hot Springs National Park (Hot Springs),Hillsdale Terrace,0,1,N/A,Accidental,Teen
+10-Apr-16,Colorado,Weld (county),29000 block of Weld County Road 20,0,1,N/A,Accidental,Teen
+10-Apr-16,California,San Diego,5700 block of Elk Street,0,2,N/A,Accidental,Teen
+09-Apr-16,Massachusetts,Boston,Fernboro Street,0,1,N/A,Accidental,Teen
+09-Apr-16,Indiana,Gary,500 block of Madison Street,0,1,N/A,Accidental,Teen
+07-Apr-16,Massachusetts,Springfield,212 Plainfield Street,1,0,N/A,Accidental,Teen
+05-Apr-16,California,Fresno,Grant Avenue,0,1,N/A,Accidental,Teen
+01-Apr-16,North Carolina,Raleigh,3700 block of Macinac Island lane,0,1,N/A,Accidental,Teen
+30-Mar-16,Florida,Port Saint Lucie,200 block of SE Sims Cir,0,1,N/A,Accidental,Teen
+28-Mar-16,Tennessee,Memphis,Golden Park and Sandy Park,0,1,N/A,Accidental,Teen
+28-Mar-16,North Carolina,Rocky Mount,800 block of Nashville Road,0,1,N/A,Accidental,Teen
+24-Mar-16,Georgia,Macon,1300 block of Courtland Avenue,0,1,N/A,Accidental,Teen
+22-Mar-16,Wisconsin,River Falls,600 block of Foster Street,0,1,N/A,Accidental,Teen
+22-Mar-16,Ohio,Toledo,511 N. Miller St.,0,1,N/A,Accidental,Teen
+20-Mar-16,Kentucky,Cub Run,N/A,0,1,N/A,Accidental,Teen
+19-Mar-16,Tennessee,Nashville,1500 block of Charlotte Avenue,0,1,N/A,Accidental,Teen
+19-Mar-16,Delaware,Wilmington,300 block of New Castle Ave,0,1,N/A,Accidental,Teen
+19-Mar-16,Texas,Levelland,1400 block of 12th Street,0,1,N/A,Accidental,Teen
+18-Mar-16,Georgia,Savannah,200 block of Avery Street,0,1,N/A,Accidental,Teen
+16-Mar-16,Virginia,Annandale,7800 block of Thor Drive,0,1,N/A,Accidental,Teen
+16-Mar-16,Illinois,East Moline,400 block of 14th Street,0,1,N/A,Accidental,Teen
+16-Mar-16,Illinois,Chicago,West 92nd and South Throop streets,0,1,N/A,Accidental,Teen
+16-Mar-16,Georgia,Savannah,2100 block of Florida Avenue,0,1,N/A,Accidental,Teen
+14-Mar-16,Tennessee,Chattanooga,1504 S Beech St,0,1,N/A,Accidental,Teen
+14-Mar-16,Maine,Calais,South Street,0,1,N/A,Accidental,Teen
+13-Mar-16,Virginia,Martinsville,400 block of Clearview Drive,0,1,N/A,Accidental,Teen
+12-Mar-16,Florida,Fort Mc Coy (Fort McCoy),1501 NE 231 Avenue,0,6,N/A,Accidental,Teen
+12-Mar-16,Pennsylvania,Dushore,Broschart Rd,0,1,N/A,Accidental,Teen
+10-Mar-16,Illinois,Chicago,9000 block of South Bishop Street,0,1,N/A,Accidental,Teen
+08-Mar-16,Florida,Largo,900 block of Starkey Road,0,1,N/A,Accidental,Teen
+03-Mar-16,Kentucky,Hickory (Viola),Kentucky 408 East,0,1,N/A,Accidental,Teen
+03-Mar-16,Illinois,Winchester,East Lewis St,0,1,N/A,Accidental,Teen
+29-Feb-16,Florida,Palatka,200 block of Benham Street,0,1,N/A,Accidental,Teen
+27-Feb-16,Arizona,Avondale,12200 block of West Mohave Street,0,2,N/A,Accidental,Teen
+27-Feb-16,North Carolina,Charlotte,Toddville Road,0,1,N/A,Accidental,Teen
+25-Feb-16,Ohio,Cleveland,9300 block of Kinsman Road,0,1,N/A,Accidental,Teen
+24-Feb-16,Nebraska,Omaha,12339 Cuming,0,1,N/A,Accidental,Teen
+23-Feb-16,Missouri,Saint Louis,900 block of Cass Avenue,0,1,N/A,Accidental,Teen
+21-Feb-16,Idaho,Rupert,624 F Street,0,1,N/A,Accidental,Teen
+21-Feb-16,Arizona,Phoenix,1700 block of West Tonto Street,0,1,N/A,Accidental,Teen
+21-Feb-16,New York,Geneva,County Road 6 and Armstrong Road,0,1,N/A,Accidental,Teen
+18-Feb-16,Arizona,Phoenix,51st Avenue and Thomas Road,0,1,N/A,Accidental,Teen
+17-Feb-16,Massachusetts,Fitchburg,31 Beech Street,0,1,N/A,Accidental,Teen
+12-Feb-16,Indiana,Evansville,S. Fares Ave.,0,1,N/A,Accidental,Teen
+09-Feb-16,Texas,San Antonio,3300 block of Rock Creek Run,0,1,N/A,Accidental,Teen
+07-Feb-16,Ohio,Dayton,1200 block of Rosedale Drive,0,1,N/A,Accidental,Teen
+07-Feb-16,Florida,Naples (Golden Gate),2100 block of 47th Avenue Northeast,0,1,N/A,Accidental,Teen
+06-Feb-16,Louisiana,New Orleans,2400 block of Mardi Gras Boulevard,0,1,N/A,Accidental,Teen
+06-Feb-16,North Carolina,Franklin,Rosemont Drive,0,1,N/A,Accidental,Teen
+04-Feb-16,Kansas,Abilene,N.W. 2nd and Cedar Street,0,1,N/A,Accidental,Teen
+04-Feb-16,Tennessee,Memphis,3500 block of Metropolitan Lane,0,1,N/A,Accidental,Teen
+30-Jan-16,Illinois,Chicago (Englewood),7200 block of South Paulina Street,0,1,N/A,Accidental,Teen
+29-Jan-16,Georgia,Oakwood,Candler Highway and Tanners Mill Road,0,1,N/A,Accidental,Teen
+28-Jan-16,Florida,Holiday,3300 block of Garfield Drive,0,1,N/A,Accidental,Teen
+27-Jan-16,Alabama,Bay Minette,N/A,0,1,N/A,Accidental,Teen
+24-Jan-16,Virginia,Halifax (county),Hudson Road,0,1,N/A,Accidental,Teen
+21-Jan-16,Colorado,Pueblo,200 block of Bonnymede Road,0,1,N/A,Accidental,Teen
+21-Jan-16,Alaska,Wasilla,Mutiny Circle,0,1,N/A,Accidental,Teen
+20-Jan-16,Georgia,Gainesville,White Sulphur Road,0,1,N/A,Accidental,Teen
+18-Jan-16,Louisiana,Chalmette,2317 Pecan Drive,0,1,N/A,Accidental,Teen
+18-Jan-16,Arizona,Tempe,Broadway Road and Priest Drive,0,1,N/A,Accidental,Teen
+17-Jan-16,Georgia,Maysville,N/A,0,1,N/A,Accidental,Teen
+17-Jan-16,Illinois,Chicago,8300 block of South Cottage Grove,0,1,N/A,Accidental,Teen
+16-Jan-16,Texas,Elm Mott,3600 block of Beheler Road,0,1,N/A,Accidental,Teen
+16-Jan-16,Illinois,Chicago,5500 block of West Adams Street,0,1,N/A,Accidental,Teen
+16-Jan-16,North Carolina,Winston Salem,3900 Thornaby Lane,0,1,N/A,Accidental,Teen
+16-Jan-16,Georgia,Augusta,2800 block of Washington Road,0,1,N/A,Accidental,Teen
+15-Jan-16,Florida,Jacksonville,Philips Highway and Baymeadows Road,0,1,N/A,Accidental,Teen
+14-Jan-16,Florida,Bradenton,3800 block of 10th Street Court East,0,1,N/A,Accidental,Teen
+13-Jan-16,Arkansas,Camden,401 Ouachita 88,0,1,N/A,Accidental,Teen
+13-Jan-16,Mississippi,Port Gibson,Brady Avenue,0,1,N/A,Accidental,Teen
+11-Jan-16,Florida,Jacksonville,8300 block of Baymeadows Road,0,1,N/A,Accidental,Teen
+07-Jan-16,Michigan,Jackson,Homewild Avenue,0,1,N/A,Accidental,Teen
+04-Jan-16,Tennessee,Memphis,1400 block of Briercrest Lane,2,1,N/A,Accidental,Teen
+03-Jan-16,Tennessee,Memphis,300 block of Gaston Avenue,0,1,N/A,Accidental,Teen
+03-Jan-16,Tennessee,Knoxville,400 block of South Hembree Street,0,1,N/A,Accidental,Teen
+02-Jan-16,Alabama,Mobile,3577 Dauphin Island Parkway,1,0,N/A,Accidental,Teen
+02-Jan-16,New Jersey,Paterson,Bergen Street,0,1,N/A,Accidental,Teen
+01-Jan-16,Nevada,Las Vegas,2000 block of Raspberry Hill Road,0,1,N/A,Accidental,Teen
+31-Dec-15,Ohio,Akron,800 block of East Crosier Street,0,1,N/A,Accidental,Teen
+28-Dec-15,California,Rancho Cucamonga,7429 Arbor Lane,0,1,N/A,Accidental,Teen
+27-Dec-15,California,Crows Landing,Marshall Road,0,1,N/A,Accidental,Teen
+26-Dec-15,Indiana,La Porte,5344 South Hupp Road,0,1,N/A,Accidental,Teen
+23-Dec-15,Louisiana,Baton Rouge,Jefferson Avenue,0,1,N/A,Accidental,Teen
+23-Dec-15,California,Poway,13550 Danielson St.,0,1,N/A,Accidental,Teen
+22-Dec-15,Georgia,Augusta,700 block of East Chapman Street,0,1,N/A,Accidental,Teen
+22-Dec-15,Kansas,Manhattan,200 block of East Park Road,0,1,N/A,Accidental,Teen
+20-Dec-15,Indiana,South Bend (Roseland),215 S Dixie Way,0,1,N/A,Accidental,Teen
+20-Dec-15,Missouri,Gainesville,MO Highway 5,0,1,N/A,Accidental,Teen
+19-Dec-15,Georgia,Atlanta (College Park),1700 block of Hilltop Way,0,1,N/A,Accidental,Teen
+17-Dec-15,West Virginia,Huntington,5300 block of Longwood Road,0,1,N/A,Accidental,Teen
+14-Dec-15,Texas,Gainesville,900 block of East Scott Street,0,1,N/A,Accidental,Teen
+10-Dec-15,Texas,Houston,5300 block of West Gulf Bank,0,1,N/A,Accidental,Teen
+10-Dec-15,Texas,San Antonio,8300 block of Shoal Creek,0,1,N/A,Accidental,Teen
+08-Dec-15,Massachusetts,Lanesboro (Hancock),N/A,0,1,N/A,Accidental,Teen
+08-Dec-15,Alabama,Huntsville,Alaska Avenue,0,1,N/A,Accidental,Teen
+07-Dec-15,Illinois,Chicago,5100 block of South Emerald Avenue,0,1,N/A,Accidental,Teen
+05-Dec-15,California,Stockton,N/A,0,1,N/A,Accidental,Teen
+02-Dec-15,Ohio,Lowell,Highland Ridge and OH 530,0,1,N/A,Accidental,Teen
+02-Dec-15,Michigan,Dowagiac,126 Front Street,0,1,N/A,Accidental,Teen
+29-Nov-15,Washington,Everett,12400 block of Admiralty Way,0,1,N/A,Accidental,Teen
+29-Nov-15,Michigan,Detroit,5900 block of Yorkshire,0,1,N/A,Accidental,Teen
+29-Nov-15,Wisconsin,West Sweden,N/A,0,1,N/A,Accidental,Teen
+28-Nov-15,Georgia,Bogart,Rocky Branch Rd,0,1,N/A,Accidental,Teen
+28-Nov-15,Arizona,Casa Grande,9000 South Isom Road,0,1,N/A,Accidental,Teen
+28-Nov-15,California,Fresno,California and Maple avenues,0,1,N/A,Accidental,Teen
+26-Nov-15,Indiana,Evansville,6625 E Lloyd Expy,0,1,N/A,Accidental,Teen
+26-Nov-15,Virginia,Elliston,5100 block of Duke Lane,0,1,N/A,Accidental,Teen
+26-Nov-15,Indiana,Indianapolis,N/A,0,1,N/A,Accidental,Teen
+25-Nov-15,Connecticut,Colchester,Middletown and Bigelow Road,0,1,N/A,Accidental,Teen
+25-Nov-15,Pennsylvania,Uniontown,114 Pershing Court,0,1,N/A,Accidental,Teen
+24-Nov-15,Ohio,Toledo,100 block of East Carleton,0,2,N/A,Accidental,Teen
+24-Nov-15,Louisiana,Baton Rouge,5000 block of Florida Street,0,1,N/A,Accidental,Teen
+23-Nov-15,Ohio,Marion,378 Nunin Court,0,1,N/A,Accidental,Teen
+22-Nov-15,Wisconsin,Stratford (Emmet),4900 block of Highway 153,0,1,N/A,Accidental,Teen
+21-Nov-15,Wisconsin,Rock (county),N/A,0,1,N/A,Accidental,Teen
+21-Nov-15,New York,Cassadaga,Meadows Rd,0,1,N/A,Accidental,Teen
+21-Nov-15,Tennessee,Dunlap,Blue Sewanee Rd,0,1,N/A,Accidental,Teen
+21-Nov-15,Texas,Humble (Atascocita),18000 block of Yaupon Tr,1,0,N/A,Accidental,Teen
+21-Nov-15,Georgia,Jefferson,N/A,0,1,N/A,Accidental,Teen
+17-Nov-15,Indiana,Portland,1600 block of N 600 E,0,1,N/A,Accidental,Teen
+17-Nov-15,Illinois,Chicago,8600 block of South Aberdeen Avenue,0,1,N/A,Accidental,Teen
+15-Nov-15,Oklahoma,Jay,E 310 Rd and S 685 Rd,0,1,N/A,Accidental,Teen
+14-Nov-15,Oregon,Lebanon,500 block N. Santiam Highway,0,1,N/A,Accidental,Teen
+12-Nov-15,Alabama,Birmingham,600 block of Cambridge Street,0,1,N/A,Accidental,Teen
+12-Nov-15,Texas,Midland,Neely Avenue,0,1,N/A,Accidental,Teen
+11-Nov-15,Texas,Killeen,619 BIshop Drive,0,1,N/A,Accidental,Teen
+10-Nov-15,Connecticut,Windham,64 Windham Center Road,0,1,N/A,Accidental,Teen
+08-Nov-15,New York,Middleport,9400 block of Townline Rd,0,1,N/A,Accidental,Teen
+07-Nov-15,Oklahoma,Woodward,N/A,0,1,N/A,Accidental,Teen
+01-Nov-15,Ohio,Dayton,811 Oldfield Pl,0,1,N/A,Accidental,Teen
+31-Oct-15,North Carolina,Zionville,700 block of Camp Joy Road,0,1,N/A,Accidental,Teen
+31-Oct-15,Tennessee,Memphis,1600 block of East Holmes Road,0,2,N/A,Accidental,Teen
+30-Oct-15,Texas,Port Arthur,3280 Central Mall Blvd.,0,1,N/A,Accidental,Teen
+30-Oct-15,New York,Staten Island,67 Covington Circle,0,1,N/A,Accidental,Teen
+25-Oct-15,Mississippi,Vancleave,2501 Carter Homestead Rd.,0,1,N/A,Accidental,Teen
+25-Oct-15,Arizona,Tonopah,299th Avenue and Roosevelt,0,1,N/A,Accidental,Teen
+25-Oct-15,Florida,Orlando,4614 Alrix Drive,0,2,N/A,Accidental,Teen
+25-Oct-15,Tennessee,Harrison,6800 block of Buck Trail Dr,0,1,N/A,Accidental,Teen
+25-Oct-15,Tennessee,Harrison,Buck Trail Drive,0,1,N/A,Accidental,Teen
+24-Oct-15,Kentucky,Hopkinsville,Bethel Street,0,1,N/A,Accidental,Teen
+20-Oct-15,Washington,Lakewood (Joint Base Lewis Mcchord),150th St. SW and Woodbrook Dr. S.,1,0,N/A,Accidental,Teen
+19-Oct-15,Florida,Tallahassee,Miccosukee and Magnolia,0,1,N/A,Accidental,Teen
+17-Oct-15,Louisiana,La Place (Laplace),8800 block of Houma Dr,0,1,N/A,Accidental,Teen
+17-Oct-15,South Dakota,Letcher,N/A,0,1,N/A,Accidental,Teen
+10-Oct-15,Alabama,Tuscaloosa,13000 block of North Rosser Road,0,1,N/A,Accidental,Teen
+07-Oct-15,California,Antioch,N/A,0,1,N/A,Accidental,Teen
+06-Oct-15,Ohio,Toledo,1200 block of Buckingham Street,0,1,N/A,Accidental,Teen
+02-Oct-15,Oklahoma,Oklahoma City,S.E. 80th and Sooner Rd.,0,1,N/A,Accidental,Teen
+02-Oct-15,Ohio,Cleveland,East 102nd Street and St. Clair Avenue,0,1,N/A,Accidental,Teen
+02-Oct-15,Alabama,Birmingham (Hoover),2250 Little Valley Rd,0,1,N/A,Accidental,Teen
+01-Oct-15,Kentucky,Elkton,303 West Shelby Street,0,1,N/A,Accidental,Teen
+28-Sep-15,Texas,Corpus Christi,3300 block of South Alameda Street,0,1,N/A,Accidental,Teen
+27-Sep-15,Texas,Pollok,N/A,0,1,N/A,Accidental,Teen
+24-Sep-15,Ohio,Cleveland,East 70th Street and Wade Park Avenue,0,1,N/A,Accidental,Teen
+22-Sep-15,Georgia,Macon,N/A,0,1,N/A,Accidental,Teen
+21-Sep-15,Alabama,Birmingham,Sundale Drive,0,1,N/A,Accidental,Teen
+20-Sep-15,Ohio,Dayton,Coulson Drive,0,1,N/A,Accidental,Teen
+20-Sep-15,Utah,Ogden,100 North block of Pingree Ave,0,1,N/A,Accidental,Teen
+18-Sep-15,Indiana,Muncie,700 block of South Elm Street,0,1,N/A,Accidental,Teen
+17-Sep-15,Ohio,Kidron,N/A,0,1,N/A,Accidental,Teen
+17-Sep-15,Ohio,Kidron,N/A,0,1,N/A,Accidental,Teen
+14-Sep-15,Oklahoma,Tulsa,7300 block of East Jasper Street,0,1,N/A,Accidental,Teen
+14-Sep-15,Michigan,Romeo (Bruce Township),N/A,0,1,N/A,Accidental,Teen
+13-Sep-15,Indiana,Richmond,300 block of South Seventh Street,0,1,N/A,Accidental,Teen
+13-Sep-15,Texas,Rockwall,2700 block of Faircrest Drive,0,1,N/A,Accidental,Teen
+12-Sep-15,Ohio,Clark (county),3300 block of Laura Lane,0,1,N/A,Accidental,Teen
+11-Sep-15,New York,Arverne (Queens),22-04 Collier Avenue,1,0,N/A,Accidental,Teen
+08-Sep-15,Illinois,Peoria,2100 block of West Starr Street,1,0,N/A,Accidental,Teen
+06-Sep-15,Iowa,Allamakee (county),Hickory Creek Road,0,1,N/A,Accidental,Teen
+06-Sep-15,Florida,Fort Myers,100 block of Lucille Avenue,0,1,N/A,Accidental,Teen
+06-Sep-15,Louisiana,Lafayette,2401 N.W. Evangeline Thwy,0,1,N/A,Accidental,Teen
+05-Sep-15,Pennsylvania,Harrisburg,Verbeke Street,0,1,N/A,Accidental,Teen
+01-Sep-15,Florida,Orlando (Pine Hills),N/A,0,1,N/A,Accidental,Teen
+29-Aug-15,Ohio,Bellefontaine,804 West Patterson Avenue,0,1,N/A,Accidental,Teen
+24-Aug-15,Ohio,Cincinnati (North College Hill),1900 block of Goodman Avenue,0,1,N/A,Accidental,Teen
+22-Aug-15,New Jersey,Mount Laurel,3300 block of Marne Highway,0,1,N/A,Accidental,Teen
+22-Aug-15,Alaska,Anchorage,2500 block of Kona Lane,0,1,N/A,Accidental,Teen
+21-Aug-15,Idaho,Mountain Home,N/A,0,1,N/A,Accidental,Teen
+21-Aug-15,Indiana,Brooklyn,N/A,0,1,N/A,Accidental,Teen
+19-Aug-15,California,Garden Grove,14000 block of Hope Street,0,1,N/A,Accidental,Teen
+19-Aug-15,Pennsylvania,Pittsburgh,2600 block of Perrysville Avenue,0,1,N/A,Accidental,Teen
+18-Aug-15,Texas,San Angelo,1802 Beacon Street,0,1,N/A,Accidental,Teen
+14-Aug-15,Indiana,Peru,901 Apache Drive,0,1,N/A,Accidental,Teen
+14-Aug-15,Tennessee,Greeneville,2733 Poplar Springs Road,0,1,N/A,Accidental,Teen
+13-Aug-15,Alaska,Delta Junction,N/A,0,1,N/A,Accidental,Teen
+12-Aug-15,Kansas,Wichita,2000 block of West Rita,0,1,N/A,Accidental,Teen
+08-Aug-15,Florida,Boca Raton,3100 Airport Road,0,1,N/A,Accidental,Teen
+04-Aug-15,West Virginia,Charleston (Cross Lanes),100 Drexel Place,0,1,N/A,Accidental,Teen
+04-Aug-15,Illinois,Chicago,6700 block of South Western Avenue,0,1,N/A,Accidental,Teen
+04-Aug-15,Missouri,Park Hills,6100 block of Glore Road,0,1,N/A,Accidental,Teen
+04-Aug-15,Tennessee,Chattanooga,Hughes Avenue,0,1,N/A,Accidental,Teen
+03-Aug-15,New Jersey,Millville,700 block of Mulberry Street,0,1,N/A,Accidental,Teen
+02-Aug-15,Florida,Fort Lauderdale (Davie),7791 N.W. 34th St,0,1,N/A,Accidental,Teen
+31-Jul-15,Tennessee,Nashville,Hampton Street,0,1,N/A,Accidental,Teen
+30-Jul-15,Alabama,Birmingham,5000 block of Avenue N,0,1,N/A,Accidental,Teen
+30-Jul-15,Arkansas,White (county),N. Vinity Road,0,1,N/A,Accidental,Teen
+29-Jul-15,South Carolina,Duncan,Sunny Ray Drive,0,1,N/A,Accidental,Teen
+27-Jul-15,Louisiana,New Orleans,7500 block of Benson Street,0,1,N/A,Accidental,Teen
+25-Jul-15,Ohio,Gallia (county),Clay Lick Road,0,1,N/A,Accidental,Teen
+24-Jul-15,Kansas,Wichita,700 block of South Hunter,0,1,N/A,Accidental,Teen
+24-Jul-15,Tennessee,Tullahoma,Avondale Drive,0,1,N/A,Accidental,Teen
+23-Jul-15,Wisconsin,Madison,300 block of Wyalusing Drive,0,1,N/A,Accidental,Teen
+23-Jul-15,Texas,Weslaco,6th Street and Louisiana,0,1,N/A,Accidental,Teen
+23-Jul-15,Ohio,Pike (county),2733 SR 41,0,1,N/A,Accidental,Teen
+22-Jul-15,Kansas,Olathe,600 block of East Welston Avenue,0,1,N/A,Accidental,Teen
+18-Jul-15,Ohio,Columbus,Robinwood Park,0,1,N/A,Accidental,Teen
+15-Jul-15,Ohio,Dayton (Trotwood),N/A,0,1,N/A,Accidental,Teen
+15-Jul-15,Illinois,Aurora,N/A,0,2,N/A,Accidental,Teen
+09-Jul-15,Colorado,Aurora,1000 block of North Vaughn Street,0,1,N/A,Accidental,Teen
+05-Jul-15,Ohio,Cincinnati,Virgil Road,0,1,N/A,Accidental,Teen
+02-Jul-15,Texas,Dallas,Coit Road,0,1,N/A,Accidental,Teen
+01-Jul-15,Kentucky,Lexington,South Broadway and Cedar Street,0,1,N/A,Accidental,Teen
+28-Jun-15,New Mexico,Roswell,1901 S Sunset Avenue,0,1,N/A,Accidental,Teen
+26-Jun-15,Illinois,Joliet,400 block of Mississippi Avenue,0,1,N/A,Accidental,Teen
+26-Jun-15,California,Fresno,Fresno Street and McKinley Avenue,0,1,N/A,Accidental,Teen
+24-Jun-15,Arkansas,Little Rock,Fulton St,0,1,N/A,Accidental,Teen
+21-Jun-15,Michigan,Pontiac,Barkell Street and Tennyson,0,1,N/A,Accidental,Teen
+21-Jun-15,Georgia,Lagrange,400 block of Revis Street,0,1,N/A,Accidental,Teen
+17-Jun-15,New York,Staten Island,Bay and Sands Street,0,1,N/A,Accidental,Teen
+17-Jun-15,Pennsylvania,Pittsburgh,300-block of Jacunda Street,0,1,N/A,Accidental,Teen
+16-Jun-15,Florida,Lake Worth,Mee Court,0,1,N/A,Accidental,Teen
+12-Jun-15,Nevada,Las Vegas,Lamb Boulevard and Vegas Valley Drive,0,1,N/A,Accidental,Teen
+10-Jun-15,Wisconsin,Hatley,Esker Road,0,1,N/A,Accidental,Teen
+07-Jun-15,Ohio,Lebanon,Wilmington Road,0,1,N/A,Accidental,Teen
+07-Jun-15,Oregon,Portland,9100 Southeast Powell Boulevard,0,1,N/A,Accidental,Teen
+04-Jun-15,Washington,Tacoma (Parkland),400 block of 111th Street Court East,0,1,N/A,Accidental,Teen
+02-Jun-15,New York,Staten Island,225 Park Hill Avenue,0,1,N/A,Accidental,Teen
+30-May-15,Tennessee,Memphis,8100 block of Waterford Circle,0,1,N/A,Accidental,Teen
+28-May-15,California,Vacaville,200 block of Cedar Street,0,1,N/A,Accidental,Teen
+27-May-15,North Carolina,Kinston,N/A,0,2,N/A,Accidental,Teen
+26-May-15,Louisiana,Baton Rouge,N/A,0,1,N/A,Accidental,Teen
+25-May-15,South Carolina,Rock Hill,Crawford Road,0,1,N/A,Accidental,Teen
+21-May-15,Kansas,Sedgwick (county),11100 block of West 95th Street South,0,1,N/A,Accidental,Teen
+17-May-15,North Carolina,Stokes,Highway 30,0,1,N/A,Accidental,Teen
+15-May-15,Tennessee,Centerville,3800 block of Swan Creek Road,0,1,N/A,Accidental,Teen
+15-May-15,Louisiana,Baton Rouge,Rose Garden Drive,0,1,N/A,Accidental,Teen
+12-May-15,Illinois,Chicago,8800 block of South Saginaw,0,1,N/A,Accidental,Teen
+05-May-15,Utah,West Valley City,3200 South and 5100 West,0,1,N/A,Accidental,Teen
+04-May-15,California,Gilroy,500 block of El Cerrito Way,0,1,N/A,Accidental,Teen
+02-May-15,Pennsylvania,Upper Darby,7000 block of Ruskin Lane,0,1,N/A,Accidental,Teen
+02-May-15,California,Marysville (Linda),1900 block of Fernwood Drive,0,2,N/A,Accidental,Teen
+26-Apr-15,Georgia,Columbus,7000 block of Doris Drive,0,1,N/A,Accidental,Teen
+21-Apr-15,New York,Yonkers,82 Chester Place,0,1,N/A,Accidental,Teen
+19-Apr-15,Texas,Katy,24918 Falcon Hollow Ln,0,1,N/A,Accidental,Teen
+18-Apr-15,Virginia,Spotsylvania  Courthouse,N/A,0,1,N/A,Accidental,Teen
+17-Apr-15,Louisiana,Mandeville,100 block of Carroll Street,0,1,N/A,Accidental,Teen
+15-Apr-15,Illinois,Chicago,1600 block of North Austin Boulevard,0,1,N/A,Accidental,Teen
+13-Apr-15,Michigan,Pennfield,100 block of Clarence Boulevard,0,1,N/A,Accidental,Teen
+04-Apr-15,New York,Brooklyn,Sterling Place,0,1,N/A,Accidental,Teen
+28-Mar-15,Illinois,Champaign,1700 block of Clover Lane,0,1,N/A,Accidental,Teen
+27-Mar-15,Georgia,Atlanta,600 block of McAfee Street,0,1,N/A,Accidental,Teen
+26-Mar-15,Arizona,Phoenix,44th Street and Southern Avenue,0,1,N/A,Accidental,Teen
+25-Mar-15,Michigan,Southfield,23000 block of Lake Ravines Drive,0,1,N/A,Accidental,Teen
+24-Mar-15,Virginia,Richmond,3100 block of Enslow Avenue,0,1,N/A,Accidental,Teen
+23-Mar-15,Illinois,Chicago,5800 block of South King Drive,0,1,N/A,Accidental,Teen
+21-Mar-15,New Hampshire,Manchester,91 West Street,0,1,N/A,Accidental,Teen
+21-Mar-15,Pennsylvania,Philadelphia,6000 block of Charles Street,0,1,N/A,Accidental,Teen
+20-Mar-15,New York,Brooklyn,71st Street,0,1,N/A,Accidental,Teen
+20-Mar-15,Alaska,Anchorage,1300 block of Chirikof Court,0,1,N/A,Accidental,Teen
+19-Mar-15,Virginia,Petersburg,N/A,0,1,N/A,Accidental,Teen
+15-Mar-15,New Jersey,Camden,3000 block of Lemuel Avenue,0,1,N/A,Accidental,Teen
+09-Mar-15,Minnesota,Minneapolis (Coon Rapids),11291 Robinson Drive NW,1,1,N/A,Accidental,Teen
+07-Mar-15,Oklahoma,Tulsa,East Admiral Place and South 119th East Avenue,0,1,N/A,Accidental,Teen
+06-Mar-15,California,Tulare County,Road 148 and Avenue 208,0,1,N/A,Accidental,Teen
+05-Mar-15,Ohio,Canal Winchester,5600 block of Gatling Drive,0,1,N/A,Accidental,Teen
+05-Mar-15,Texas,Fort Worth,2300 block of Northeast 37th St.,0,1,N/A,Accidental,Teen
+05-Mar-15,California,Poplar,Avenue 208 and Road 148,0,1,N/A,Accidental,Teen
+02-Mar-15,Indiana,Delaware County,500 block of N. Northwood Drive,0,1,N/A,Accidental,Teen
+01-Mar-15,Illinois,Chicago,5200 block of W. Fullerton Avenue,0,1,N/A,Accidental,Teen
+27-Feb-15,Georgia,Columbus,501 29th Street,0,1,N/A,Accidental,Teen
+23-Feb-15,Florida,Jacksonville,1605 N. Myrtle Avenue,0,1,N/A,Accidental,Teen
+21-Feb-15,Utah,Warner Valley,N/A,0,1,N/A,Accidental,Teen
+17-Feb-15,Arizona,Phoenix,43rd Avenue and Thomas,0,1,N/A,Accidental,Teen
+17-Feb-15,Alabama,Piedmont,Foskett Street,0,1,N/A,Accidental,Teen
+16-Feb-15,Missouri,Platte City,12000 block of Farmers Lane,0,1,N/A,Accidental,Teen
+16-Feb-15,Indiana,Wakarusa,28000 block of County Road 42,0,1,N/A,Accidental,Teen
+14-Feb-15,California,Covina,500 block of Rimsdale Avenue,0,1,N/A,Accidental,Teen
+09-Feb-15,Maryland,Randallstown,9600 block of Southall Road,0,1,N/A,Accidental,Teen
+07-Feb-15,Texas,San Antonio,5800 block of Midcrown Drive,0,1,N/A,Accidental,Teen
+04-Feb-15,North Carolina,Leland,Basin Street,0,1,N/A,Accidental,Teen
+30-Jan-15,Illinois,Marengo,400 block of Hale Street,0,1,N/A,Accidental,Teen
+30-Jan-15,Louisiana,New Roads,Carver Street,0,1,N/A,Accidental,Teen
+28-Jan-15,Florida,Miami,100 block of Northwest 77th Street,0,1,N/A,Accidental,Teen
+28-Jan-15,Ohio,Cincinnati,3300 block of Reading Road,0,1,N/A,Accidental,Teen
+23-Jan-15,Florida,Naples,300 block of 11th Street Southwest,0,1,N/A,Accidental,Teen
+22-Jan-15,Nebraska,Buffalo County,85th Road,0,1,N/A,Accidental,Teen
+18-Jan-15,Kansas,Delia,North of 118th and B Road,0,1,N/A,Accidental,Teen
+18-Jan-15,California,Fresno,Woodrow and Woodward Avenues,0,1,N/A,Accidental,Teen
+17-Jan-15,Georgia,Carlton,N/A,0,1,N/A,Accidental,Teen
+08-Jan-15,Virginia,Danville,100 block of Swanson Street,0,1,N/A,Accidental,Teen
+07-Jan-15,Texas,Medina County,County Road 3823,0,1,N/A,Accidental,Teen
+07-Jan-15,Louisiana,Shreveport,3500 block of Sumner Street,0,1,N/A,Accidental,Teen
+05-Jan-15,Alaska,Fairbanks,1919 Lathrop Street Suite 123,0,2,N/A,Accidental,Teen
+03-Jan-15,Virginia,Hiltons,4155 AP Carter Highway,0,1,N/A,Accidental,Teen
+02-Jan-15,Oregon,Prineville,Northeast Seventh Street,0,1,N/A,Accidental,Teen
+02-Jan-15,Connecticut,Plainfield,40 Palmer Lane,0,1,N/A,Accidental,Teen
+31-Dec-14,Texas,Navasota,N/A,0,1,N/A,Accidental,Teen
+30-Dec-14,Texas,Dayton,FM 1409 and County Road 460,0,1,N/A,Accidental,Teen
+30-Dec-14,Ohio,Sharonville,2300 East Kemper Road,0,2,N/A,Accidental,Teen
+26-Dec-14,Wisconsin,Madison,914 W. Badger Road,0,1,N/A,Accidental,Teen
+26-Dec-14,West Virginia,Cameron,North Avenue,1,1,N/A,Accidental,Teen
+25-Dec-14,Michigan,Detroit,4100 block of Virginia Park,1,0,N/A,Accidental,Teen
+23-Dec-14,Tennessee,Memphis,Elvis Presley Boulevard and Ledger Road,0,1,N/A,Accidental,Teen
+20-Dec-14,North Carolina,White Oak,Chatham Road,0,1,N/A,Accidental,Teen
+20-Dec-14,Mississippi,Meridian,N/A,0,1,N/A,Accidental,Teen
+16-Dec-14,Washington,Snohomish,12400 block of Admiralty Way,0,1,N/A,Accidental,Teen
+14-Dec-14,Alabama,Smiths Station,N/A,0,1,N/A,Accidental,Teen
+06-Dec-14,Florida,Jacksonville,N/A,0,1,N/A,Accidental,Teen
+06-Dec-14,Florida,Mary Esther,N/A,0,1,N/A,Accidental,Teen
+06-Dec-14,South Dakota,Sioux Falls,5521 E. Arrowhead Parkway,0,1,N/A,Accidental,Teen
+02-Dec-14,Arkansas,Widener,N/A,0,1,N/A,Accidental,Teen
+30-Nov-14,Texas,Houston,4702 West Magnum Rd.,0,1,N/A,Accidental,Teen
+29-Nov-14,Texas,Houston,4700 block of West Mangum Road,0,1,N/A,Accidental,Teen
+29-Nov-14,Illinois,Chicago,1600 block of North Monticello Avenue ,0,1,N/A,Accidental,Teen
+29-Nov-14,Wisconsin,Manitowoc County,N/A,0,1,N/A,Accidental,Teen
+24-Nov-14,Florida,Indian River County,7900 block of 37th Street,0,1,N/A,Accidental,Teen
+23-Nov-14,Delaware,Wilmington,West 28th Street,0,1,N/A,Accidental,Teen
+16-Nov-14,Kentucky,Lexington,500 block of Judy Lane,0,1,N/A,Accidental,Teen
+16-Nov-14,Maine,Oxford,Gladys Lane,0,1,N/A,Accidental,Teen
+15-Nov-14,Oklahoma,Velma,N/A,0,1,N/A,Accidental,Teen
+09-Nov-14,Florida,Miami Gardens,2100 block of NW 22 Avenue,0,1,N/A,Accidental,Teen
+09-Nov-14,Ohio,Cleveland,13301 Eaglesmere Ave,0,1,N/A,Accidental,Teen
+08-Nov-14,Maryland,Keedysville,Dogstreet Road,0,1,N/A,Accidental,Teen
+02-Nov-14,Kansas,Clay County,N/A,0,1,N/A,Accidental,Teen
+01-Nov-14,Iowa,Dallas Center,N/A,0,1,N/A,Accidental,Teen
+30-Oct-14,California,Desert Hot Springs,Estrella Avenue ,0,2,N/A,Accidental,Teen
+27-Oct-14,Pennsylvania,Tyrone,N/A,0,1,N/A,Accidental,Teen
+26-Oct-14,Montana,Butte,Telegraph Gulch Road,0,1,N/A,Accidental,Teen
+26-Oct-14,Illinois,Chicago,3200 block of South Kedvale,0,1,N/A,Accidental,Teen
+25-Oct-14,North Dakota,Cayuga,N/A,0,1,N/A,Accidental,Teen
+24-Oct-14,New York,Ledyard,1320 Levanna Road,0,1,N/A,Accidental,Teen
+23-Oct-14,North Carolina,Hendersonville,308 Resort Street,0,1,N/A,Accidental,Teen
+22-Oct-14,New Jersey,Newark,100 block of Hillside Avenue,0,2,N/A,Accidental,Teen
+21-Oct-14,Tennessee,Memphis,1900 East Raines Road,0,1,N/A,Accidental,Teen
+18-Oct-14,Florida,Fort Myers,1600 block of Meadowview Circle,0,1,N/A,Accidental,Teen
+16-Oct-14,North Carolina,Margarettsville,Mount Carmel Road,0,1,N/A,Accidental,Teen
+13-Oct-14,Florida,Orlando,2700 block of Castle Oak Avenue,0,1,N/A,Accidental,Teen
+11-Oct-14,Michigan,Lansing,N/A,0,1,N/A,Accidental,Teen
+10-Oct-14,Florida,Ocala,N/A,0,2,N/A,Accidental,Teen
+09-Oct-14,South Carolina,Greenville,515 Webster Road,0,1,N/A,Accidental,Teen
+08-Oct-14,South Carolina,Blenheim,Stoneaway Lane,0,2,N/A,Accidental,Teen
+06-Oct-14,Illinois,Chicago,4600 block of South Drexel Avenue,0,0,N/A,Accidental,Teen
+05-Oct-14,Washington,Spokane,1700 block of E. Vanetta,0,1,N/A,Accidental,Teen
+30-Sep-14,Ohio,Vandalia,Dog Leg Road,0,2,N/A,Accidental,Teen
+26-Sep-14,Ohio,Columbus,2400 block of Plum Street,0,2,N/A,Accidental,Teen
+24-Sep-14,Alabama,Tuscaloosa,500 block of 34th Avenue,0,1,N/A,Accidental,Teen
+20-Sep-14,Delaware,Wilmington,Second and West Streets,0,1,N/A,Accidental,Teen
+18-Sep-14,Illinois,Chicago,1300 block of North Cleveland Avenue,1,1,N/A,Accidental,Teen
+17-Sep-14,Alaska,Delta Junction,N/A,0,1,N/A,Accidental,Teen
+17-Sep-14,Alabama,Birmingham,2700 block of 35th Avenue North,0,3,N/A,Accidental,Teen
+15-Sep-14,Pennsylvania,Philadelphia,Marvine Street and W. Venango Street near 11th Street,0,1,N/A,Accidental,Teen
+15-Sep-14,Pennsylvania,Philadelphia,3600 block of North Marvine St,0,1,N/A,Accidental,Teen
+12-Sep-14,Arkansas,Siloam Springs,S Seward St.,0,1,N/A,Accidental,Teen
+10-Sep-14,Indiana,Muncie,300 block of East Ninth Street,0,1,N/A,Accidental,Teen
+10-Sep-14,Georgia,Savannah,100 block of Chippewa Drive,0,1,N/A,Accidental,Teen
+05-Sep-14,New Jersey,Newark,Ridgewood and Clinton avenues,0,1,N/A,Accidental,Teen
+05-Sep-14,Maryland,Bel Air,Colonial Court,0,1,N/A,Accidental,Teen
+01-Sep-14,Indiana,Gary,2100 block of Polk Street,0,1,N/A,Accidental,Teen
+01-Sep-14,Mississippi,Meridian,2428 Old Marion Rd,0,1,N/A,Accidental,Teen
+29-Aug-14,Michigan,Muskegon,80 W Southern Ave,0,1,N/A,Accidental,Teen
+24-Aug-14,California,Sacramento,N/A,0,1,N/A,Accidental,Teen
+21-Aug-14,Texas,Pipe Creek,Mountain View Lane,0,1,N/A,Accidental,Teen
+21-Aug-14,Washington,Longview,26th Avenue ,0,1,N/A,Accidental,Teen
+14-Aug-14,Washington,Longview,200 block of 26th Avenue,0,1,N/A,Accidental,Teen
+13-Aug-14,Kansas,Pratt,Lemon Park,0,1,N/A,Accidental,Teen
+13-Aug-14,Mississippi,Tippah County,N/A,0,1,N/A,Accidental,Teen
+12-Aug-14,Virginia,Winchester,400 block of Lily's Way,0,1,N/A,Accidental,Teen
+11-Aug-14,Ohio,Cincinnati,1200 block of Fairbanks Avenue,0,1,N/A,Accidental,Teen
+10-Aug-14,Texas,Conroe,1100 South Seventh,0,1,N/A,Accidental,Teen
+08-Aug-14,Louisiana,Shreveport,2900 block of Hattie Street,0,1,N/A,Accidental,Teen
+25-Nov-16,Texas,Port Arthur,5200 block of Gulfway Drive,0,1,N/A,Intentional,Teen
+24-Nov-16,Illinois,Chicago,4900 block of West Wrightwood,0,2,N/A,Intentional,Teen
+24-Nov-16,Illinois,Chicago,1400 block of North Massasoit,0,1,N/A,Intentional,Teen
+23-Nov-16,Mississippi,Olive Branch,928 Cross Road,0,4,N/A,Intentional,Teen
+23-Nov-16,Ohio,Cincinnati (Walnut Hills),900 block of Yale Avenue,0,1,N/A,Intentional,Teen
+23-Nov-16,Florida,Bradenton,6032 9th Street East,0,1,N/A,Intentional,Teen
+22-Nov-16,New Jersey,Newark,18th Ave and Alexander St,1,1,N/A,Intentional,Teen
+22-Nov-16,Louisiana,Lafayette,500 block of South Bienville Street,0,1,N/A,Intentional,Teen
+22-Nov-16,Florida,Miami,Northwest 17th Avenue and Northwest 31st Street,1,2,N/A,Intentional,Teen
+22-Nov-16,Illinois,Chicago,3541 South California,0,3,N/A,Intentional,Teen
+22-Nov-16,California,Los Angeles,1400 block of East 51st Street,1,3,N/A,Intentional,Teen
+22-Nov-16,Florida,Miami,11200 block of Southwest 220th Terrace,0,1,N/A,Intentional,Teen
+22-Nov-16,Louisiana,Baton Rouge,2200 block of 73rd Street,0,1,N/A,Intentional,Teen
+22-Nov-16,Ohio,Columbus,1480 West Broad Street,1,1,N/A,Intentional,Teen
+21-Nov-16,Virginia,Triangle,Olde Port Ln and Graham Park Rd,0,1,N/A,Intentional,Teen
+21-Nov-16,California,San Bernardino,6900 block of Tippecanoe Avenue,0,1,N/A,Intentional,Teen
+21-Nov-16,Arkansas,Little Rock,5103 Asher Ave.,0,3,N/A,Intentional,Teen
+21-Nov-16,Illinois,Chicago,1300 block of South Homan,1,1,N/A,Intentional,Teen
+21-Nov-16,Texas,Baytown,400 block of William Avenue,0,3,N/A,Intentional,Teen
+21-Nov-16,Louisiana,New Orleans,Mardi Gras Street and Nunez Street,0,1,N/A,Intentional,Teen
+21-Nov-16,Illinois,Chicago,1300 block of South Karlov,0,1,N/A,Intentional,Teen
+21-Nov-16,Pennsylvania,Philadelphia,4400 block of North Gratz Street,0,1,N/A,Intentional,Teen
+20-Nov-16,New Jersey,Trenton,100 Block of Oakland St,0,1,N/A,Intentional,Teen
+20-Nov-16,New Jersey,Trenton,Stuyvesant and Hoffman avenues,0,1,N/A,Intentional,Teen
+20-Nov-16,Connecticut,Bridgeport,Atlantic Avenue,0,1,N/A,Intentional,Teen
+20-Nov-16,Arkansas,Little Rock,11810 Pleasant Ridge Rd,0,1,N/A,Intentional,Teen
+20-Nov-16,Ohio,Findlay,1800 North Blanchard Street,0,1,N/A,Intentional,Teen
+19-Nov-16,Virginia,Hampton,2201 Todds Lane,0,1,N/A,Intentional,Teen
+19-Nov-16,Illinois,Pembroke Township,13500E block of 2000S Road,0,1,N/A,Intentional,Teen
+19-Nov-16,California,San Diego,3600 block of Altadena Avenue,0,1,N/A,Intentional,Teen
+19-Nov-16,California,Farmersville,500 block of East Front Street,0,2,N/A,Intentional,Teen
+19-Nov-16,Florida,Palm Beach (county),West 36th Street and President Barack Obama Hwy,0,3,N/A,Intentional,Teen
+19-Nov-16,Illinois,Chicago,1400 block of North Latrobe,1,1,N/A,Intentional,Teen
+19-Nov-16,Mississippi,Gulfport,50 block of 52nd Street,0,1,N/A,Intentional,Teen
+18-Nov-16,South Carolina,Clearwater,1022 Fairview Road,1,1,N/A,Intentional,Teen
+18-Nov-16,New Jersey,Trenton,Elmhurst Ave,0,1,N/A,Intentional,Teen
+18-Nov-16,Illinois,Danville,Plum and Griggs,0,1,N/A,Intentional,Teen
+18-Nov-16,Illinois,Chicago,5000 block of West Wabansia,0,4,N/A,Intentional,Teen
+18-Nov-16,Arkansas,Little Rock,Baseline Road,0,1,N/A,Intentional,Teen
+18-Nov-16,Virginia,Danville,200 block of Kemper Road,1,2,N/A,Intentional,Teen
+17-Nov-16,Tennessee,Dyersburg,160 Longfellow,1,7,N/A,Intentional,Teen
+17-Nov-16,Illinois,Chicago,3900 block of West Grenshaw,0,1,N/A,Intentional,Teen
+16-Nov-16,Illinois,Chicago,2100 block of South California,0,1,N/A,Intentional,Teen
+16-Nov-16,Louisiana,New Orleans,5600 block of Pauline Drive,0,1,N/A,Intentional,Teen
+16-Nov-16,Delaware,Wilmington,Linden and S. Van Buren,0,1,N/A,Intentional,Teen
+16-Nov-16,California,Berkeley,1260 Allston Way,0,2,N/A,Intentional,Teen
+15-Nov-16,Georgia,Albany,1500 block Avalon Avenue,0,1,N/A,Intentional,Teen
+15-Nov-16,Texas,San Antonio,400 block of Brookview Drive,0,1,N/A,Intentional,Teen
+15-Nov-16,Michigan,Alcona (county),N/A,0,1,N/A,Intentional,Teen
+14-Nov-16,Pennsylvania,Philadelphia,2000 block of South 60th Street,0,1,N/A,Intentional,Teen
+14-Nov-16,Virginia,Newport News,7400 block of River Road,0,1,N/A,Intentional,Teen
+14-Nov-16,Oklahoma,Tulsa,11th Street and 129th East Avenue,0,1,N/A,Intentional,Teen
+14-Nov-16,Illinois,Joliet,200 block of North Hickory Street,0,3,N/A,Intentional,Teen
+14-Nov-16,Delaware,Wilmington,8th and N. Madison streets,0,1,N/A,Intentional,Teen
+14-Nov-16,Louisiana,Lafayette,2000 block of Moss Street,0,1,N/A,Intentional,Teen
+13-Nov-16,Virginia,Richmond,1300 block of Coalter Street,0,1,N/A,Intentional,Teen
+13-Nov-16,Vermont,South Royalton (Royalton),Gage Rd,0,1,N/A,Intentional,Teen
+13-Nov-16,Oregon,Lebanon,36400 block of Gore Drive,0,1,N/A,Intentional,Teen
+13-Nov-16,Indiana,Vevay,Ashland Cove Road,0,1,N/A,Intentional,Teen
+13-Nov-16,Illinois,Chicago,6300 block of South King Drive,0,2,N/A,Intentional,Teen
+13-Nov-16,Louisiana,New Iberia,600 block of Ambassador W. Lemelle Drive,0,1,N/A,Intentional,Teen
+13-Nov-16,New Jersey,Paterson,Fair Street,0,1,N/A,Intentional,Teen
+12-Nov-16,Connecticut,Bridgeport,2500 Park Avenue,0,5,N/A,Intentional,Teen
+12-Nov-16,Kentucky,Louisville,1600 St. Catherine Street,0,1,N/A,Intentional,Teen
+12-Nov-16,New Hampshire,Nashua,N/A,0,1,N/A,Intentional,Teen
+12-Nov-16,North Carolina,Kinston,900 block of West Vernon Ave.,0,1,N/A,Intentional,Teen
+12-Nov-16,Michigan,Grand Rapids,Griggs Street,0,1,N/A,Intentional,Teen
+12-Nov-16,Illinois,Springfield,1600 block of South First Street,0,2,N/A,Intentional,Teen
+12-Nov-16,Illinois,Chicago,8700 block of South Racine,0,1,N/A,Intentional,Teen
+11-Nov-16,Wisconsin,Oconto (county),N/A,0,1,N/A,Intentional,Teen
+11-Nov-16,Virginia,Newport News,Roseman Court and Beechmont Drive,0,1,N/A,Intentional,Teen
+11-Nov-16,Illinois,Rockford,900 N Rockton Ave,1,1,N/A,Intentional,Teen
+11-Nov-16,Tennessee,Columbia,200 block of Bullock St,0,1,N/A,Intentional,Teen
+11-Nov-16,Ohio,Columbus,1300 block of East 5th Ave,0,1,N/A,Intentional,Teen
+11-Nov-16,Georgia,Dekalb (county),County Road 9055,0,2,N/A,Intentional,Teen
+11-Nov-16,New Jersey,Trenton,1 Kingsbury Square,0,1,N/A,Intentional,Teen
+11-Nov-16,Massachusetts,Boston,82 River St,0,1,N/A,Intentional,Teen
+11-Nov-16,Michigan,Detroit,McGraw and Proctor,1,1,N/A,Intentional,Teen
+11-Nov-16,Alabama,Albertville,County Road 9055,0,2,N/A,Intentional,Teen
+10-Nov-16,Maryland,Annapolis,1100 block of Frederick Douglass Street,0,1,N/A,Intentional,Teen
+10-Nov-16,Kansas,Council Grove,7th and Main Street,0,1,N/A,Intentional,Teen
+10-Nov-16,Illinois,Chicago,Waukegan Avenue and Orchard Lane,0,1,N/A,Intentional,Teen
+10-Nov-16,Illinois,Chicago,3800 block of West Wilcox,0,1,N/A,Intentional,Teen
+10-Nov-16,Georgia,Savannah,Yemessee Rd.,0,1,N/A,Intentional,Teen
+09-Nov-16,Illinois,Chicago,600 block of South Karlov,0,1,N/A,Intentional,Teen
+09-Nov-16,Virginia,Richmond,2800 block of Dunn Avenue,0,1,N/A,Intentional,Teen
+09-Nov-16,Illinois,Rockford,400 S Day Ave,0,1,N/A,Intentional,Teen
+09-Nov-16,Illinois,Chicago,100 block of Springfield,0,1,N/A,Intentional,Teen
+09-Nov-16,Illinois,Chicago,3000 block of West Lexington,0,1,N/A,Intentional,Teen
+09-Nov-16,Illinois,Chicago,2800 block of South Trumbull,0,1,N/A,Intentional,Teen
+08-Nov-16,Illinois,Chicago,1800 block of West 45th Street,0,1,N/A,Intentional,Teen
+07-Nov-16,Tennessee,Knoxville,509 Vista Glen Way,0,1,N/A,Intentional,Teen
+07-Nov-16,Pennsylvania,Philadelphia,2100 block of Firth Street,0,1,N/A,Intentional,Teen
+07-Nov-16,Indiana,Gary,4899 Georgia St,0,1,N/A,Intentional,Teen
+07-Nov-16,Louisiana,New Iberia,600 block of Hopkins Street,0,1,N/A,Intentional,Teen
+06-Nov-16,Maryland,Baltimore,3500 block of 4th St.,0,1,N/A,Intentional,Teen
+06-Nov-16,Virginia,Norfolk,West 29th Street and Gosnold Avenue,0,1,N/A,Intentional,Teen
+06-Nov-16,Indiana,Indianapolis,2700 block of Black Knight Boulevard,0,1,N/A,Intentional,Teen
+06-Nov-16,Illinois,Carlinville,500 block of Johnson Street,0,2,N/A,Intentional,Teen
+06-Nov-16,Illinois,Chicago,8500 block of South Carpenter,0,1,N/A,Intentional,Teen
+06-Nov-16,Georgia,Savannah,500 block of West Gwinnett Street,0,1,N/A,Intentional,Teen
+06-Nov-16,Oklahoma,Tulsa,N/A,0,1,N/A,Intentional,Teen
+05-Nov-16,Georgia,Jonesboro,10000 block of Fitzgerald Road,0,1,N/A,Intentional,Teen
+05-Nov-16,Virginia,Roanoke,1500 block of Wellsley Street Northwest,0,1,N/A,Intentional,Teen
+05-Nov-16,California,Oakland,420 14th Street,0,8,N/A,Intentional,Teen
+05-Nov-16,Mississippi,Natchez,Edgin Street,0,1,N/A,Intentional,Teen
+05-Nov-16,Illinois,Chicago,4800 block of North Winthrop,0,5,N/A,Intentional,Teen
+05-Nov-16,Illinois,Chicago,6200 block of South Eberhart,0,1,N/A,Intentional,Teen
+05-Nov-16,Wisconsin,Racine,16th Street and Grange Avenue,0,1,N/A,Intentional,Teen
+05-Nov-16,Pennsylvania,Philadelphia,1500 block of South 26th Street,0,1,N/A,Intentional,Teen
+05-Nov-16,Arizona,Phoenix,55th Avenue and Clarendon,0,1,N/A,Intentional,Teen
+05-Nov-16,California,Fresno,5271 E Kings Canyon Road,0,1,N/A,Intentional,Teen
+04-Nov-16,Pennsylvania,Philadelphia,5451 Springfield Avenue,0,4,N/A,Intentional,Teen
+04-Nov-16,Pennsylvania,Chester,600 block of Central Avenue,0,2,N/A,Intentional,Teen
+04-Nov-16,Florida,Orlando,Curry Ford Road and Oxalis Avenue,0,1,N/A,Intentional,Teen
+04-Nov-16,Illinois,Springfield,2000 block of East Jackson Street,0,1,N/A,Intentional,Teen
+04-Nov-16,Illinois,Chicago,1000 block of North Lorel,0,2,N/A,Intentional,Teen
+04-Nov-16,Illinois,Chicago,7000 block of South Eberhart,0,1,N/A,Intentional,Teen
+04-Nov-16,California,Hemet,200 block of South Palm Avenue,1,1,N/A,Intentional,Teen
+04-Nov-16,Arizona,Tolleson,100th Avenue and Williams Street,0,1,N/A,Intentional,Teen
+04-Nov-16,Illinois,Champaign,300 block of North Third Street,0,3,N/A,Intentional,Teen
+03-Nov-16,Ohio,Columbus,3100 block of Somerset Court South,0,1,N/A,Intentional,Teen
+03-Nov-16,Alabama,Birmingham,125 Roebuck Drive,0,1,N/A,Intentional,Teen
+03-Nov-16,Illinois,Chicago,1300 block of West 103rd Street,0,2,N/A,Intentional,Teen
+03-Nov-16,Georgia,Savannah,1500 block of E. 33rd Street,0,3,N/A,Intentional,Teen
+03-Nov-16,Maine,Springfield,N/A,0,1,N/A,Intentional,Teen
+02-Nov-16,Illinois,Chicago,5100 block of West End,0,1,N/A,Intentional,Teen
+02-Nov-16,Illinois,Chicago,700 block of South Kenneth Avenue,0,1,N/A,Intentional,Teen
+02-Nov-16,Illinois,Chicago,3000 block of South Avers,0,2,N/A,Intentional,Teen
+01-Nov-16,Illinois,Chicago,5300 block of West Crystal,0,2,N/A,Intentional,Teen
+01-Nov-16,Missouri,Saint Louis,Page and Hodiamont,0,1,N/A,Intentional,Teen
+01-Nov-16,California,Pomona,800 block of East La Verne,0,1,N/A,Intentional,Teen
+01-Nov-16,Tennessee,Memphis,5200 block of Zodiac Rd,1,5,N/A,Intentional,Teen
+01-Nov-16,Arkansas,Jonesboro,2200 block of Clover Drive,0,1,N/A,Intentional,Teen
+31-Oct-16,Pennsylvania,Lebanon,302 E Weidman Street,0,1,N/A,Intentional,Teen
+31-Oct-16,Ohio,Columbus,Kimball Place and Gault Street,0,1,N/A,Intentional,Teen
+31-Oct-16,New Jersey,Orange,North Day Street,0,2,N/A,Intentional,Teen
+31-Oct-16,Indiana,Evansville,700 block of Judson Street,0,1,N/A,Intentional,Teen
+31-Oct-16,Indiana,Fort Wayne,4500 block of Reed Street,0,2,N/A,Intentional,Teen
+31-Oct-16,Illinois,Chicago,5600 block of West Corcoran Place,0,2,N/A,Intentional,Teen
+31-Oct-16,Illinois,Chicago,4500 block of North Malden,0,1,N/A,Intentional,Teen
+31-Oct-16,Illinois,Chicago,5200 block of West Kamerling,0,1,N/A,Intentional,Teen
+31-Oct-16,Michigan,Grand Rapids,Cass Avenue,0,1,N/A,Intentional,Teen
+31-Oct-16,Illinois,Chicago,1200 block of South Lawndale,0,2,N/A,Intentional,Teen
+31-Oct-16,Illinois,Chicago,1800 block of East 72nd Street,0,1,N/A,Intentional,Teen
+31-Oct-16,Illinois,Chicago,4900 block of West Race,0,1,N/A,Intentional,Teen
+31-Oct-16,Illinois,Chicago,North and Central,0,1,N/A,Intentional,Teen
+31-Oct-16,Nevada,Las Vegas,Horizon Ridge,0,3,N/A,Intentional,Teen
+31-Oct-16,Missouri,Saint Louis,4400 block of Richard,0,2,N/A,Intentional,Teen
+30-Oct-16,Kentucky,Louisville,4300 block of River Park Drive,0,1,N/A,Intentional,Teen
+30-Oct-16,New York,Bronx,West 165th Street,0,3,N/A,Intentional,Teen
+30-Oct-16,Florida,Tampa,2307 East Busch Boulevard,1,1,N/A,Intentional,Teen
+30-Oct-16,California,Santa Ana,300 block of Walnut Street,0,1,N/A,Intentional,Teen
+30-Oct-16,Alabama,Huntsville,Doak Drive and Joppa Circle,0,3,N/A,Intentional,Teen
+30-Oct-16,Louisiana,Plain Dealing,N/A,0,1,N/A,Intentional,Teen
+30-Oct-16,Texas,San Antonio,400 block of Dorie Street,0,1,N/A,Intentional,Teen
+29-Oct-16,Massachusetts,Boston,152 Washington Street,1,1,N/A,Intentional,Teen
+28-Oct-16,California,Merced,4600 block of Beckman Way,0,3,N/A,Intentional,Teen
+28-Oct-16,Illinois,Chicago,100 block of East 56th Street,0,1,N/A,Intentional,Teen
+28-Oct-16,West Virginia,Hedgesville,Durham Drive,0,1,N/A,Intentional,Teen
+27-Oct-16,Illinois,East Saint Louis,700 block of Summit Avenue,1,1,N/A,Intentional,Teen
+27-Oct-16,Illinois,Chicago,200 block of South Lotus,0,1,N/A,Intentional,Teen
+27-Oct-16,Louisiana,Metairie,8100 bock of Airline Drive,0,1,N/A,Intentional,Teen
+26-Oct-16,Virginia,Newport News,1100 block of 42nd Street,0,1,N/A,Intentional,Teen
+26-Oct-16,Ohio,Zanesville,507 Imlay Avenue,0,1,N/A,Intentional,Teen
+26-Oct-16,Georgia,Atlanta,35 Hamilton E Holmes Dr NW,1,1,N/A,Intentional,Teen
+26-Oct-16,Florida,Pinellas Park,7600 block of 62nd Way,0,1,N/A,Intentional,Teen
+26-Oct-16,California,Santa Ana,1500 block of North Durant Street,0,2,N/A,Intentional,Teen
+26-Oct-16,Illinois,Chicago (Englewood),700 block of West 59th,0,1,N/A,Intentional,Teen
+25-Oct-16,Washington,Yakima,Fourth and Pine,0,1,N/A,Intentional,Teen
+25-Oct-16,South Carolina,Anderson,Montague Street,0,3,N/A,Intentional,Teen
+25-Oct-16,Utah,Sandy,615 E. 8000 South,0,1,N/A,Intentional,Teen
+25-Oct-16,Florida,Jacksonville,3300 block of Nancy Street,0,2,N/A,Intentional,Teen
+25-Oct-16,Texas,San Antonio,6222 South New Braunfels Avenue,0,1,N/A,Intentional,Teen
+25-Oct-16,Illinois,Chicago,6500 block of South King,0,1,N/A,Intentional,Teen
+25-Oct-16,New Jersey,Newark,Lincoln Street and Eagles Parkway,0,2,N/A,Intentional,Teen
+25-Oct-16,California,Los Angeles,Pacific Coast Highway and Broad Avenue,1,2,N/A,Intentional,Teen
+24-Oct-16,Ohio,Columbus,Selkirk Rd and Seabrook Ave,0,1,N/A,Intentional,Teen
+24-Oct-16,Colorado,El Paso (county),Eastonville and Judge Orr Road,0,1,N/A,Intentional,Teen
+24-Oct-16,Illinois,Chicago (Roseland),10900 block of South Princeton,0,1,N/A,Intentional,Teen
+23-Oct-16,Florida,Bradenton,6000 block of 34th Street West,0,1,N/A,Intentional,Teen
+23-Oct-16,Nevada,Reno,Douglas Alley and North Virginia Street,1,2,N/A,Intentional,Teen
+23-Oct-16,New York,Corona (Queens),17900 block of 90th Avenue,0,1,N/A,Intentional,Teen
+23-Oct-16,Illinois,Chicago,2100 block of South Western,0,1,N/A,Intentional,Teen
+23-Oct-16,Georgia,Savannah,600 block of Cape Street,0,1,N/A,Intentional,Teen
+23-Oct-16,Wisconsin,Milwaukee,39th and Florist,0,1,N/A,Intentional,Teen
+23-Oct-16,Illinois,Chicago,3700 block of West 25th Stree,0,1,N/A,Intentional,Teen
+23-Oct-16,North Carolina,Durham,1303 Leon Street,0,1,N/A,Intentional,Teen
+23-Oct-16,Illinois,Chicago,1500 block of West 81st Street,0,1,N/A,Intentional,Teen
+22-Oct-16,Ohio,Cleveland,West 28th Street,0,1,N/A,Intentional,Teen
+22-Oct-16,Colorado,Denver,Bruce Randolph Avenue and York Street,0,1,N/A,Intentional,Teen
+22-Oct-16,Pennsylvania,Philadelphia,2805 N 22nd St,1,1,N/A,Intentional,Teen
+22-Oct-16,California,Fullerton,2300 block of Iris Court,0,1,N/A,Intentional,Teen
+22-Oct-16,Texas,Del Rio,Cortinas St,0,1,N/A,Intentional,Teen
+22-Oct-16,Maine,New Sharon,236 Starks Road,0,1,N/A,Intentional,Teen
+22-Oct-16,Florida,Miami,101 NW 34th St,0,3,N/A,Intentional,Teen
+22-Oct-16,Georgia,Atlanta,Metropolitan Parkway,0,1,N/A,Intentional,Teen
+22-Oct-16,Illinois,Chicago,8900 block of South Winchester,0,2,N/A,Intentional,Teen
+22-Oct-16,Illinois,Chicago,7900 block of South Francisco Avenue,0,1,N/A,Intentional,Teen
+22-Oct-16,Georgia,Lagrange,716 Glenn Robertson Street,0,1,N/A,Intentional,Teen
+22-Oct-16,Massachusetts,Springfield,31 Acorn Street,0,1,N/A,Intentional,Teen
+22-Oct-16,Florida,Daytona Beach,223 S Dr Martin Luther King Jr Blvd.,0,1,N/A,Intentional,Teen
+22-Oct-16,Ohio,Cleveland,East 131st,0,2,N/A,Intentional,Teen
+21-Oct-16,New York,Rochester,833 Bay Street,0,1,N/A,Intentional,Teen
+21-Oct-16,Texas,Houston,304 East 39th Street,0,4,N/A,Intentional,Teen
+21-Oct-16,Mississippi,Jackson,2100 block of McFadden Road,0,1,N/A,Intentional,Teen
+21-Oct-16,Pennsylvania,Harrisburg,2400 block of Reel Street,0,1,N/A,Intentional,Teen
+21-Oct-16,California,Oakland,8900 block of Olive Street,0,1,N/A,Intentional,Teen
+21-Oct-16,Illinois,Chicago,1800 block of West 54th Street,0,2,N/A,Intentional,Teen
+20-Oct-16,New Jersey,Paterson,229 Rosa Parks Boulevard,0,1,N/A,Intentional,Teen
+20-Oct-16,Illinois,Chicago,4300 block of South Michigan,0,1,N/A,Intentional,Teen
+19-Oct-16,Massachusetts,Chelsea,58 Bellingham Street,0,1,N/A,Intentional,Teen
+19-Oct-16,Illinois,Chicago,7500 block of South Loomis,0,1,N/A,Intentional,Teen
+18-Oct-16,Florida,Cape Coral,1400 block of Southwest 54th Terrace,0,1,N/A,Intentional,Teen
+18-Oct-16,Florida,Bradenton,5400 block of 24th Street West,0,1,N/A,Intentional,Teen
+18-Oct-16,Georgia,Savannah,2100 block Hanson Street,0,1,N/A,Intentional,Teen
+18-Oct-16,Louisiana,New Orleans,Louisa Street and Almonaster Avenue,0,2,N/A,Intentional,Teen
+18-Oct-16,California,San Francisco,325 La Grande Avenue,0,4,N/A,Intentional,Teen
+18-Oct-16,California,Los Angeles,83rd and Main street,0,2,N/A,Intentional,Teen
+17-Oct-16,Georgia,Columbus,McNeese Drive,0,1,N/A,Intentional,Teen
+17-Oct-16,Illinois,Chicago (Englewood),6700 block of South Winchester,1,4,N/A,Intentional,Teen
+17-Oct-16,Indiana,Elkhart,311 East Carlton Avenue,0,2,N/A,Intentional,Teen
+16-Oct-16,Florida,Gainesville,6500 block of Southwest Archer Road,0,1,N/A,Intentional,Teen
+16-Oct-16,Utah,Salt Lake City,1344 S. Emery Street,0,1,N/A,Intentional,Teen
+16-Oct-16,Kansas,Cowley (county),22000 block of 12th Road,0,1,N/A,Intentional,Teen
+16-Oct-16,Florida,Hallandale (Hallandale Beach),700 block of Northwest 7th Avenue,1,1,N/A,Intentional,Teen
+16-Oct-16,Tennessee,Chattanooga,4100 block of Kirkland Avenue,0,1,N/A,Intentional,Teen
+16-Oct-16,New York,Syracuse,100 block of Niven Street,0,1,N/A,Intentional,Teen
+16-Oct-16,New Jersey,Trenton,1 block of Oakland Street,0,1,N/A,Intentional,Teen
+16-Oct-16,Georgia,Lithonia,5375 Fairington Rd,0,3,N/A,Intentional,Teen
+16-Oct-16,Illinois,Chicago,2300 block of North Monitor,0,1,N/A,Intentional,Teen
+16-Oct-16,North Dakota,Abercrombie,N/A,0,1,N/A,Intentional,Teen
+16-Oct-16,California,Oakland,1100 block of Eighth Street,0,1,N/A,Intentional,Teen
+16-Oct-16,California,Oakland,Keller Avenue and Interstate 580,0,1,N/A,Intentional,Teen
+15-Oct-16,Alabama,Mobile,1800 block of St Stephens Road,0,5,N/A,Intentional,Teen
+15-Oct-16,Florida,Miami Gardens,2700 block of Northwest 173rd Terrace,0,1,N/A,Intentional,Teen
+15-Oct-16,Florida,Miami Gardens,2350 West Bunche Park Drive,0,3,N/A,Intentional,Teen
+15-Oct-16,Virginia,Richmond,Redd and Coulter Street,0,2,N/A,Intentional,Teen
+15-Oct-16,Illinois,Peoria,1800 block of North Bigelow Street,0,1,N/A,Intentional,Teen
+15-Oct-16,Illinois,Chicago,2300 block of North Normandy,0,1,N/A,Intentional,Teen
+15-Oct-16,California,Oakland,2400 block of Telegraph Avenue,0,1,N/A,Intentional,Teen
+14-Oct-16,Ohio,Cleveland,16602 Dynes Ave,0,1,N/A,Intentional,Teen
+14-Oct-16,California,Fresno,East Clinton Avenue and North Del Mar Avenue,0,1,N/A,Intentional,Teen
+14-Oct-16,Virginia,Danville,West James Street,0,1,N/A,Intentional,Teen
+14-Oct-16,Illinois,Chicago,1500 block of West Farwell Avenue,0,1,N/A,Intentional,Teen
+14-Oct-16,Illinois,Freeport,1100 block of South State Ave,0,1,N/A,Intentional,Teen
+14-Oct-16,Texas,Houston,Westheimer,0,1,N/A,Intentional,Teen
+13-Oct-16,South Carolina,Conway,1404 Church St,0,1,N/A,Intentional,Teen
+13-Oct-16,Ohio,Columbus,1320 Duxberry Ave,0,2,N/A,Intentional,Teen
+13-Oct-16,Colorado,Arapahoe (county),Parker Road and East Florida Avenue,0,1,N/A,Intentional,Teen
+13-Oct-16,Mississippi,Jackson,Derrick Street,0,1,N/A,Intentional,Teen
+13-Oct-16,Virginia,Norfolk,1700 block of Vernon Drive,0,2,N/A,Intentional,Teen
+13-Oct-16,California,San Diego,400 block of 32nd Street,0,1,N/A,Intentional,Teen
+13-Oct-16,New York,Buffalo,Leroy Avenue and Hill Street,1,1,N/A,Intentional,Teen
+13-Oct-16,Oregon,Portland,120th Avenue and Harold Street,0,1,N/A,Intentional,Teen
+12-Oct-16,Florida,Miami Gardens,NW 6th Ave and 181st St,0,1,N/A,Intentional,Teen
+12-Oct-16,Ohio,Cleveland,5902 Storer Ave,0,3,N/A,Intentional,Teen
+12-Oct-16,Kentucky,Louisville,5600 block of Rustic Way,0,1,N/A,Intentional,Teen
+12-Oct-16,Arizona,Peoria,7522 W Deer Valley Rd,0,2,N/A,Intentional,Teen
+12-Oct-16,New Jersey,Atlantic City,1300 block of Caspian Avenue,0,1,N/A,Intentional,Teen
+12-Oct-16,Illinois,Chicago,1100 block of North Lawler,0,1,N/A,Intentional,Teen
+12-Oct-16,Texas,Killeen,3320 East Rancier Avenue,0,1,N/A,Intentional,Teen
+11-Oct-16,Illinois,Chicago,2500 block of North Kostner,1,1,N/A,Intentional,Teen
+11-Oct-16,North Carolina,Greensboro,2300 Juliet Place,1,1,N/A,Intentional,Teen
+11-Oct-16,Rhode Island,Providence,Cypress and Camp Street,0,2,N/A,Intentional,Teen
+11-Oct-16,Florida,Miami Gardens,Northwest Sixth Avenue and 181st Street,0,1,N/A,Intentional,Teen
+11-Oct-16,Tennessee,Memphis,1559 Sycamore View Road,0,1,N/A,Intentional,Teen
+11-Oct-16,Texas,San Antonio,8500 block of Glen Shadow,0,1,N/A,Intentional,Teen
+11-Oct-16,Illinois,Chicago,2800 block of South Central Park,0,1,N/A,Intentional,Teen
+11-Oct-16,Alabama,Mobile,913 North Wilson Avenue,0,1,N/A,Intentional,Teen
+10-Oct-16,New York,Syracuse,Atlantic Avenue and Ballantyne Road,0,1,N/A,Intentional,Teen
+10-Oct-16,Connecticut,Groton,117 Long Hill Rd,0,2,N/A,Intentional,Teen
+10-Oct-16,Washington,Everett,900 block of West Casino Road,0,1,N/A,Intentional,Teen
+10-Oct-16,Tennessee,Memphis,1800 block of Lauderdale Street,0,2,N/A,Intentional,Teen
+10-Oct-16,Pennsylvania,Philadelphia,900 block of Granite Street,0,1,N/A,Intentional,Teen
+10-Oct-16,Illinois,Chicago,800 block of North Central Avenue,0,1,N/A,Intentional,Teen
+10-Oct-16,Pennsylvania,Philadelphia,3100 block of Stirling Street,1,2,N/A,Intentional,Teen
+10-Oct-16,Illinois,Chicago,2600 block of South California,0,1,N/A,Intentional,Teen
+10-Oct-16,Illinois,Chicago,5500 block of West Lake,0,2,N/A,Intentional,Teen
+10-Oct-16,Illinois,Chicago,6700 block of South Francisco,0,1,N/A,Intentional,Teen
+10-Oct-16,Illinois,Chicago (Englewood),2000 block of West 70th Place,0,3,N/A,Intentional,Teen
+10-Oct-16,Illinois,Chicago,3000 block of West Flournoy,0,1,N/A,Intentional,Teen
+10-Oct-16,Georgia,Macon,Broadway and Fulton Street,0,1,N/A,Intentional,Teen
+10-Oct-16,South Carolina,Saint Matthews,1300 Burke Rd,1,1,N/A,Intentional,Teen
+10-Oct-16,Illinois,Chicago,2100 block of South Trumbull,0,1,N/A,Intentional,Teen
+10-Oct-16,Illinois,Chicago,200 block of South Central,0,1,N/A,Intentional,Teen
+09-Oct-16,Kentucky,Lexington,1880 Eastland Parkway,0,1,N/A,Intentional,Teen
+09-Oct-16,California,San Francisco,26th and Valencia Street,0,1,N/A,Intentional,Teen
+09-Oct-16,Louisiana,New Orleans,7700 block of South Cornet Court,0,1,N/A,Intentional,Teen
+09-Oct-16,Colorado,Denver,2830 North High Street,1,1,N/A,Intentional,Teen
+09-Oct-16,Michigan,Detroit,8500 block of Terry,0,1,N/A,Intentional,Teen
+08-Oct-16,Washington,Spokane,Standard and Ermina,0,1,N/A,Intentional,Teen
+08-Oct-16,Ohio,Cleveland,East 55th Street,0,1,N/A,Intentional,Teen
+08-Oct-16,Illinois,Chicago,2600 block of North Hoyne,0,1,N/A,Intentional,Teen
+08-Oct-16,Illinois,Chicago,10500 block of South Wallace,0,2,N/A,Intentional,Teen
+08-Oct-16,Pennsylvania,Philadelphia,5900 block of Horrocks Street,0,1,N/A,Intentional,Teen
+08-Oct-16,Pennsylvania,Pittsburgh (Mt Washington),300 block of Virginia Street,0,1,N/A,Intentional,Teen
+08-Oct-16,Kansas,Kansas City,748 Washington Boulevard,0,1,N/A,Intentional,Teen
+07-Oct-16,Illinois,Chicago (Englewood),6800 block of South Paulina,0,1,N/A,Intentional,Teen
+07-Oct-16,Illinois,Chicago,1400 block of South Springfield,0,1,N/A,Intentional,Teen
+07-Oct-16,New York,Utica,York and Court street,0,1,N/A,Intentional,Teen
+06-Oct-16,Illinois,Chicago,0 block of South Leamington,0,1,N/A,Intentional,Teen
+06-Oct-16,Arkansas,Little Rock,16th St. and Peyton,0,2,N/A,Intentional,Teen
+06-Oct-16,Arkansas,Little Rock,1600 block of Cone Ln.,0,1,N/A,Intentional,Teen
+06-Oct-16,Louisiana,Rayville,Tradition Street,0,1,N/A,Intentional,Teen
+05-Oct-16,Virginia,Virginia Beach,5600 block of Baker Court,0,1,N/A,Intentional,Teen
+05-Oct-16,Tennessee,Knoxville,2603 Martin Luther King Jr. Avenue,0,1,N/A,Intentional,Teen
+05-Oct-16,Tennessee,Nashville,16th Ave North,0,1,N/A,Intentional,Teen
+05-Oct-16,North Dakota,Enderlin,N/A,0,1,N/A,Intentional,Teen
+04-Oct-16,Tennessee,Nashville,Buchanan Street,0,1,N/A,Intentional,Teen
+04-Oct-16,Tennessee,Nashville,1400 block of 16th Avenue North,0,1,N/A,Intentional,Teen
+04-Oct-16,Oklahoma,Tulsa,N. Lewis Avenue and E. Ute Street,0,1,N/A,Intentional,Teen
+04-Oct-16,Virginia,Dumfries,3800 block of Graham Park Rd,0,1,N/A,Intentional,Teen
+04-Oct-16,Florida,Immokalee,300 block of South Seventh Street,0,1,N/A,Intentional,Teen
+04-Oct-16,Pennsylvania,Darby (Collingdale),Wayne Ave and MacDade Blvd,0,1,N/A,Intentional,Teen
+04-Oct-16,Oregon,Portland,East Burnside and 122nd Avenue,0,1,N/A,Intentional,Teen
+03-Oct-16,Ohio,Cincinnati,Derrick Turnbow Avenue and Linn Street,0,1,N/A,Intentional,Teen
+03-Oct-16,Minnesota,Minneapolis,Fourth Street and Hennepin Avenue,0,4,N/A,Intentional,Teen
+03-Oct-16,Illinois,Chicago,4200 block of South Sacramento,0,2,N/A,Intentional,Teen
+03-Oct-16,Arkansas,Little Rock,John Barrow Road and Kanis,0,1,N/A,Intentional,Teen
+02-Oct-16,Tennessee,Memphis,3400 block of Dupre Street,0,1,N/A,Intentional,Teen
+02-Oct-16,New Jersey,Trenton,600 block of Rutherford Avenue,0,1,N/A,Intentional,Teen
+02-Oct-16,Tennessee,Nashville,N/A,0,1,N/A,Intentional,Teen
+02-Oct-16,North Carolina,Kinston,1500 block of Howard Street,0,1,N/A,Intentional,Teen
+02-Oct-16,Missouri,Saint Louis (St. Louis),5000 block of Davison Ave,0,1,N/A,Intentional,Teen
+02-Oct-16,Indiana,Indianapolis,1150 block of Shelby Street,0,1,N/A,Intentional,Teen
+02-Oct-16,California,Oakland,75th Avenue and Hamilton Street,0,1,N/A,Intentional,Teen
+02-Oct-16,New Jersey,Jersey City,N/A,0,1,N/A,Intentional,Teen
+01-Oct-16,Massachusetts,Worcester,267 Lincoln Street,0,1,N/A,Intentional,Teen
+01-Oct-16,Louisiana,Shreveport,327 Kings Highway,1,1,N/A,Intentional,Teen
+01-Oct-16,Illinois,Chicago (Roseland),11300 block of South Harvard,0,1,N/A,Intentional,Teen
+01-Oct-16,Illinois,Chicago,3200 block of West Washington,0,1,N/A,Intentional,Teen
+01-Oct-16,Illinois,Chicago (Englewood),6600 block of South Sangamon,0,1,N/A,Intentional,Teen
+01-Oct-16,Ohio,Lima,4251 Reservoir Road,0,1,N/A,Intentional,Teen
+01-Oct-16,Pennsylvania,Allentown,500 block of North 11th Street,0,1,N/A,Intentional,Teen
+30-Sep-16,Ohio,Cleveland,14000 block of Elsetta Avenue,0,2,N/A,Intentional,Teen
+30-Sep-16,California,Sacramento,8485 Auberry Drive,0,2,N/A,Intentional,Teen
+30-Sep-16,Arkansas,Little Rock,13th and Rice,0,3,N/A,Intentional,Teen
+30-Sep-16,Illinois,Chicago,3300 block of West 16th Street,0,1,N/A,Intentional,Teen
+29-Sep-16,Tennessee,Nashville,800 block of 40th Avenue North,0,1,N/A,Intentional,Teen
+29-Sep-16,Florida,Miami Gardens,19162 Northwest 46th Avenue,0,3,N/A,Intentional,Teen
+29-Sep-16,Illinois,Chicago,7800 block of South Maryland,0,1,N/A,Intentional,Teen
+29-Sep-16,California,Fresno,Sowell and Kaweah,0,1,N/A,Intentional,Teen
+28-Sep-16,Florida,Orlando,16900 East Colonial Drive,0,2,N/A,Intentional,Teen
+28-Sep-16,Virginia,Richmond,1100 block of Sumpter Street,0,1,N/A,Intentional,Teen
+28-Sep-16,Florida,Ocala,400 block of Northwest Ninth Street,0,2,N/A,Intentional,Teen
+26-Sep-16,Texas,Humble,21219 Grand Linden Court,0,4,N/A,Intentional,Teen
+26-Sep-16,Ohio,Cleveland,3300 block of East 149th Street,0,2,N/A,Intentional,Teen
+26-Sep-16,Michigan,Pontiac,North Perry and Martin Luther King Boulevard,0,1,N/A,Intentional,Teen
+26-Sep-16,Michigan,Grand Rapids,1400 block of Eastern Avenue Southeast,1,1,N/A,Intentional,Teen
+26-Sep-16,New York,Brooklyn,Park Avenue and Hall Street,0,1,N/A,Intentional,Teen
+26-Sep-16,Michigan,Jackson,310 West Morrell Street,0,1,N/A,Intentional,Teen
+26-Sep-16,Kentucky,Lexington,3500 block of Gunbow Court,0,1,N/A,Intentional,Teen
+26-Sep-16,Illinois,Chicago,1300 block of South Kedzie Avenue,0,1,N/A,Intentional,Teen
+26-Sep-16,Texas,Tyler,2000 block of Carlyle Avenue,0,1,N/A,Intentional,Teen
+26-Sep-16,Illinois,Chicago,3500 block of West 57th Street,0,1,N/A,Intentional,Teen
+26-Sep-16,Illinois,Chicago,3800 block of West Roosevelt Road,0,2,N/A,Intentional,Teen
+26-Sep-16,Alabama,Huntsville,10th Ave.,0,1,N/A,Intentional,Teen
+26-Sep-16,Illinois,Chicago (Englewood),1900 block of West Marquette,0,1,N/A,Intentional,Teen
+26-Sep-16,Georgia,Norcross,1400 block of Wingfoot Way,0,1,N/A,Intentional,Teen
+26-Sep-16,Wisconsin,Milwaukee,2800 block of North Holton Street,0,1,N/A,Intentional,Teen
+25-Sep-16,Washington,Vancouver,4501 S.E. Columbia Way,0,2,N/A,Intentional,Teen
+25-Sep-16,Pennsylvania,Charleroi,900 block of Fallowfield Avenue,0,2,N/A,Intentional,Teen
+25-Sep-16,Alabama,Birmingham,2nd Avenue and 43rd Street South,0,1,N/A,Intentional,Teen
+25-Sep-16,Tennessee,Nashville (Donelson),209 Blue Hills Drive,0,1,N/A,Intentional,Teen
+25-Sep-16,Illinois,Chicago,200 block of South Leamington,0,1,N/A,Intentional,Teen
+25-Sep-16,North Carolina,Rocky Mount,Pennsylvania Avenue,0,1,N/A,Intentional,Teen
+24-Sep-16,Michigan,Flint,600 block of Odette Street,0,2,N/A,Intentional,Teen
+24-Sep-16,Utah,Sandy,9575 S State St,0,2,N/A,Intentional,Teen
+24-Sep-16,Illinois,Chicago,11800 block of South Union,0,1,N/A,Intentional,Teen
+24-Sep-16,Illinois,Chicago,8000 block of South Kingston,0,1,N/A,Intentional,Teen
+24-Sep-16,Illinois,Chicago,5100 block of South Ada Street,0,1,N/A,Intentional,Teen
+24-Sep-16,Pennsylvania,Pittsburgh,5000 block of Stanton Avenue,0,2,N/A,Intentional,Teen
+23-Sep-16,Iowa,Des Moines,N/A,0,1,N/A,Intentional,Teen
+23-Sep-16,Alabama,Bessemer (Hueytown),3069 Allison-Bonnett Memorial Drive,0,1,N/A,Intentional,Teen
+23-Sep-16,Illinois,Chicago,200 block of East 58th Street,0,1,N/A,Intentional,Teen
+23-Sep-16,Missouri,Saint Louis,1200 block of N. Euclid Avenue,0,1,N/A,Intentional,Teen
+22-Sep-16,Texas,Austin,5900 block of East Stassney Lane,0,1,N/A,Intentional,Teen
+21-Sep-16,Louisiana,Marrero,2000 block of Rue Racine,0,1,N/A,Intentional,Teen
+21-Sep-16,Illinois,Chicago,6300 block of South Cottage Grove,0,1,N/A,Intentional,Teen
+21-Sep-16,Tennessee,Memphis,Wells Station and Gray,0,1,N/A,Intentional,Teen
+21-Sep-16,Pennsylvania,York,West Newton and South West streets,0,1,N/A,Intentional,Teen
+21-Sep-16,California,Berkeley,Sacramento and Russell Streets,0,1,N/A,Intentional,Teen
+20-Sep-16,Virginia,Manassas,7791 Sudley Road,0,1,N/A,Intentional,Teen
+20-Sep-16,North Carolina,Wilmington,15th and Castle Streets,0,1,N/A,Intentional,Teen
+20-Sep-16,Indiana,Gary,700 block of West 25th Avenue,0,1,N/A,Intentional,Teen
+20-Sep-16,Florida,Miami,4725 Northwest 24th Avenue,0,1,N/A,Intentional,Teen
+20-Sep-16,North Carolina,Durham,700 block of Massey Avenue,0,2,N/A,Intentional,Teen
+20-Sep-16,Alabama,Selma,King Street and Dallas Avenue,0,1,N/A,Intentional,Teen
+19-Sep-16,Florida,Jacksonville,North Pearl and West 62nd Street,0,1,N/A,Intentional,Teen
+19-Sep-16,Missouri,Saint Louis,660 Rosedale Avenue,0,1,N/A,Intentional,Teen
+18-Sep-16,Illinois,Chicago (Englewood),1200 block of West 71st Street,0,1,N/A,Intentional,Teen
+18-Sep-16,Florida,Jacksonville,West 9th Street and Myrtle Avenue,0,1,N/A,Intentional,Teen
+18-Sep-16,Florida,Jacksonville,2500 block of Robert Street,0,3,N/A,Intentional,Teen
+18-Sep-16,Illinois,Chicago,3900 block of West Cermak Road,0,1,N/A,Intentional,Teen
+18-Sep-16,Ohio,Cincinnati (Lincoln Heights),931 Adams Street,0,4,N/A,Intentional,Teen
+18-Sep-16,Illinois,Chicago,3900 block of West Lexington,0,2,N/A,Intentional,Teen
+18-Sep-16,Maryland,Baltimore,1500 block of North Fremont,0,1,N/A,Intentional,Teen
+18-Sep-16,Maryland,Baltimore,900 block of Ashburton Street,0,1,N/A,Intentional,Teen
+18-Sep-16,Illinois,Chicago,6600 block of South Rhodes Avenue,0,1,N/A,Intentional,Teen
+17-Sep-16,Texas,San Antonio,Grant Avenue and Mariposa,0,1,N/A,Intentional,Teen
+17-Sep-16,Illinois,Chicago,5100 block of South Sawyer Street,0,2,N/A,Intentional,Teen
+17-Sep-16,Florida,Miami,20582 Southwest 119th Avenue,0,6,N/A,Intentional,Teen
+17-Sep-16,Texas,San Antonio,N/A,0,1,N/A,Intentional,Teen
+17-Sep-16,Tennessee,Jackson,Point-O-Woods Drive,0,1,N/A,Intentional,Teen
+17-Sep-16,Illinois,Chicago,1000 block of West 103rd Place,0,1,N/A,Intentional,Teen
+16-Sep-16,Texas,Harris (county),N/A,0,1,N/A,Intentional,Teen
+16-Sep-16,Georgia,Morgan (county),Hawkins Avenue,0,1,N/A,Intentional,Teen
+16-Sep-16,California,Santa Ana,400 block of South Birch Street,1,1,N/A,Intentional,Teen
+16-Sep-16,California,North Hills,Sepulveda Blvd and Chase St,0,1,N/A,Intentional,Teen
+16-Sep-16,Connecticut,New Haven,Winchester Avenue and Lilac Street,0,2,N/A,Intentional,Teen
+15-Sep-16,North Carolina,Reidsville,500 block of McCoy Street,0,2,N/A,Intentional,Teen
+15-Sep-16,California,Oakland,1600 block of 78th Avenue,0,1,N/A,Intentional,Teen
+15-Sep-16,California,Oakland,9900 block of Pippin Street,0,1,N/A,Intentional,Teen
+15-Sep-16,Wisconsin,Milwaukee,7878 N 60th Street,0,1,N/A,Intentional,Teen
+15-Sep-16,California,Fresno,2500 block of Fairmont,0,1,N/A,Intentional,Teen
+14-Sep-16,Ohio,Cleveland,East 70th Street and Hough Avenue,0,1,N/A,Intentional,Teen
+14-Sep-16,Delaware,Wilmington,2600 block of North Market Street,0,1,N/A,Intentional,Teen
+14-Sep-16,California,Pomona,2900 block of Hollander Street,0,1,N/A,Intentional,Teen
+14-Sep-16,Virginia,Manassas,9800 block Maury Lane,0,3,N/A,Intentional,Teen
+14-Sep-16,North Carolina,Jacksonville,N/A,0,1,N/A,Intentional,Teen
+14-Sep-16,South Carolina,Columbia,169 Brook Pines Drive,0,2,N/A,Intentional,Teen
+13-Sep-16,Maryland,Baltimore,1300 block of North Carey Street,0,1,N/A,Intentional,Teen
+13-Sep-16,Maryland,Baltimore,700 block of Mello Court,0,1,N/A,Intentional,Teen
+13-Sep-16,New Jersey,Trenton,100 block of Pearl Street,0,3,N/A,Intentional,Teen
+13-Sep-16,Indiana,Fort Wayne,1723 E Wayne St,3,2,N/A,Intentional,Teen
+13-Sep-16,Pennsylvania,Pittsburgh,6th Street,0,1,N/A,Intentional,Teen
+13-Sep-16,Washington,Seattle,23rd Ave. and E. Cherry Street,0,1,N/A,Intentional,Teen
+12-Sep-16,Maryland,Baltimore,1500 block of North Fremont Street,0,1,N/A,Intentional,Teen
+12-Sep-16,Florida,Pompano Beach,800 block of Hammondville Road,0,1,N/A,Intentional,Teen
+12-Sep-16,Nebraska,Omaha,103rd and Seward Street,0,2,N/A,Intentional,Teen
+11-Sep-16,Illinois,Chicago,8900 block of South Justine Street,1,2,N/A,Intentional,Teen
+11-Sep-16,Indiana,Fort Wayne,3006 Holton Avenue,3,1,N/A,Intentional,Teen
+11-Sep-16,Florida,Jacksonville,5700 block of Lexington Avenue,0,3,N/A,Intentional,Teen
+11-Sep-16,California,Napa,First Street and Freeway Drive,0,1,N/A,Intentional,Teen
+11-Sep-16,Illinois,Chicago (Englewood),6000 block of South Wood,0,1,N/A,Intentional,Teen
+11-Sep-16,Arizona,Phoenix,Buckeye and 83rd,0,2,N/A,Intentional,Teen
+10-Sep-16,Maryland,Baltimore,900 block of Ashburton Street,0,1,N/A,Intentional,Teen
+10-Sep-16,Delaware,New Castle,Del. 273 and Airport Road,0,1,N/A,Intentional,Teen
+10-Sep-16,Illinois,Chicago (Roseland),10900 block of South Eberhart Avenue,0,1,N/A,Intentional,Teen
+10-Sep-16,California,Santa Ana,700 block of West Third Street,0,1,N/A,Intentional,Teen
+10-Sep-16,Connecticut,Stamford,Strawberry Hill Avenue,0,1,N/A,Intentional,Teen
+10-Sep-16,California,Oakland,2300 block of 25th Avenue,0,1,N/A,Intentional,Teen
+10-Sep-16,California,Oroville,2400 block of D Street,0,1,N/A,Intentional,Teen
+10-Sep-16,Florida,Miami,Northwest 5th Avenue and Northwest 7th Street,0,1,N/A,Intentional,Teen
+10-Sep-16,Illinois,Chicago,5500 block of West Ohio,0,1,N/A,Intentional,Teen
+10-Sep-16,California,Los Angeles (Watts),1500 block of 92nd street,0,1,N/A,Intentional,Teen
+10-Sep-16,California,San Francisco,4700 block of Third Street,0,1,N/A,Intentional,Teen
+09-Sep-16,New Jersey,Trenton,100 East Paul Avenue,0,1,N/A,Intentional,Teen
+09-Sep-16,Michigan,Detroit,Seven Mile,0,3,N/A,Intentional,Teen
+09-Sep-16,Pennsylvania,Philadelphia,5th and Erie,0,3,N/A,Intentional,Teen
+08-Sep-16,Texas,Alpine,704 West Sul Ross Avenue,1,2,N/A,Intentional,Teen
+08-Sep-16,Tennessee,Nashville,Wildgrove Court,0,1,N/A,Intentional,Teen
+08-Sep-16,Arkansas,Hot Springs National Park (Hot Springs),300 block of Lacey Street,1,4,N/A,Intentional,Teen
+08-Sep-16,Pennsylvania,Pittsburgh,3875 Perrysville Ave,0,1,N/A,Intentional,Teen
+08-Sep-16,Utah,Salt Lake City (Kearns),5525 Cougar Lane,0,1,N/A,Intentional,Teen
+07-Sep-16,Ohio,Cincinnati,600 block of Dutch Colony Drive,0,2,N/A,Intentional,Teen
+07-Sep-16,Louisiana,New Orleans (River Ridge),300 block of Bengal Road,1,1,N/A,Intentional,Teen
+07-Sep-16,Florida,Pembroke Pines,18200 block of Northwest Fifteenth Lane,0,1,N/A,Intentional,Teen
+06-Sep-16,Ohio,Cleveland,2800 block of East 122nd Street,0,1,N/A,Intentional,Teen
+06-Sep-16,Illinois,Chicago,2600 block of West Crystal,0,1,N/A,Intentional,Teen
+06-Sep-16,Georgia,Atlanta,Crogman and Lansing Streets SE,0,1,N/A,Intentional,Teen
+05-Sep-16,Florida,Jacksonville,West 34th and Pearce Street,0,1,N/A,Intentional,Teen
+05-Sep-16,Georgia,Savannah,1200 block of East 41st Street,0,1,N/A,Intentional,Teen
+05-Sep-16,Kentucky,Lexington,Augusta Drive,0,1,N/A,Intentional,Teen
+05-Sep-16,Maryland,Baltimore,2100 block of Aiken St.,0,1,N/A,Intentional,Teen
+05-Sep-16,South Carolina,Fort Mill,Avenue of the Carolinas,0,1,N/A,Intentional,Teen
+05-Sep-16,Pennsylvania,Reading,600 block of Moss Street,0,4,N/A,Intentional,Teen
+05-Sep-16,Louisiana,New Orleans,Republic Street and Law Street,0,2,N/A,Intentional,Teen
+05-Sep-16,Washington,Spokane,East Cozza Drive and North Standard Street,0,1,N/A,Intentional,Teen
+05-Sep-16,Illinois,Chicago,2100 block of West Fargo Avenue,0,2,N/A,Intentional,Teen
+05-Sep-16,Illinois,Chicago,2700 block of West Lexington Avenue,2,3,N/A,Intentional,Teen
+05-Sep-16,Ohio,Ross (county),52 Reservation Circle,0,1,N/A,Intentional,Teen
+05-Sep-16,Kentucky,Louisville,2100 block of Beuchel Bank Road,0,1,N/A,Intentional,Teen
+04-Sep-16,Tennessee,Madison,100 block of Tuckahoe Square West,0,1,N/A,Intentional,Teen
+04-Sep-16,Ohio,Cincinnati,Broadway and Mehring Way,0,1,N/A,Intentional,Teen
+04-Sep-16,Georgia,Savannah,Bull Street,0,1,N/A,Intentional,Teen
+04-Sep-16,Ohio,North Ridgeville,5300 block of Lear Neagle Road,0,1,N/A,Intentional,Teen
+04-Sep-16,Illinois,Chicago,1400 block of North Laramie,0,1,N/A,Intentional,Teen
+04-Sep-16,Illinois,Chicago,5200 block of West LeMoyne Street,0,1,N/A,Intentional,Teen
+04-Sep-16,California,Stockton,Dallas Avenue and Connecticut Ave,1,1,N/A,Intentional,Teen
+04-Sep-16,Pennsylvania,Pittsburgh (Hazelwood),Winston Street,0,2,N/A,Intentional,Teen
+04-Sep-16,Virginia,Norfolk,1200 block of Underwood Avenue,0,1,N/A,Intentional,Teen
+04-Sep-16,California,Bakersfield,200 block of La Colina Drive,0,2,N/A,Intentional,Teen
+03-Sep-16,Virginia,Richmond,1300 block of Jennie Scher Road,0,1,N/A,Intentional,Teen
+03-Sep-16,Delaware,Wilmington,200 block of N. Franklin St.,0,1,N/A,Intentional,Teen
+03-Sep-16,Ohio,Toledo,2293 Kent St,0,1,N/A,Intentional,Teen
+03-Sep-16,Illinois,Chicago,4927 block of North Kenmore,0,2,N/A,Intentional,Teen
+03-Sep-16,Illinois,Chicago,100 block of North Parkside,0,1,N/A,Intentional,Teen
+03-Sep-16,Illinois,Chicago,5000 block of West Hirsch Street,0,1,N/A,Intentional,Teen
+02-Sep-16,Pennsylvania,Johnstown,Grove Avenue and Village Street,0,2,N/A,Intentional,Teen
+02-Sep-16,Oklahoma,Tulsa,4929 N. Peoria Avenue,0,1,N/A,Intentional,Teen
+02-Sep-16,Texas,Wichita Falls,5143 Kingston Drive,1,1,N/A,Intentional,Teen
+01-Sep-16,Delaware,Wilmington,300 block of W. 24th Street,0,1,N/A,Intentional,Teen
+01-Sep-16,Michigan,Jackson,1100 block of Adrian Street,0,1,N/A,Intentional,Teen
+01-Sep-16,Virginia,Newport News,35th and Marshall,0,2,N/A,Intentional,Teen
+01-Sep-16,Illinois,Chicago,500 block of North Central,0,1,N/A,Intentional,Teen
+01-Sep-16,Illinois,Chicago (Englewood),6700 block of South Hermitage Avenue,0,1,N/A,Intentional,Teen
+31-Aug-16,Texas,San Antonio,2700 block of East Houston Street,0,2,N/A,Intentional,Teen
+31-Aug-16,Tennessee,Memphis,3200 block of Covington Pike,0,1,N/A,Intentional,Teen
+25-Nov-16,District of Columbia,Washington,1200 block of I Street SE,1,0,N/A,Intentional,Teen
+25-Nov-16,Michigan,Detroit,16300 block of Lyndon,1,0,N/A,Intentional,Teen
+25-Nov-16,Virginia,Richmond,Milton St. and Meadowbridge Rd.,1,0,N/A,Intentional,Teen
+25-Nov-16,Tennessee,Antioch,Oceanfront Circle,1,0,N/A,Intentional,Teen
+25-Nov-16,Illinois,Chicago,800 block of South Throop,1,0,N/A,Intentional,Teen
+24-Nov-16,Kentucky,Lexington,Henton Road,1,0,N/A,Intentional,Teen
+24-Nov-16,California,Carmichael,5101 Marconi Avenue,1,0,N/A,Intentional,Teen
+24-Nov-16,Kansas,Wichita,1902 East Pawnee,1,0,N/A,Intentional,Teen
+23-Nov-16,California,Lynwood,12600 block of Long Beach Boulevard,1,0,N/A,Intentional,Teen
+23-Nov-16,California,Antioch,Mark Twain Drive and Ebbetts Way,1,0,N/A,Intentional,Teen
+23-Nov-16,South Carolina,Bluffton,N/A,1,0,N/A,Intentional,Teen
+22-Nov-16,Indiana,Anderson,1600 block of West 7th Street,1,0,N/A,Intentional,Teen
+22-Nov-16,Florida,Miami,Northwest 17th Avenue and Northwest 31st Street,1,2,N/A,Intentional,Teen
+21-Nov-16,Tennessee,Knoxville,6802 Cardindale Drive,1,0,N/A,Intentional,Teen
+21-Nov-16,West Virginia,Charleston,1555 Washington Street East,1,0,N/A,Intentional,Teen
+21-Nov-16,Illinois,Chicago,1300 block of South Homan,1,1,N/A,Intentional,Teen
+20-Nov-16,Ohio,Cleveland,3700 Block of East 54th St,1,0,N/A,Intentional,Teen
+19-Nov-16,California,Watsonville,348 Pioneer Road,1,0,N/A,Intentional,Teen
+18-Nov-16,Illinois,Chicago (Englewood),5600 block of South Princeton,1,0,N/A,Intentional,Teen
+18-Nov-16,Kentucky,Lexington,3564 Honey Jay Court,1,0,N/A,Intentional,Teen
+18-Nov-16,South Carolina,Clearwater,1022 Fairview Road,1,1,N/A,Intentional,Teen
+18-Nov-16,South Carolina,Greenwood,Meadow Street,1,0,N/A,Intentional,Teen
+17-Nov-16,Virginia,Danville,100 block of Piney Forest Road,1,0,N/A,Intentional,Teen
+17-Nov-16,Kentucky,Henderson,1000 Powell Street,1,1,N/A,Intentional,Teen
+14-Nov-16,Ohio,Cincinnati,2800 block of Vine Street,1,0,N/A,Intentional,Teen
+13-Nov-16,Alabama,Montgomery,3000 block of Woodley Road,1,0,N/A,Intentional,Teen
+13-Nov-16,Tennessee,Knoxville,Jourolman Avenue,1,0,N/A,Intentional,Teen
+13-Nov-16,North Carolina,Charlotte,8000 block of Sherington Way,1,0,N/A,Intentional,Teen
+11-Nov-16,Illinois,Waukegan,400 block of McKinley Avenue,1,0,N/A,Intentional,Teen
+11-Nov-16,Illinois,Rockford,900 N Rockton Ave,1,1,N/A,Intentional,Teen
+10-Nov-16,Kentucky,Louisville,4900 block of South First Street,1,0,N/A,Intentional,Teen
+08-Nov-16,Texas,Baytown,5400 block of Louise Street,2,0,N/A,Intentional,Teen
+08-Nov-16,Louisiana,Shreveport,3000 block of Boss Avenue,1,0,N/A,Intentional,Teen
+08-Nov-16,California,Sacramento,5700 block of Kadinsky Way,1,0,N/A,Intentional,Teen
+08-Nov-16,Virginia,Hampton,500 block of Pennsylvania Ave,1,0,N/A,Intentional,Teen
+08-Nov-16,Delaware,Claymont,200 block of Dewey Court,1,0,N/A,Intentional,Teen
+07-Nov-16,Pennsylvania,New Kensington (Arnold),1417 Orchard Ave,1,0,N/A,Intentional,Teen
+07-Nov-16,Louisiana,Crowley,1100 block of Smith Street,2,0,N/A,Intentional,Teen
+07-Nov-16,Illinois,Chicago,500 block of South Lockwood,1,0,N/A,Intentional,Teen
+07-Nov-16,Arkansas,Pine Bluff,26th and Beech street,1,0,N/A,Intentional,Teen
+07-Nov-16,Illinois,Chicago,4600 block of West Lake,1,0,N/A,Intentional,Teen
+06-Nov-16,Alabama,Phenix City,Riverchase Drive,1,2,N/A,Intentional,Teen
+06-Nov-16,Georgia,Atlanta,1800 block of Charleston Avenue,1,0,N/A,Intentional,Teen
+05-Nov-16,Connecticut,Waterbury,30 Porter Street,1,0,N/A,Intentional,Teen
+05-Nov-16,Florida,Jacksonville,1900 block of West 11th,1,0,N/A,Intentional,Teen
+04-Nov-16,Indiana,Indianapolis,5700 block of Port Lillian Dr.,1,0,N/A,Intentional,Teen
+03-Nov-16,Colorado,Berthoud,850 Spartan Avenue,1,0,N/A,Intentional,Teen
+03-Nov-16,Illinois,Chicago,8000 block of South Shore Drive,2,2,N/A,Intentional,Teen
+02-Nov-16,Colorado,Grand Junction,1400 North 5th Street,1,0,N/A,Intentional,Teen
+02-Nov-16,South Carolina,Summerville,107 Daffodil St.,1,0,N/A,Intentional,Teen
+01-Nov-16,North Carolina,Durham,412 E. Pilot Street,1,0,N/A,Intentional,Teen
+01-Nov-16,Pennsylvania,Trout Run,T847 and Lake Road,2,0,N/A,Intentional,Teen
+01-Nov-16,Georgia,Riverdale,Eagles Feather Lane,1,0,N/A,Intentional,Teen
+01-Nov-16,Tennessee,Memphis,5200 block of Zodiac Rd,1,5,N/A,Intentional,Teen
+31-Oct-16,Texas,Laredo,Arco Iris Road,2,0,N/A,Intentional,Teen
+30-Oct-16,New Jersey,Atlantic City,1400 Block of Magellan Ave,1,0,N/A,Intentional,Teen
+30-Oct-16,Pennsylvania,Norristown,600 block of George Street,1,0,N/A,Intentional,Teen
+30-Oct-16,Florida,Tampa,2307 East Busch Boulevard,1,1,N/A,Intentional,Teen
+30-Oct-16,Maryland,Capitol Heights,6860 Walker Mill Road,2,4,N/A,Intentional,Teen
+30-Oct-16,California,San Bernardino,700 block of West Virginia Street,1,0,N/A,Intentional,Teen
+30-Oct-16,Illinois,Chicago,1300 block of North Hudson,2,0,N/A,Intentional,Teen
+29-Oct-16,Illinois,Chicago,200 block of South Kostner Avenue,1,0,N/A,Intentional,Teen
+29-Oct-16,Illinois,Chicago,500 block of South Central,1,0,N/A,Intentional,Teen
+28-Oct-16,North Carolina,Southern Pines,714 West Michigan Avenue,1,1,N/A,Intentional,Teen
+27-Oct-16,Florida,Palm Beach Gardens (Riviera Beach),1100 block of West 28th Street,1,0,N/A,Intentional,Teen
+26-Oct-16,Georgia,Atlanta,35 Hamilton E Holmes Dr NW,1,1,N/A,Intentional,Teen
+26-Oct-16,Louisiana,Houma (Bayou Blue),207 Capri Court,1,2,N/A,Intentional,Teen
+26-Oct-16,South Carolina,North Charleston,2600 block of Ranger Drive,1,0,N/A,Intentional,Teen
+25-Oct-16,Florida,Fort Walton Beach,11 Pryor Road,3,0,N/A,Intentional,Teen
+25-Oct-16,California,Vista,400 block of Smilex Road,1,0,N/A,Intentional,Teen
+25-Oct-16,Wisconsin,Milwaukee,4000 N. 19th St,1,0,N/A,Intentional,Teen
+24-Oct-16,Illinois,Chicago,1200 block of North Pulaski,1,0,N/A,Intentional,Teen
+24-Oct-16,Missouri,Saint Louis,4300 block of Lee Avenue,1,0,N/A,Intentional,Teen
+24-Oct-16,Arizona,Phoenix,31st Avenue and Pierce Road,2,0,N/A,Intentional,Teen
+24-Oct-16,Louisiana,Franklin,Augustine Maze Street,1,0,N/A,Intentional,Teen
+24-Oct-16,Iowa,Des Moines,1107 Keosauqua Way,1,0,N/A,Intentional,Teen
+23-Oct-16,Indiana,Kokomo,904 West Jefferson Street,1,0,N/A,Intentional,Teen
+23-Oct-16,Nevada,Reno,Douglas Alley and North Virginia Street,1,2,N/A,Intentional,Teen
+23-Oct-16,Alabama,Mobile,St. Stephens Road,1,0,N/A,Intentional,Teen
+23-Oct-16,Mississippi,Southaven,2200 block of Cedar Point Cove,2,0,N/A,Intentional,Teen
+22-Oct-16,Ohio,Youngstown,2100 block of Volney Road,2,0,N/A,Intentional,Teen
+22-Oct-16,Florida,Orlando,2400 block of Kingsland Avenue,1,1,N/A,Intentional,Teen
+22-Oct-16,Georgia,Jonesboro,24 Libby Lane,2,0,N/A,Intentional,Teen
+22-Oct-16,Louisiana,Larose,East Avenue C,1,0,N/A,Intentional,Teen
+22-Oct-16,Maryland,Baltimore,3400 block of Juneway,1,0,N/A,Intentional,Teen
+21-Oct-16,Tennessee,Toone,Naylor Road,2,0,N/A,Intentional,Teen
+20-Oct-16,North Carolina,Charlotte,13500 block of Armour Ridge Drive,1,0,N/A,Intentional,Teen
+18-Oct-16,Mississippi,Laurel,N/A,1,0,N/A,Intentional,Teen
+18-Oct-16,Texas,Dallas,N/A,1,0,N/A,Intentional,Teen
+17-Oct-16,Arkansas,Benton,1200 block of River Oaks,1,0,N/A,Intentional,Teen
+16-Oct-16,Washington,Yacolt,34900 block of NE Thompson Road,1,0,N/A,Intentional,Teen
+16-Oct-16,North Dakota,Bismarck,106th St SE,1,0,N/A,Intentional,Teen
+16-Oct-16,Michigan,Detroit,14300 block of Ardmore,1,0,N/A,Intentional,Teen
+16-Oct-16,Kentucky,Lexington,855 South Broadway,1,0,N/A,Intentional,Teen
+16-Oct-16,Missouri,Saint Louis,4400 block of Farlin,1,0,N/A,Intentional,Teen
+14-Oct-16,Ohio,Cleveland (Cleveland Heights),1923 South Taylor Road,1,0,N/A,Intentional,Teen
+13-Oct-16,New York,Buffalo,Leroy Avenue and Hill Street,1,1,N/A,Intentional,Teen
+13-Oct-16,Wisconsin,Milwaukee,200 of N. 38th St.,1,0,N/A,Intentional,Teen
+11-Oct-16,South Carolina,Wellford,300 block of James Raymond Court,1,0,N/A,Intentional,Teen
+11-Oct-16,Georgia,Acworth,4800 block of Ryan Road,1,0,N/A,Intentional,Teen
+10-Oct-16,Pennsylvania,Philadelphia,3100 block of Stirling Street,1,2,N/A,Intentional,Teen
+09-Oct-16,South Carolina,Aynor,Garner Road,1,0,N/A,Intentional,Teen
+09-Oct-16,Colorado,Denver,2830 North High Street,1,1,N/A,Intentional,Teen
+09-Oct-16,Kansas,Kansas City,6th Street and Stewart Avenue,1,0,N/A,Intentional,Teen
+07-Oct-16,Georgia,Richmond (county),Done Roven Road,1,0,N/A,Intentional,Teen
+07-Oct-16,Washington,Auburn,2400 block of F Street,1,0,N/A,Intentional,Teen
+04-Oct-16,Pennsylvania,Allentown,Ninth and Liberty streets,1,1,N/A,Intentional,Teen
+04-Oct-16,Georgia,Riverdale,39 Montego Circle,2,0,N/A,Intentional,Teen
+03-Oct-16,North Dakota,Sanborn,N/A,1,0,N/A,Intentional,Teen
+02-Oct-16,California,Los Angeles,East 45th Street and Ascot Avenue,1,0,N/A,Intentional,Teen
+01-Oct-16,Louisiana,Shreveport,327 Kings Highway,1,1,N/A,Intentional,Teen
+01-Oct-16,Illinois,Chicago,4500 block of South Wood,1,0,N/A,Intentional,Teen
+01-Oct-16,Texas,Naples,N/A,1,1,N/A,Intentional,Teen
+30-Sep-16,Minnesota,Minneapolis,5400 block of 34th Avenue South,3,1,N/A,Intentional,Teen
+30-Sep-16,Hawaii,Kahuku,57-091 Kamehameha Hwy,2,0,N/A,Intentional,Teen
+29-Sep-16,Pennsylvania,Aliquippa,1100 block Wade Street,1,0,N/A,Intentional,Teen
+29-Sep-16,Texas,Fort Worth,3712 North Elm Street,1,0,N/A,Intentional,Teen
+27-Sep-16,Iowa,Cedar Rapids,800 block of 15th Street SE,1,0,N/A,Intentional,Teen
+25-Sep-16,Texas,Fort Worth,3400 block of Stonewall Lane,1,0,N/A,Intentional,Teen
+25-Sep-16,Minnesota,Saint Paul,700 block of Sims Avenue,1,1,N/A,Intentional,Teen
+23-Sep-16,Washington,Burlington,201 Cascade Mall Dr,5,0,N/A,Intentional,Teen
+22-Sep-16,Maryland,Bladensburg,4200 block of 58th Avenue,1,0,N/A,Intentional,Teen
+21-Sep-16,Michigan,Dearborn Heights,4431 Hipp Street,2,1,N/A,Intentional,Teen
+19-Sep-16,Missouri,Independence,E. Truman Road and S. Home Avenue,1,0,N/A,Intentional,Teen
+17-Sep-16,Colorado,Thornton,13000 block of Monaco Way,1,0,N/A,Intentional,Teen
+17-Sep-16,Alaska,Juneau,3000 block of Mountainwood Circle,1,0,N/A,Intentional,Teen
+17-Sep-16,Pennsylvania,Pittsburgh,Mount Vernon and Belmar streets,1,0,N/A,Intentional,Teen
+16-Sep-16,California,Richmond,3400 Richmond Parkway,1,0,N/A,Intentional,Teen
+16-Sep-16,California,Santa Ana,400 block of South Birch Street,1,1,N/A,Intentional,Teen
+15-Sep-16,New York,Schenectady,524 Schenectady Street,1,0,N/A,Intentional,Teen
+15-Sep-16,South Carolina,Anderson,Sugarhill St.,1,0,N/A,Intentional,Teen
+14-Sep-16,Ohio,Columbus,900 E Broad St,1,0,N/A,Intentional,Teen
+14-Sep-16,South Carolina,Wedgefield,200 block of Apollo Street,1,0,N/A,Intentional,Teen
+14-Sep-16,Texas,Bexar (county),N/A,1,0,N/A,Intentional,Teen
+12-Sep-16,New York,Hempstead,Laurel and Linden avenues,1,0,N/A,Intentional,Teen
+12-Sep-16,South Carolina,Spartanburg,320 Spruce Street,1,0,N/A,Intentional,Teen
+12-Sep-16,Pennsylvania,Pittsburgh,5300 block of Mossfield Street,1,0,N/A,Intentional,Teen
+12-Sep-16,New Jersey,Jersey City,Van Horne Street,1,0,N/A,Intentional,Teen
+11-Sep-16,New Jersey,Trenton,800 Greenwood Avenue,2,1,N/A,Intentional,Teen
+09-Sep-16,Iowa,Cedar Rapids,1243 20th St SW,1,0,N/A,Intentional,Teen
+09-Sep-16,Tennessee,Memphis,4100 block of Faronia Road,1,0,N/A,Intentional,Teen
+08-Sep-16,Texas,Alpine,704 West Sul Ross Avenue,1,2,N/A,Intentional,Teen
+08-Sep-16,California,Rosamond,2600 block of 25th Street West,1,0,N/A,Intentional,Teen
+07-Sep-16,Virginia,Lorton,9700 block of Hagel Circle,1,0,N/A,Intentional,Teen
+06-Sep-16,North Carolina,Norlina,Hyco Street,2,1,N/A,Intentional,Teen
+06-Sep-16,Illinois,Chicago,3300 block of West Douglas,1,0,N/A,Intentional,Teen
+05-Sep-16,New York,Brooklyn,Empire Boulevard,2,2,N/A,Intentional,Teen
+05-Sep-16,Indiana,Graysville,4100 block of West State Road 154,1,0,N/A,Intentional,Teen
+05-Sep-16,Texas,San Benito,200 block of Los Ranchitos,1,0,N/A,Intentional,Teen
+05-Sep-16,Michigan,Kalamazoo,1500 block of Clinton Avenue,2,0,N/A,Intentional,Teen
+04-Sep-16,Ohio,Dayton (Kettering),800 block of Willowdale Avenue,1,0,N/A,Intentional,Teen
+04-Sep-16,Illinois,Chicago,7800 block of South Cornell Avenue,1,0,N/A,Intentional,Teen
+04-Sep-16,California,Santa Ana,3600 block of West Hazard Avenue,1,0,N/A,Intentional,Teen
+04-Sep-16,California,Stockton,Dallas Avenue and Connecticut Ave,1,1,N/A,Intentional,Teen
+04-Sep-16,Michigan,Saginaw,Ray Street,1,0,N/A,Intentional,Teen
+03-Sep-16,California,Oceanside,700 block of San Diego Street,1,0,N/A,Intentional,Teen
+03-Sep-16,New Jersey,Newark,100 block of South 10th Street,1,1,N/A,Intentional,Teen
+02-Sep-16,Texas,Wichita Falls,5143 Kingston Drive,1,1,N/A,Intentional,Teen
+02-Sep-16,Kansas,Kansas City,500 block of Freeman Drive,1,1,N/A,Intentional,Teen
+01-Sep-16,Colorado,Denver,7600 block of Raritan Street,1,0,N/A,Intentional,Teen
+01-Sep-16,District of Columbia,Washington,1601 16th St SE,1,1,N/A,Intentional,Teen
+01-Sep-16,District of Columbia,Washington,1900 block of 16th Street SE,1,1,N/A,Intentional,Teen
+29-Aug-16,Illinois,Chicago,5500 block of W Quincy,1,1,N/A,Intentional,Teen
+28-Aug-16,Ohio,Cleveland,4100 block of E 104th St,1,1,N/A,Intentional,Teen
+28-Aug-16,Kentucky,Louisville,3015 Penway Ave,1,0,N/A,Intentional,Teen
+28-Aug-16,Arizona,Tucson,5700 block of E 28th St,1,0,N/A,Intentional,Teen
+27-Aug-16,Texas,San Benito,500 block of Doherty Street,1,0,N/A,Intentional,Teen
+27-Aug-16,Oklahoma,Spencer,NE 50th and Douglas,2,0,N/A,Intentional,Teen
+27-Aug-16,Florida,Miami,1900 block of NW 83rd Terr,2,4,N/A,Intentional,Teen
+27-Aug-16,Kentucky,Stamping Ground,3162 Main St,1,0,N/A,Intentional,Teen
+27-Aug-16,Tennessee,Memphis,4100 block of Meadow Creek,1,0,N/A,Intentional,Teen
+26-Aug-16,Idaho,Kuna,1400 block of Kerf Street,1,0,N/A,Intentional,Teen
+24-Aug-16,Kentucky,Louisville,Clay and Jacob Streets,1,2,N/A,Intentional,Teen
+23-Aug-16,Texas,Houston,800 Majestic Street,1,1,N/A,Intentional,Teen
+23-Aug-16,Missouri,Saint Louis,1600 block of Hogan Street,1,0,N/A,Intentional,Teen
+23-Aug-16,Oklahoma,Tulsa,1600 block of 125th East Avenue,1,0,N/A,Intentional,Teen
+22-Aug-16,North Carolina,Mineral Springs,Happy Hollow Lane,1,0,N/A,Intentional,Teen
+21-Aug-16,Illinois,Chicago,North and Luna,1,0,N/A,Intentional,Teen
+20-Aug-16,Ohio,Cleveland,First Avenue and Hayden Avenue,1,1,N/A,Intentional,Teen
+19-Aug-16,Michigan,Detroit,Roxbury and Casino,1,0,N/A,Intentional,Teen
+18-Aug-16,Oregon,Hermiston,130 Northwest 11th Street,3,1,N/A,Intentional,Teen
+17-Aug-16,New York,Bronx,1375 College Avenue,1,1,N/A,Intentional,Teen
+15-Aug-16,California,San Jose,North White and McKee Road,1,1,N/A,Intentional,Teen
+15-Aug-16,Florida,Naples,1900 Tamiami Trail N,1,0,N/A,Intentional,Teen
+15-Aug-16,Maryland,Baltimore,900 block of N. Monroe Street,1,0,N/A,Intentional,Teen
+14-Aug-16,Ohio,Toledo,Nesslewood and Scottwood,1,0,N/A,Intentional,Teen
+14-Aug-16,Pennsylvania,Philadelphia,2000 E. Orleans Street,1,0,N/A,Intentional,Teen
+14-Aug-16,Missouri,Saint Louis (Ferguson),100 block of Elkan Avenue,1,0,N/A,Intentional,Teen
+13-Aug-16,Indiana,Indianapolis,4100 block of East 16th Street,1,0,N/A,Intentional,Teen
+12-Aug-16,Pennsylvania,Mountville,17 West Main Street,1,0,N/A,Intentional,Teen
+12-Aug-16,Florida,Jacksonville,100 block of West 38th Street,1,3,N/A,Intentional,Teen
+12-Aug-16,Illinois,Chicago (Englewood),700 block of West 66th Place,1,0,N/A,Intentional,Teen
+11-Aug-16,Louisiana,New Orleans,2200 block of Peniston Street,1,0,N/A,Intentional,Teen
+11-Aug-16,New York,Rochester,Melville Street,1,0,N/A,Intentional,Teen
+09-Aug-16,Idaho,New Plymouth,5000 block of Highway 52,1,0,N/A,Intentional,Teen
+09-Aug-16,California,Los Angeles (Boyle Heights),Cesar Chavez Avenue and Breed Street,1,0,N/A,Intentional,Teen
+09-Aug-16,New Jersey,Jersey City,517 Communipaw Avenue,1,2,N/A,Intentional,Teen
+08-Aug-16,Louisiana,Alexandria,700 block of Willow Glen Road,1,1,N/A,Intentional,Teen
+07-Aug-16,Virginia,Chesapeake,600 block of Helen Avenue,2,1,N/A,Intentional,Teen
+07-Aug-16,Oklahoma,Oklahoma City,N/A,1,0,N/A,Intentional,Teen
+06-Aug-16,North Carolina,Shelby,105 Lindsey Lee Ln,1,0,N/A,Intentional,Teen
+06-Aug-16,California,Hayward,2500 block of Muir Road,1,2,N/A,Intentional,Teen
+05-Aug-16,Mississippi,Jackson,Deerfield Lane and Concord Drive,1,1,N/A,Intentional,Teen
+05-Aug-16,Illinois,Chicago,6700 block of South Wabash Street,1,0,N/A,Intentional,Teen
+05-Aug-16,Illinois,Chicago,2700 block of West Evergreen Avenue,1,0,N/A,Intentional,Teen
+05-Aug-16,Louisiana,La Place (Laplace),820 W Airline Hwy,1,0,N/A,Intentional,Teen
+03-Aug-16,Georgia,Decatur,4110 Glenwood Road,1,3,N/A,Intentional,Teen
+03-Aug-16,California,Inglewood,4200 block of West 103 Street,1,0,N/A,Intentional,Teen
+03-Aug-16,California,Salinas,1100 block of C Street,1,0,N/A,Intentional,Teen
+02-Aug-16,South Carolina,Coward,4312 Circle Drive,1,1,N/A,Intentional,Teen
+02-Aug-16,Ohio,Columbus,400 block of East Markison Avenue,1,0,N/A,Intentional,Teen
+01-Aug-16,Georgia,Roswell,885 Woodstock Road,2,0,N/A,Intentional,Teen
+01-Aug-16,Oklahoma,Ardmore,1200 block of L Street,1,0,N/A,Intentional,Teen
+01-Aug-16,Louisiana,Shreveport,1400 block of Alma Street,1,0,N/A,Intentional,Teen
+31-Jul-16,California,Fairfield,2700 block of North Texas Street,1,0,N/A,Intentional,Teen
+31-Jul-16,Alaska,Anchorage,Sixth Avenue and Newell Street,1,0,N/A,Intentional,Teen
+31-Jul-16,Florida,Miami,Southwest 203rd Terrace and 115th Avenue,3,1,N/A,Intentional,Teen
+31-Jul-16,Illinois,Rockford,3200 block of Greendale Drive,1,2,N/A,Intentional,Teen
+30-Jul-16,New York,Elmira,200 block of West Hudson Street,1,0,N/A,Intentional,Teen
+30-Jul-16,Alaska,Wasilla,North Pioneer Peak Drive,1,0,N/A,Intentional,Teen
+29-Jul-16,North Carolina,Winston Salem (Winston-salem),432 Crews Street,1,0,N/A,Intentional,Teen
+29-Jul-16,Illinois,Chicago,700 block of East 82nd Street,1,0,N/A,Intentional,Teen
+28-Jul-16,Illinois,Peoria,405 E. Republic St,1,0,N/A,Intentional,Teen
+28-Jul-16,Illinois,Chicago,8000 block of South Escanaba,1,0,N/A,Intentional,Teen
+28-Jul-16,Maryland,Baltimore,2400 block of Washington Boulevard,1,0,N/A,Intentional,Teen
+27-Jul-16,Missouri,Columbia,Allen Street and Lasalle Place,1,0,N/A,Intentional,Teen
+27-Jul-16,Louisiana,Metairie,4013 N. Interstate 10 Service Road,1,0,N/A,Intentional,Teen
+26-Jul-16,Michigan,Saginaw,South 23rd,1,0,N/A,Intentional,Teen
+26-Jul-16,Arizona,Gilbert,17700 block of East Prescott Place,3,0,N/A,Intentional,Teen
+26-Jul-16,Texas,San Antonio,3600 block of Callaghan Road,1,0,N/A,Intentional,Teen
+25-Jul-16,Kentucky,Somerset,N/A,1,0,N/A,Intentional,Teen
+25-Jul-16,Florida,Fort Myers,3580 Evans Ave,2,19,N/A,Intentional,Teen
+25-Jul-16,Arizona,Tempe,1000 E Orange Street,1,0,N/A,Intentional,Teen
+24-Jul-16,Louisiana,Natchitoches,1207 Texas Street,1,0,N/A,Intentional,Teen
+24-Jul-16,New Mexico,Taos (county),N/A,1,0,N/A,Intentional,Teen
+23-Jul-16,Illinois,Calumet City,600 block of Hirsch Avenue,1,0,N/A,Intentional,Teen
+22-Jul-16,Indiana,Huntingburg,202 N. Main St.,1,0,N/A,Intentional,Teen
+21-Jul-16,Missouri,Saint Louis (Kinloch),Monroe and Granberry,1,0,N/A,Intentional,Teen
+21-Jul-16,Florida,Orlando,5732 North Hiawassee Road,1,2,N/A,Intentional,Teen
+21-Jul-16,Mississippi,Jackson,900 block of McDowell Road,1,0,N/A,Intentional,Teen
+20-Jul-16,Florida,Jacksonville,2300 block of Lantana Avenue,1,1,N/A,Intentional,Teen
+20-Jul-16,New Hampshire,Derry,North Shore Road,1,0,N/A,Intentional,Teen
+20-Jul-16,South Dakota,Pine Ridge,340767 S Dakota 407,1,0,N/A,Intentional,Teen
+19-Jul-16,Louisiana,Baton Rouge,4608 Bradley Street,1,0,N/A,Intentional,Teen
+19-Jul-16,Texas,Alvin,3400 block of Oxford,1,0,N/A,Intentional,Teen
+18-Jul-16,Delaware,Wilmington,700 block of E. 11th Street,1,0,N/A,Intentional,Teen
+18-Jul-16,Illinois,Chicago,4400 block of West West End Avenue,1,0,N/A,Intentional,Teen
+17-Jul-16,Illinois,Chicago,4700 block of South Ellis Avenue,1,1,N/A,Intentional,Teen
+17-Jul-16,Ohio,Columbus,2600 block of Kenview Road South,1,1,N/A,Intentional,Teen
+16-Jul-16,Massachusetts,Chicopee,120 Boucher Circle,1,0,N/A,Intentional,Teen
+16-Jul-16,Georgia,Snellville,2900 block of Aviator Circle,1,0,N/A,Intentional,Teen
+15-Jul-16,Florida,Tallahassee,2684 Tess Circle,1,0,N/A,Intentional,Teen
+12-Jul-16,Illinois,Chicago,10900 block of South Peoria,1,0,N/A,Intentional,Teen
+12-Jul-16,Pennsylvania,New Castle,616 West North,1,0,N/A,Intentional,Teen
+11-Jul-16,Illinois,Rockford,4800 block of Creek View Road,1,0,N/A,Intentional,Teen
+11-Jul-16,Nevada,Las Vegas,2701 North Decatur Boulevard,1,0,N/A,Intentional,Teen
+11-Jul-16,Pennsylvania,Philadelphia,60th Street and Baltimore Avenue,1,2,N/A,Intentional,Teen
+10-Jul-16,Texas,Rowlett,3400 block of Beech Street,1,0,N/A,Intentional,Teen
+07-Jul-16,Texas,Tomball,11510 Boudreaux,1,0,N/A,Intentional,Teen
+07-Jul-16,Indiana,Hammond,1100 block of Cleveland Street,1,0,N/A,Intentional,Teen
+07-Jul-16,Illinois,East Saint Louis,29th Street and Renshaw Avenue,1,0,N/A,Intentional,Teen
+06-Jul-16,Utah,Midvale,759 W. Center Street,2,0,N/A,Intentional,Teen
+06-Jul-16,Florida,Jacksonville,2200 block of Vista Avenue,1,0,N/A,Intentional,Teen
+06-Jul-16,Alabama,Toney,2500 block of Alabama 251,1,0,N/A,Intentional,Teen
+05-Jul-16,Alabama,Huntsville,3900 block of Broadmor Road,2,0,N/A,Intentional,Teen
+05-Jul-16,Utah,Salt Lake City,600 North and 1100 West,1,0,N/A,Intentional,Teen
+05-Jul-16,Georgia,West Point,700 Ave. East,1,0,N/A,Intentional,Teen
+04-Jul-16,Pennsylvania,Braddock (Rankin),Hawkins Village,1,0,N/A,Intentional,Teen
+04-Jul-16,Pennsylvania,Philadelphia,31st Street and Moore Street,1,0,N/A,Intentional,Teen
+03-Jul-16,Florida,Sarasota,4583 Bee Ridge Road,1,0,N/A,Intentional,Teen
+03-Jul-16,Tennessee,Chattanooga (East Ridge),201 Eads Street,1,0,N/A,Intentional,Teen
+02-Jul-16,New Jersey,Camden,1200 block of Mechanic Street,1,0,N/A,Intentional,Teen
+01-Jul-16,North Carolina,Goldsboro,400 block of East Holly Street,1,0,N/A,Intentional,Teen
+01-Jul-16,Georgia,Columbus,3400 8th Ave,1,0,N/A,Intentional,Teen
+29-Jun-16,Nevada,Las Vegas,6100 block of West Lake Mead Boulevard,5,0,N/A,Intentional,Teen
+29-Jun-16,Pennsylvania,Philadelphia,5300 block of E Walnut Lane,1,0,N/A,Intentional,Teen
+28-Jun-16,Florida,West Palm Beach,1555 Martin Luther King Boulevard,1,0,N/A,Intentional,Teen
+28-Jun-16,Oklahoma,Tulsa,N. Madison and Virgin,1,1,N/A,Intentional,Teen
+28-Jun-16,Florida,Miami Gardens,2435 168th Street,2,1,N/A,Intentional,Teen
+28-Jun-16,Texas,San Antonio,8600 block of Star Creek Drive,1,0,N/A,Intentional,Teen
+27-Jun-16,Arizona,Phoenix,1600 block of West Missouri Avenue,1,0,N/A,Intentional,Teen
+27-Jun-16,Texas,Austin,6000 Perlita Drive,1,0,N/A,Intentional,Teen
+27-Jun-16,Michigan,Flushing,3466 Pierson Pl,1,0,N/A,Intentional,Teen
+27-Jun-16,Alaska,Wasilla,N/A,1,0,N/A,Intentional,Teen
+26-Jun-16,Iowa,Davenport,4233 Warren Street,1,0,N/A,Intentional,Teen
+26-Jun-16,Tennessee,Haywood (county),3649 Rice Road,1,2,N/A,Intentional,Teen
+25-Jun-16,Oklahoma,Enid,1800 block of West Maine Street,1,2,N/A,Intentional,Teen
+24-Jun-16,Oklahoma,Oklahoma City (Midwest City),100 block of West Michael Dr,1,0,N/A,Intentional,Teen
+24-Jun-16,Ohio,Columbus,3400 block of Oak Bend Boulevard,1,0,N/A,Intentional,Teen
+24-Jun-16,Arizona,Cave Creek,N/A,1,0,N/A,Intentional,Teen
+24-Jun-16,Texas,Katy,6011 Remson Hollow Lane,3,0,N/A,Intentional,Teen
+23-Jun-16,California,Elk Grove,Edgeware Way and Harrow Drive,1,0,N/A,Intentional,Teen
+23-Jun-16,Illinois,Chicago,4400 block of West Wilcox Street,1,0,N/A,Intentional,Teen
+22-Jun-16,Indiana,Indianapolis,3300 block of Wallace Avenue,1,0,N/A,Intentional,Teen
+22-Jun-16,Illinois,Rockford,4600 block of Manheim Road,1,0,N/A,Intentional,Teen
+21-Jun-16,Virginia,Norfolk,400 block of North Military Highway,1,2,N/A,Intentional,Teen
+21-Jun-16,Indiana,Fort Wayne,5200 block of Lillie Street,1,0,N/A,Intentional,Teen
+21-Jun-16,Alabama,Huntsville,10th Avenue and 4th Street,1,0,N/A,Intentional,Teen
+20-Jun-16,Florida,Tampa,3615 Potter Street,1,1,N/A,Intentional,Teen
+20-Jun-16,Missouri,Saint Louis,6300 block of Dardanella,1,0,N/A,Intentional,Teen
+19-Jun-16,New York,Buffalo,100 block of Wecker Street,1,0,N/A,Intentional,Teen
+19-Jun-16,Alabama,Fairfield,5500 block of Avenue D,1,0,N/A,Intentional,Teen
+18-Jun-16,California,Oakland,2100 block of Harrington Avenue,1,0,N/A,Intentional,Teen
+18-Jun-16,Michigan,Muskegon,900 block of East Isabella Avenue,1,2,N/A,Intentional,Teen
+18-Jun-16,New York,Bronx,1041 Tiffany Street,1,1,N/A,Intentional,Teen
+17-Jun-16,Pennsylvania,Pittsburgh,4290 Melwood Ave,1,0,N/A,Intentional,Teen
+17-Jun-16,Illinois,Chicago (Englewood),6500 block of South Hamilton Avenue,1,0,N/A,Intentional,Teen
+16-Jun-16,Ohio,Cincinnati,Montana Avenue,1,1,N/A,Intentional,Teen
+16-Jun-16,Texas,Houston,15100 block of Alkay,2,0,N/A,Intentional,Teen
+16-Jun-16,Florida,Orlando,2300 block of Fontainebleau Drive,2,0,N/A,Intentional,Teen
+15-Jun-16,Indiana,Fort Wayne,Avondale Drive and Baxter Avenue,1,0,N/A,Intentional,Teen
+14-Jun-16,Illinois,Chicago,10200 block of South Normal Avenue,1,0,N/A,Intentional,Teen
+14-Jun-16,California,Oakland,1301 Franklin Street,1,3,N/A,Intentional,Teen
+13-Jun-16,Texas,Houston,8751 Broadway,1,0,N/A,Intentional,Teen
+13-Jun-16,West Virginia,Fairmont,Cleveland Avenue,1,0,N/A,Intentional,Teen
+12-Jun-16,Oklahoma,Wewoka,NS 3580,1,0,N/A,Intentional,Teen
+12-Jun-16,Maryland,Baltimore,900 block of Pennsylvania Avenue,1,1,N/A,Intentional,Teen
+12-Jun-16,Arizona,Phoenix,67th Avenue and McDowell Road,3,0,N/A,Intentional,Teen
+11-Jun-16,Illinois,Chicago,5200 block of South Sangamon,1,1,N/A,Intentional,Teen
+11-Jun-16,Illinois,Chicago Heights,600 block of Andover Street,1,0,N/A,Intentional,Teen
+11-Jun-16,California,Panorama City,8500 block of Cedros Avenue,3,2,N/A,Intentional,Teen
+11-Jun-16,New Mexico,Roswell,2300 block of Davis Ave,5,0,N/A,Intentional,Teen
+11-Jun-16,New Jersey,Trenton,Prospect Street,1,0,N/A,Intentional,Teen
+11-Jun-16,Florida,Saint Petersburg (St Petersburg),14th Avenue South and 40th Street,1,0,N/A,Intentional,Teen
+10-Jun-16,Michigan,Muskegon,Leahy Street and Holbrook Avenue,1,0,N/A,Intentional,Teen
+09-Jun-16,Georgia,Columbus,6023 Crystal Drive,1,0,N/A,Intentional,Teen
+09-Jun-16,Florida,Loxahatchee,17000 block of 31st Road North,1,0,N/A,Intentional,Teen
+08-Jun-16,Illinois,Danville,800 block of North Griffin Street,1,0,N/A,Intentional,Teen
+08-Jun-16,Massachusetts,Boston,66 Washington St,1,3,N/A,Intentional,Teen
+07-Jun-16,Michigan,Detroit,5300 block of Radnor,1,0,N/A,Intentional,Teen
+06-Jun-16,Ohio,Dayton,1100 block of Oakridge Drive,1,0,N/A,Intentional,Teen
+06-Jun-16,Georgia,Hawkinsville,18 Franklin Street,1,0,N/A,Intentional,Teen
+06-Jun-16,Michigan,Detroit,6500 block of Brace Street,3,0,N/A,Intentional,Teen
+06-Jun-16,Maryland,Annapolis,1300 block of Tyler Avenue,1,0,N/A,Intentional,Teen
+05-Jun-16,Florida,Tampa,N/A,1,0,N/A,Intentional,Teen
+05-Jun-16,Connecticut,Montville,Allen Street,1,0,N/A,Intentional,Teen
+04-Jun-16,Alabama,Birmingham,12th Street and 3rd Avenue South,1,1,N/A,Intentional,Teen
+03-Jun-16,Illinois,Melrose Park,1200 block of North 34th Avenue,1,0,N/A,Intentional,Teen
+03-Jun-16,Missouri,Saint Louis,9500 block of Page Ave,1,0,N/A,Intentional,Teen
+03-Jun-16,Illinois,Chicago,3500 block of South Parnell Avenue,1,0,N/A,Intentional,Teen
+01-Jun-16,Florida,Fort Myers,7520 Omni Lane,1,0,N/A,Intentional,Teen
+01-Jun-16,Illinois,Chicago,4100 block of West 56th Street,1,0,N/A,Intentional,Teen
+01-Jun-16,New York,Brooklyn,Marcy Avenue,1,0,N/A,Intentional,Teen
+01-Jun-16,Nevada,Las Vegas,Mezpah Street and Washington Avenue,2,0,N/A,Intentional,Teen
+31-May-16,Illinois,Chicago,89th Street and Exchange Avenue,1,0,N/A,Intentional,Teen
+31-May-16,Michigan,Detroit,N/A,1,0,N/A,Intentional,Teen
+31-May-16,New York,Brooklyn,1406 Brooklyn Avenue,1,0,N/A,Intentional,Teen
+30-May-16,California,Modesto,1600 block of Pelton Avenue,1,1,N/A,Intentional,Teen
+29-May-16,California,Sacramento,8700 block of Inisheer Way,1,0,N/A,Intentional,Teen
+29-May-16,Mississippi,Jonestown,Coldwater River Road,1,0,N/A,Intentional,Teen
+28-May-16,North Carolina,Fayetteville,McKinnon Farm Road,1,0,N/A,Intentional,Teen
+28-May-16,Illinois,Chicago,2400 block of North Lake Shore Drive,1,1,N/A,Intentional,Teen
+27-May-16,Tennessee,Nashville,3301 Creekwood Drive,1,0,N/A,Intentional,Teen
+27-May-16,New York,Wallkill,559 Fifth Avenue,3,0,N/A,Intentional,Teen
+27-May-16,Florida,Miami Gardens,18000 block of Northwest Seventh Place,1,0,N/A,Intentional,Teen
+25-May-16,Washington,Seattle,6000 block of High Point Drive SW,1,0,N/A,Intentional,Teen
+25-May-16,New Mexico,Albuquerque,500 Eubank Boulevard,1,0,N/A,Intentional,Teen
+24-May-16,Oklahoma,Oklahoma City,3100 block of S. Shartel,2,0,N/A,Intentional,Teen
+23-May-16,North Carolina,Scotland (county),Hasty Road,1,0,N/A,Intentional,Teen
+23-May-16,Florida,Auburndale,108 Kim Street,1,0,N/A,Intentional,Teen
+22-May-16,Maryland,Baltimore,3500 block of Hayward Ave,1,0,N/A,Intentional,Teen
+21-May-16,Georgia,Jackson,Levi Barnes Road,1,3,N/A,Intentional,Teen
+21-May-16,Pennsylvania,Chester,1100 block of Pine Lane,1,2,N/A,Intentional,Teen
+19-May-16,Delaware,Wilmington,900 block of Clifford Brown Walk,1,0,N/A,Intentional,Teen
+19-May-16,New York,Bronx,810 Astor Avenue,1,0,N/A,Intentional,Teen
+19-May-16,Illinois,Rockford,3100 block of Wallin Avenue,1,0,N/A,Intentional,Teen
+19-May-16,Missouri,Cape Girardeau,235 N. Lorimier Street,1,0,N/A,Intentional,Teen
+19-May-16,Illinois,Chicago,6100 block of South Evans Avenue,1,0,N/A,Intentional,Teen
+18-May-16,New York,Brooklyn,1003 Wilmohr Street,1,1,N/A,Intentional,Teen
+18-May-16,Indiana,Fort Wayne,9100 blook of Brickshire Parkway,1,1,N/A,Intentional,Teen
+18-May-16,North Carolina,Onslow (county),N/A,1,0,N/A,Intentional,Teen
+18-May-16,Alabama,Anniston,2200 block of Christine Avenue,1,2,N/A,Intentional,Teen
+16-May-16,Nevada,Las Vegas,3050 South Nellis Boulevard,1,1,N/A,Intentional,Teen
+15-May-16,Virginia,Newport News,300 block of Deputy Lane,1,0,N/A,Intentional,Teen
+15-May-16,Illinois,Chicago,1500 block of South Karlov Avenue,1,0,N/A,Intentional,Teen
+14-May-16,Florida,Alford,Compass Lake Drive,1,0,N/A,Intentional,Teen
+13-May-16,Connecticut,Bridgeport,290 block of Madison Avenue,1,0,N/A,Intentional,Teen
+10-May-16,Louisiana,Shreveport,1100 block of Wilkinson Street,1,0,N/A,Intentional,Teen
+09-May-16,Ohio,Columbus,South Weyant Avenue,1,1,N/A,Intentional,Teen
+08-May-16,Florida,Lehigh Acres,32nd Street Southwest and Wanda Avenue,1,0,N/A,Intentional,Teen
+07-May-16,Idaho,Twin Falls,Northern Pine Drive and N. College Road,1,0,N/A,Intentional,Teen
+07-May-16,California,Fresno,400 block of North Manila Avenue,1,0,N/A,Intentional,Teen
+05-May-16,Virginia,Chesterfield,4100 block of Mallard Landing Circle,1,1,N/A,Intentional,Teen
+05-May-16,Louisiana,Harvey,Westmore Street and Post Street,1,0,N/A,Intentional,Teen
+04-May-16,Tennessee,Memphis,Getwell Road and New Willow Road,1,0,N/A,Intentional,Teen
+04-May-16,Arizona,Tucson,3700 block of E. 4th Street,1,0,N/A,Intentional,Teen
+04-May-16,Washington,Seattle (Burien),615 W Ambaum Boulevard Southwest,1,0,N/A,Intentional,Teen
+03-May-16,California,Long Beach,3300 block of East 65th Street,1,0,N/A,Intentional,Teen
+02-May-16,Illinois,Chicago,4500 block of South Ashland Avenue,1,0,N/A,Intentional,Teen
+02-May-16,Illinois,Chicago (Englewood),100 block of South Laflin Street,1,1,N/A,Intentional,Teen
+02-May-16,Maryland,Baltimore,3700 block of St. Victor Street,1,0,N/A,Intentional,Teen
+30-Apr-16,Texas,Dallas,2400 block of Bickers Road,1,1,N/A,Intentional,Teen
+29-Apr-16,Illinois,Chicago (Englewood),6800 block of South Sangamon Street,1,0,N/A,Intentional,Teen
+27-Apr-16,Illinois,Rock Island,20th Avenue and 5th Street,1,0,N/A,Intentional,Teen
+27-Apr-16,Iowa,Des Moines,1300 block of 12th Street,1,0,N/A,Intentional,Teen
+26-Apr-16,California,Richmond,400 block of South 12th Street,1,0,N/A,Intentional,Teen
+26-Apr-16,New Jersey,Jersey City,Fulton Avenue,1,0,N/A,Intentional,Teen
+25-Apr-16,Illinois,Chicago (Englewood),7300 block of South Sangamon Street,1,1,N/A,Intentional,Teen
+25-Apr-16,Louisiana,New Orleans,3900 block of Louisiana Avenue Parkway,1,0,N/A,Intentional,Teen
+24-Apr-16,Tennessee,Memphis,Vance Avenue,1,0,N/A,Intentional,Teen
+24-Apr-16,Pennsylvania,Philadelphia,400 block of East Wyoming Avenue,1,0,N/A,Intentional,Teen
+24-Apr-16,Nevada,Las Vegas,2800 block of Wheelwright Drive,1,0,N/A,Intentional,Teen
+24-Apr-16,New Jersey,Trenton,Jersey Street and Home Avenue,1,0,N/A,Intentional,Teen
+23-Apr-16,Texas,Fort Worth (Saginaw),200 block of Creekside Dr,1,0,N/A,Intentional,Teen
+23-Apr-16,Nevada,Las Vegas,1650 South Hollywood Boulevard,1,3,N/A,Intentional,Teen
+22-Apr-16,Tennessee,Memphis,1600 block of Dellwood Avenue,1,0,N/A,Intentional,Teen
+22-Apr-16,Ohio,Piketon,4077 Union Hill Road,8,0,N/A,Intentional,Teen
+20-Apr-16,California,West Point,1100 block of Bald Mountain Rd,1,0,N/A,Intentional,Teen
+20-Apr-16,California,San Bernardino,29th Street and Pershing Avenue,2,0,N/A,Intentional,Teen
+19-Apr-16,North Carolina,Robeson (county),Manila Street,1,0,N/A,Intentional,Teen
+19-Apr-16,Missouri,Saint Louis,2700 block of Bacon Street,1,0,N/A,Intentional,Teen
+19-Apr-16,California,Sacramento,7800 block of Sunrise Greens Drive,1,0,N/A,Intentional,Teen
+18-Apr-16,Tennessee,Chattanooga,3100 block of 7th Avenue,1,0,N/A,Intentional,Teen
+18-Apr-16,Louisiana,Gretna,N/A,1,0,N/A,Intentional,Teen
+17-Apr-16,Arizona,Glendale,6500 block of West Mountain View Road,1,0,N/A,Intentional,Teen
+17-Apr-16,Tennessee,Knoxville,700 College Street,1,0,N/A,Intentional,Teen
+14-Apr-16,New Jersey,Orange,Taylor Street,1,3,N/A,Intentional,Teen
+12-Apr-16,Kentucky,Mercer (county),1600 block of Deep Creek Road,1,0,N/A,Intentional,Teen
+11-Apr-16,Wisconsin,Milwaukee,Green Bay Avenue and Capitol Drive,1,0,N/A,Intentional,Teen
+11-Apr-16,Illinois,Chicago,3400 block of West Grenshaw Street,1,0,N/A,Intentional,Teen
+10-Apr-16,North Carolina,Granite Falls,Baton Church Road,1,0,N/A,Intentional,Teen
+10-Apr-16,Wisconsin,Milwaukee,76th and Sheridan,1,3,N/A,Intentional,Teen
+08-Apr-16,Arkansas,Little Rock,801 S Rodney Parham Rd.,1,0,N/A,Intentional,Teen
+07-Apr-16,Massachusetts,Springfield,212 Plainfield Street,1,0,N/A,Intentional,Teen
+07-Apr-16,Nevada,Las Vegas,4300 block of North Las Vegas Boulevard,1,0,N/A,Intentional,Teen
+07-Apr-16,Georgia,Savannah,1300 block of E. 69th St.,1,0,N/A,Intentional,Teen
+06-Apr-16,California,Salinas,912 Acosta Plaza,1,0,N/A,Intentional,Teen
+05-Apr-16,Texas,Grand Prairie,2400 block of Pioneer Parkway,1,0,N/A,Intentional,Teen
+05-Apr-16,Florida,Miami,Northwest 10th and First Street,1,0,N/A,Intentional,Teen
+05-Apr-16,Florida,Miami Gardens,17612 Northwest 25th Avenue,1,0,N/A,Intentional,Teen
+05-Apr-16,Florida,West Palm Beach (Lake Park),595 Silver Beach Road,1,0,N/A,Intentional,Teen
+04-Apr-16,Illinois,Chicago,5500 block of North Harlem Avenue,1,0,N/A,Intentional,Teen
+04-Apr-16,Florida,Jacksonville,9100 block of 2nd Avenue,2,0,N/A,Intentional,Teen
+04-Apr-16,California,Salinas,800 block of Garner Avenue,1,1,N/A,Intentional,Teen
+03-Apr-16,Alaska,Noorvik,N/A,1,0,N/A,Intentional,Teen
+03-Apr-16,South Carolina,York,100 block of Hickory Lane,1,0,N/A,Intentional,Teen
+02-Apr-16,South Carolina,Rock Hill,800 block of Horseman Drive,1,0,N/A,Intentional,Teen
+31-Mar-16,Indiana,Fort Wayne,500 block of E. Sherwood Terrace,1,0,N/A,Intentional,Teen
+31-Mar-16,California,Fresno,Chesnut and Holland Avenues,1,0,N/A,Intentional,Teen
+31-Mar-16,California,Long Beach,1300 block of East 11th Street,1,0,N/A,Intentional,Teen
+31-Mar-16,North Carolina,La Grange,Mimosa Lane and Maple Grove Dr,1,0,N/A,Intentional,Teen
+29-Mar-16,Illinois,Rockford,3200 block of Parkside Avenue,1,2,N/A,Intentional,Teen
+28-Mar-16,Mississippi,Jackson,1100 Violet Street,1,0,N/A,Intentional,Teen
+28-Mar-16,Alabama,Montgomery,1900 block of Gibbs Drive,1,0,N/A,Intentional,Teen
+28-Mar-16,Texas,New Braunfels,2400 block of Dove Crossing,1,0,N/A,Intentional,Teen
+27-Mar-16,Colorado,Larimer (county),N/A,2,0,N/A,Intentional,Teen
+27-Mar-16,Texas,Fort Worth (Forest Hill),4100 block of Bowling Green St,1,0,N/A,Intentional,Teen
+27-Mar-16,Mississippi,Brookhaven,Highway 550,1,0,N/A,Intentional,Teen
+27-Mar-16,Arizona,Phoenix,2000 block of North 45th Avenue,1,0,N/A,Intentional,Teen
+26-Mar-16,Texas,San Angelo,1100 block of East 22nd Street,2,0,N/A,Intentional,Teen
+26-Mar-16,Florida,Lakeland,929 North Gilmore Avenue,1,1,N/A,Intentional,Teen
+26-Mar-16,District of Columbia,Washington,4720 Minnesota Avenue NE,1,0,N/A,Intentional,Teen
+25-Mar-16,Florida,Fort Myers,2700 block of Dr Ella Piper Way,1,1,N/A,Intentional,Teen
+25-Mar-16,Hawaii,Mountain View,Oshiro Road,1,0,N/A,Intentional,Teen
+25-Mar-16,New York,New York (Manhattan),3rd Avenue and 115th Street,1,0,N/A,Intentional,Teen
+20-Mar-16,Florida,Gainesville,5800 Southwest 20th Avenue,1,0,N/A,Intentional,Teen
+20-Mar-16,Pennsylvania,Mount Pleasant,151 South Church St,1,0,N/A,Intentional,Teen
+19-Mar-16,Texas,Dallas,1100 block of North Masters Drive,2,0,N/A,Intentional,Teen
+19-Mar-16,Texas,Houston,6000 block of Glenmont,1,0,N/A,Intentional,Teen
+19-Mar-16,Florida,Apopka,1008 Sheeler Hills Drive,1,0,N/A,Intentional,Teen
+18-Mar-16,Oklahoma,Edmond,1920 E. 2nd Street,1,0,N/A,Intentional,Teen
+18-Mar-16,South Carolina,Greenville,Rebecca Street,2,0,N/A,Intentional,Teen
+18-Mar-16,Iowa,Cedar Rapids,1424 Bever Ave. SE,1,0,N/A,Intentional,Teen
+18-Mar-16,South Carolina,North Charleston,Northwoods Boulevard,1,0,N/A,Intentional,Teen
+17-Mar-16,South Carolina,Bennettsville,Spencer Street,1,0,N/A,Intentional,Teen
+17-Mar-16,Illinois,Chicago,800 block of North St. Louis Avenue,1,2,N/A,Intentional,Teen
+15-Mar-16,Ohio,Dayton,300 block of Roxbury Road,1,0,N/A,Intentional,Teen
+14-Mar-16,Texas,San Antonio (Alamo Heights),800 block of Alamo Heights Blvd,1,0,N/A,Intentional,Teen
+14-Mar-16,Texas,Bridgeport,County Road 3825,1,0,N/A,Intentional,Teen
+14-Mar-16,Texas,San Antonio,Nogalitos and Cavalier,1,0,N/A,Intentional,Teen
+14-Mar-16,Tennessee,Memphis,100 block of Hillview Avenue,1,0,N/A,Intentional,Teen
+14-Mar-16,Missouri,Kansas City,North Flora and Northeast 80th Street,1,0,N/A,Intentional,Teen
+13-Mar-16,Pennsylvania,Homestead,15th Avenue and Glenn Street,2,1,N/A,Intentional,Teen
+13-Mar-16,California,San Bernardino,North Orange Street and East Love Lane,1,1,N/A,Intentional,Teen
+13-Mar-16,Texas,Madison (county),FM 2989,1,0,N/A,Intentional,Teen
+13-Mar-16,Texas,Addison,Marsh Lane and Spring Valley Road,1,1,N/A,Intentional,Teen
+13-Mar-16,Illinois,Chicago,10000 block of South Indiana,1,0,N/A,Intentional,Teen
+12-Mar-16,Florida,Ocoee,North Lakewood Avenue,1,0,N/A,Intentional,Teen
+12-Mar-16,Tennessee,Memphis,700 block of Semmes Street,1,0,N/A,Intentional,Teen
+12-Mar-16,New York,Buffalo,600 block of LaSalle Avenue,1,1,N/A,Intentional,Teen
+12-Mar-16,Georgia,Elberton,Reese Street,2,2,N/A,Intentional,Teen
+12-Mar-16,Iowa,Oskaloosa,1593 290th Street,1,0,N/A,Intentional,Teen
+10-Mar-16,Florida,Miami,7200 block of Northwest 19th Avenue,1,0,N/A,Intentional,Teen
+08-Mar-16,Texas,San Antonio,Sherman Street,2,3,N/A,Intentional,Teen
+08-Mar-16,North Carolina,Durham,N/A,1,1,N/A,Intentional,Teen
+07-Mar-16,West Virginia,Morgantown,Church Hill Drive,1,0,N/A,Intentional,Teen
+06-Mar-16,Mississippi,Laurel,County Road 237,1,0,N/A,Intentional,Teen
+05-Mar-16,South Dakota,Yankton,East Side Drive,1,0,N/A,Intentional,Teen
+05-Mar-16,Minnesota,Saint Paul,University Avenue W. and Prior Avenue N.,1,0,N/A,Intentional,Teen
+05-Mar-16,Wisconsin,Milwaukee,939 West National Avenue,3,0,N/A,Intentional,Teen
+04-Mar-16,Mississippi,Starkville,North Montgomery Street,1,0,N/A,Intentional,Teen
+03-Mar-16,Arkansas,Lavaca,Utah Ranch Road,1,0,N/A,Intentional,Teen
+02-Mar-16,Iowa,Burlington,5th and Walnut Street,1,0,N/A,Intentional,Teen
+02-Mar-16,Tennessee,Memphis,1700 block of Denison Street,1,1,N/A,Intentional,Teen
+02-Mar-16,Georgia,Lithonia,700 block of Shore Drive,1,0,N/A,Intentional,Teen
+01-Mar-16,Texas,Fort Worth,3200 block of North Harding Street,1,0,N/A,Intentional,Teen
+29-Feb-16,Maryland,Baltimore,Baltimore and Monroe streets,1,0,N/A,Intentional,Teen
+29-Feb-16,Minnesota,Litchfield (Harvey Township),56900 block of 340th Street,2,0,N/A,Intentional,Teen
+29-Feb-16,California,Richmond,3300 block of Ohio Avenue,1,0,N/A,Intentional,Teen
+29-Feb-16,Louisiana,Baton Rouge,5100 block of Madison Avenue,1,0,N/A,Intentional,Teen

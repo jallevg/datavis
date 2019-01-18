@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="https://d3js.org/topojson.v2.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+
+<body>
+  <style>
+
+    body{
+      overflow: hidden;
+    }
+    @font-face {
+      font-family: 'font';
+      src: url("http://localhost:3000/font");
+    }
+
+    .states :hover {
+      opacity: 0.5;
+    }
+
+    .state-borders {
+      fill: none;
+      stroke: #fff;
+      stroke-width: 0.5px;
+      stroke-linejoin: round;
+      stroke-linecap: round;
+      pointer-events: none;
+    }
+
+    #mapUS {
+      float: left;
+    }
+
+    #vis {
+      margin-top: 50px;
+      margin-right: 10px;
+
+    }
+
+    .line {
+      fill: none;
+      stroke: black;
+    }
+
+    ul {
+      list-style: none;
+      padding: 20px 0;
+    }
+
+    li {
+      font-size: 12px;
+      margin-bottom: 10px;
+    }
+
+    h1 {
+      color: black;
+      text-align: center;
+      width: 80%;
+      margin: 1.5em 10%;
+      font-size: 40px;
+    }
+
+    body {
+      font-family: 'font';
+    }
+
+    #timeTable {
+      float: right;
+      margin-right: 5%;
+    }
+
+    #legendDiv {
+      float: left;
+    }
+
+    p {
+      font-size: 1.1em;
+    }
+
+    .legendRect {
+      float: left;
+      margin-right: 0.5em;
+    }
+
+    .legendRect:last-of-type {
+      padding-bottom: 1em;
+    }
+
+    .lastStateInfo {
+      margin-bottom: 4em;
+    }
+    /*connection in css https://stackoverflow.com/questions/36929965/creating-css-circles-connected-with-lines-vertical-and-horizontal*/
+    p {
+      overflow: hidden;
+      position: relative;
+      padding: 0 0 1em 35px;
+      margin-bottom: 0;
+      margin-top: 0;
+    }
+
+    p::before {
+      content: '';
+      position: absolute;
+      left: 9px;
+      top: 9px;
+      width: 20px;
+      height: 999px;
+      border: 2px solid black;
+      border-width: 2px 0 0 2px;
+    }
+
+    .noConnection::before {
+      content: '';
+      position: absolute;
+      left: 9px;
+      top: 9px;
+      width: 20px;
+      height: 999px;
+      border: 0px solid black;
+      border-width: 2px 0 0;
+    }
+
+    p:last-child::before {
+      border-width: 2px 0 0;
+    }
+
+    p::after {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 16px;
+      height: 16px;
+      background: #fff;
+      border: 2px solid black;
+      border-radius: 50%;
+    }
+  </style>
+  <h1>Gun Violence in The United States</h1>
+  <div id="legendDiv">
+    <ul class="legend">
+      <li class="dataset" title="children">Children</li>
+      <li class="dataset" title="teens">Teens</li>
+      <li class="dataset" title="adults">Adults</li>
+      <li class="dataset" title="mass">Mass Shootings</li>
+      <li class="dataset" title="officer">Officer Involved Shootings</li>
+    </ul>
+    <ul class="legend">
+      <li class="type" title="victims">All Victims</li>
+      <li class="type" title="injured">Injured</li>
+      <li class="type" title="killed">Killed</li>
+    </ul>
+  </div>
+
+  <div id="vis"></div>
+  <script src="./app"></script>
+
+</body>
+
+</html>
