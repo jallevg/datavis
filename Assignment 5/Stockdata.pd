@@ -1,0 +1,366 @@
+#N canvas 0 0 1920 997 16;
+#X declare -lib mrpeach;
+#N canvas 0 0 1920 997 guts 1;
+#X obj -39 -17288 import mrpeach;
+#X obj -39 -17320 loadbang;
+#X obj -41 -17257 udpreceive 12000;
+#X obj -41 -17226 unpackOSC;
+#X floatatom -46 -16909 0 0 0 0 - - -;
+#X obj -46 -16943 route /number;
+#X floatatom 101 -16919 0 0 0 0 - - -;
+#X obj 101 -17033 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1
+1 1;
+#X obj 101 -17013 metro 1000;
+#X obj 101 -16957 % 100;
+#X floatatom -48 -16632 0 0 0 0 - - -;
+#X obj -48 -16690 expr ($f1 - $f2) * ($f5 - $f4) / ($f3 - $f2) + $f4
+;
+#X obj 406 -16918 loadbang;
+#X obj 1419 -16513 dac~;
+#X obj 1529 -16707 line~;
+#X floatatom 1529 -16772 5 0 0 0 - - -;
+#X obj 1428 -16650 *~;
+#X msg 396 -16873 100;
+#X msg 548 -16872 270;
+#X floatatom 1321 -16946 5 0 0 0 - - -;
+#X obj 101 -17061 loadbang;
+#X floatatom 1430 -17137 0 0 0 0 - - -;
+#X obj 1429 -17293 route /exchangerate;
+#X floatatom 1511 -17136 0 0 0 0 - - -;
+#X floatatom 1592 -17135 0 0 0 0 - - -;
+#X floatatom 1662 -17132 0 0 0 0 - - -;
+#X obj -41 -17195 s OSCMessage;
+#X obj 1429 -17324 r OSCMessage;
+#X obj -46 -16976 r OSCMessage;
+#X text 1458 -17107 EUR;
+#X text 1526 -17106 YEN;
+#X text 1674 -17105 POUND;
+#X obj 1429 -17262 unpack f f f f;
+#X floatatom 436 -17235 0 0 0 0 - - -;
+#X floatatom 543 -17233 0 0 0 0 - - -;
+#X obj 425 -17336 r OSCMessage;
+#X obj 425 -17301 route /minmax;
+#X obj 436 -17269 unpack f f;
+#X obj 436 -17206 s Min;
+#X obj 543 -17204 s Max;
+#X obj 76 -16721 r Min;
+#X obj 200 -16720 r Max;
+#X obj 1146 -17083 s CurrentExchangeRate;
+#X obj 57 -16650 r CurrentExchangeRate;
+#X text 1602 -17107 AUD;
+#X floatatom -48 -16565 0 0 0 0 - - -;
+#X floatatom 57 -16617 0 0 0 0 - - -;
+#X floatatom 324 -16720 5 0 0 0 - - -;
+#X floatatom 449 -16722 5 0 0 0 - - -;
+#X obj 1189 -17126 f;
+#X obj 1231 -17127 f;
+#X obj 1273 -17127 f;
+#X obj 1316 -17128 f;
+#X obj 1146 -17126 f 1;
+#X obj 101 -16985 cup;
+#X obj 789 -17264 metro;
+#X floatatom 769 -16908 0 0 0 0 - - -;
+#X floatatom 788 -17134 0 0 0 0 - - -;
+#X obj 788 -17166 % 100;
+#X obj 788 -17201 cup;
+#X obj -48 -16531 s ValueForSound;
+#X obj 1323 -16975 r ValueForSound;
+#X obj 858 -17265 s Speed;
+#X obj 769 -16878 s CurrentStockValue;
+#X obj -48 -16759 r CurrentStockValue;
+#X obj -47 -16880 tabwrite StockValue;
+#X obj 769 -16940 tabread StockValue;
+#X obj -48 -16596 * 1;
+#X obj 788 -17104 s ReadPosition;
+#X obj 1532 -16543 tabwrite~ SoundWave;
+#X obj 1515 -16900 loadbang;
+#X obj 806 -17233 r ChangedPosition;
+#X floatatom 833 -17202 0 0 0 0 - - -;
+#X msg 1515 -16867 0.1;
+#X msg 425 -17170 \; StockValue bounds 0 \$2 100 \$1;
+#X obj 1089 -16763 phasor~;
+#X obj 1183 -17298 sel 0 1 2 3 4;
+#X floatatom 1089 -16800 5 0 0 0 - - -;
+#X obj 1089 -16935 bng 20 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 1274 -16619 pvu~;
+#X msg 1529 -16739 \$1 20;
+#X obj 1318 -16770 osc~;
+#X obj 1342 -16732 *~;
+#X obj 1380 -16770 osc~;
+#X floatatom 1346 -16803 5 0 0 0 - - -;
+#X msg 1367 -17129 1;
+#X obj 1183 -17323 r ValutaToggle;
+#X obj 1431 -17082 s Valuta1;
+#X obj 1512 -17082 s Valuta2;
+#X obj 1595 -17083 s Valuta3;
+#X obj 1688 -17082 s Valuta4;
+#X obj 1367 -17082 s Dollar;
+#X obj 1367 -17160 loadbang;
+#X obj 1515 -16837 s VolumeInit;
+#X obj 1516 -16802 r Volume;
+#X obj 1274 -16587 s VolumeLevel;
+#X obj 1089 -16881 r SoundTypeToggle;
+#X obj 1089 -16909 s BangSoundTypeToggle;
+#X obj 843 -17301 r SpeedControl;
+#X obj 395 -16845 s MinToneReset;
+#X obj 548 -16844 s MaxToneReset;
+#X obj 396 -16949 r ResetTone;
+#X obj 324 -16751 r MinTone;
+#X obj 449 -16752 r MaxTone;
+#X obj 1089 -16854 expr if($f1 == 1 \, $f2 \, 0) \; if($f1 == 0 \,
+$f2 \, 0) \;;
+#X msg 179 -17244 \; StockValue resize 100;
+#X floatatom 652 -16686 5 0 0 0 - - -;
+#X obj 805 -16750 r Pause;
+#X floatatom 652 -16627 5 0 0 0 - - -;
+#X obj 652 -16597 s CurrentIndex;
+#X obj 652 -16657 i;
+#X obj 652 -16715 expr if($f2 == 1 \, $f3 + 1 \, $f1);
+#X obj 627 -16750 r ChangedPosition;
+#X obj 883 -16750 r ReadPosition;
+#X obj 789 -17330 r Pause;
+#X obj 279 -17308 s PauseBang;
+#X obj 769 -16997 r CurrentIndex;
+#X floatatom 769 -16967 5 0 0 0 - - -;
+#X text 1387 -17107 USD;
+#X obj 1532 -16594 r CurrentIndex;
+#X obj 1532 -16566 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj -7 -16657 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 1124 -16935 bng 20 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj 210 -16762 bng 20 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X floatatom -48 -16721 0 0 0 0 - - -;
+#X obj 178 -17343 loadbang;
+#X text -39 -17370 RECEIVE OSCMESSAGE;
+#X text -58 -17100 READ STOCKVALUE AND WRITE IN ARRAY;
+#X text 425 -17373 READ MIN/MAX;
+#X text 195 -17372 INIT;
+#X msg 196 -17301 1000;
+#X obj 196 -17273 s SpeedInit;
+#X text 783 -17384 READ POSITION TO SONIFY AND CHANGE POS EVERY SECOND
+;
+#X text 1180 -17384 READ EXCHANGE RATE TOGGLE TO CHOOSE RATE;
+#X text 763 -17058 READ DATA OF CURRENT POS AND SEND TO SONIFY;
+#X text 390 -16988 SET TONE WITH SLIDERS;
+#X text -43 -16821 MAP STOCKVALUE TO DATA FOR SONIFICATION;
+#X text 607 -16800 CHECK IF PAUSED AND SEND POSITION ACCORDINGLY;
+#X text 1499 -16938 CHANGE VOLUME;
+#X text 1531 -16630 SHOW SOUNDWAVE;
+#X text 1108 -17012 READ VALUE AND SONIFY + TOGGLE FOR TYPE;
+#X msg 420 -17112 \; StockValue ylabel -8 \$1 \$2;
+#X connect 1 0 0 0;
+#X connect 2 0 3 0;
+#X connect 3 0 26 0;
+#X connect 4 0 65 0;
+#X connect 5 0 4 0;
+#X connect 6 0 65 1;
+#X connect 7 0 8 0;
+#X connect 8 0 54 0;
+#X connect 9 0 6 0;
+#X connect 10 0 67 0;
+#X connect 11 0 10 0;
+#X connect 12 0 17 0;
+#X connect 12 0 18 0;
+#X connect 14 0 16 1;
+#X connect 15 0 80 0;
+#X connect 16 0 13 0;
+#X connect 16 0 13 1;
+#X connect 16 0 69 0;
+#X connect 16 0 79 0;
+#X connect 17 0 99 0;
+#X connect 18 0 100 0;
+#X connect 19 0 78 0;
+#X connect 19 0 104 1;
+#X connect 19 0 122 0;
+#X connect 20 0 7 0;
+#X connect 21 0 87 0;
+#X connect 22 0 32 0;
+#X connect 23 0 88 0;
+#X connect 24 0 89 0;
+#X connect 25 0 90 0;
+#X connect 27 0 22 0;
+#X connect 28 0 5 0;
+#X connect 32 0 49 1;
+#X connect 32 0 21 0;
+#X connect 32 1 50 1;
+#X connect 32 1 23 0;
+#X connect 32 2 51 1;
+#X connect 32 2 24 0;
+#X connect 32 3 52 1;
+#X connect 32 3 25 0;
+#X connect 33 0 38 0;
+#X connect 34 0 39 0;
+#X connect 35 0 36 0;
+#X connect 36 0 37 0;
+#X connect 36 0 74 0;
+#X connect 36 0 141 0;
+#X connect 37 0 33 0;
+#X connect 37 1 34 0;
+#X connect 40 0 11 1;
+#X connect 41 0 11 2;
+#X connect 43 0 46 0;
+#X connect 43 0 67 1;
+#X connect 43 0 121 0;
+#X connect 45 0 60 0;
+#X connect 47 0 11 3;
+#X connect 48 0 11 4;
+#X connect 49 0 42 0;
+#X connect 50 0 42 0;
+#X connect 51 0 42 0;
+#X connect 52 0 42 0;
+#X connect 53 0 42 0;
+#X connect 54 0 9 0;
+#X connect 55 0 59 0;
+#X connect 56 0 63 0;
+#X connect 57 0 68 0;
+#X connect 58 0 57 0;
+#X connect 59 0 58 0;
+#X connect 61 0 19 0;
+#X connect 64 0 124 0;
+#X connect 66 0 56 0;
+#X connect 67 0 45 0;
+#X connect 70 0 73 0;
+#X connect 71 0 72 0;
+#X connect 71 0 59 0;
+#X connect 73 0 93 0;
+#X connect 75 0 16 0;
+#X connect 76 0 53 0;
+#X connect 76 1 49 0;
+#X connect 76 2 50 0;
+#X connect 76 3 51 0;
+#X connect 76 4 52 0;
+#X connect 77 0 75 0;
+#X connect 78 0 97 0;
+#X connect 79 0 95 0;
+#X connect 80 0 14 0;
+#X connect 81 0 82 0;
+#X connect 82 0 16 0;
+#X connect 83 0 82 1;
+#X connect 84 0 81 0;
+#X connect 84 0 83 0;
+#X connect 85 0 91 0;
+#X connect 86 0 76 0;
+#X connect 92 0 85 0;
+#X connect 94 0 15 0;
+#X connect 94 0 120 0;
+#X connect 96 0 104 0;
+#X connect 98 0 62 0;
+#X connect 98 0 55 1;
+#X connect 101 0 17 0;
+#X connect 101 0 18 0;
+#X connect 102 0 47 0;
+#X connect 102 0 123 0;
+#X connect 103 0 48 0;
+#X connect 103 0 123 0;
+#X connect 104 0 77 0;
+#X connect 104 1 84 0;
+#X connect 106 0 110 0;
+#X connect 107 0 111 1;
+#X connect 108 0 109 0;
+#X connect 110 0 108 0;
+#X connect 111 0 106 0;
+#X connect 112 0 111 0;
+#X connect 113 0 111 2;
+#X connect 114 0 55 0;
+#X connect 116 0 117 0;
+#X connect 117 0 66 0;
+#X connect 119 0 120 0;
+#X connect 120 0 69 0;
+#X connect 121 0 10 0;
+#X connect 122 0 97 0;
+#X connect 123 0 124 0;
+#X connect 124 0 11 0;
+#X connect 125 0 105 0;
+#X connect 125 0 115 0;
+#X connect 125 0 130 0;
+#X connect 130 0 131 0;
+#X restore 57 -17310 pd guts;
+#X obj 955 -17313 cnv 15 500 300 empty empty empty 20 12 0 14 -203904
+-4034 0;
+#X obj 1093 -17100 hradio 40 1 0 5 ValutaToggle empty empty 0 -6 0
+16 -262144 -1 -1 0;
+#X text 1137 -17124 EUR;
+#X text 1177 -17124 YEN;
+#X text 1095 -17124 USD;
+#X text 1216 -17124 AUD;
+#X floatatom 1083 -17221 0 0 0 0 - Valuta1 -;
+#X floatatom 1158 -17221 0 0 0 0 - Valuta2 -;
+#X floatatom 1242 -17220 0 0 0 0 - Valuta3 -;
+#X floatatom 1319 -17220 0 0 0 0 - Valuta4 -;
+#X floatatom 1030 -17222 0 0 0 0 - Dollar -;
+#X text 1257 -17125 GBP;
+#X text 1094 -17258 EUR;
+#X text 1173 -17257 YEN;
+#X text 1025 -17258 USD;
+#X text 1246 -17257 AUD;
+#X text 1318 -17256 GBP;
+#X text 994 -17166 TOGGLE USED CURRENCY;
+#X text 985 -17299 EXCHANGE RATES;
+#X obj 955 -17012 cnv 15 500 250 empty empty empty 20 12 0 14 -261682
+-66577 0;
+#X obj 1042 -16939 pddp/dsp;
+#X text 1001 -16985 VOLUME ON/OFF;
+#X text 1007 -16897 VOLUME CONTROL;
+#X obj 1049 -16841 knob 50 50 0 1 0 0 Volume VolumeInit Volume 0 -8
+0 16 -45076 -4034 -1 490 1;
+#X obj 1284 -16985 vu 25 200 VolumeLevel empty -1 -8 0 10 -66577 -1
+1 0;
+#X obj 955 -16763 cnv 15 500 400 empty empty empty 20 12 0 14 -204786
+-66577 0;
+#X obj 1024 -16668 hradio 40 1 0 2 SoundTypeToggle BangSoundTypeToggle
+empty 0 -6 0 10 -262144 -1 -1 0;
+#X text 989 -16728 CHANGE SOUND TYPE;
+#X text 990 -16576 CHANGE TONE;
+#X text 1264 -16727 CHANGE SPEED;
+#X obj 1302 -16676 knob 50 50 1000 100 0 0 SpeedControl SpeedInit Speed
+0 -8 0 16 -45076 -4034 -1 0 1;
+#X obj 1306 -16436 bng 35 250 50 0 ResetTone empty empty 17 7 0 10
+-262144 -1 -1;
+#X obj 1018 -16507 hsl 200 25 1 250 0 0 MinTone MinToneReset empty
+-2 -8 0 10 -262144 -1 -1 7912 1;
+#X obj 1016 -16428 hsl 200 25 250 500 0 0 MaxTone MaxToneReset empty
+-2 -8 0 10 -262144 -1 -1 1592 1;
+#X floatatom 1169 -16538 5 0 0 0 - MinTone -;
+#X floatatom 1165 -16457 5 0 0 0 - MaxTone -;
+#X text 1072 -16694 SAWTOOTH;
+#X text 1023 -16694 SINE;
+#X text 1014 -16532 MIN;
+#X text 1010 -16457 MAX;
+#X obj 134 -17313 cnv 15 820 950 empty empty empty 20 12 0 14 -261234
+-66577 0;
+#N canvas 0 0 450 300 (subpatch) 0;
+#X array StockValue 100 float 0;
+#X coords 0 107.78 100 107.04 600 350 1 0 0;
+#X restore 235 -17227 graph;
+#X obj 238 -17227 hsl 595 350 0 100 0 0 ChangedPosition ReadPosition
+empty -2 -8 0 10 -262144 -4034 -1 46926 1;
+#X obj 236 -16790 cnv 15 600 350 empty empty empty 20 12 0 14 -262144
+-66577 0;
+#N canvas 0 0 450 300 (subpatch) 0;
+#X array SoundWave 100 float 1;
+#A 0 0.0488702 0.0413326 0.0343263 0.0278884 0.0220526 0.01685 0.0123082
+0.0084513 0.00529954 0.00286961 0.00117435 0.000222714 1.97248e-005
+0.00056645 0.00186 0.00389352 0.00665628 0.0101337 0.0143073 0.0191551
+0.0246515 0.0307674 0.0374705 0.0447254 0.0524937 0.0607344 0.0694039
+0.0784564 0.087844 0.0975173 0.107425 0.117514 0.127731 0.138022 0.148334
+0.158611 0.1688 0.178846 0.188696 0.198299 0.207603 0.216559 0.225121
+0.233242 0.24088 0.247995 0.254548 0.260506 0.265836 0.270511 0.274506
+0.277799 0.280374 0.282216 0.283317 0.28367 0.283272 0.282128 0.28024
+0.277619 0.27428 0.270241 0.265524 0.260153 0.254156 0.247566 0.240417
+0.232747 0.224596 0.216008 0.207028 0.197703 0.188083 0.178219 0.168162
+0.157966 0.147685 0.137373 0.127084 0.116874 0.106795 0.0969017 0.0872458
+0.0778784 0.0688491 0.0602053 0.0519927 0.0442552 0.0370337 0.0303663
+0.0242882 0.0188316 0.0140253 0.00989474 0.00646168 0.00374429 0.00175693
+0.000510109 1.04041e-005 0.00026046;
+#X coords 0 1 99 -1 600 350 1 0 0;
+#X restore 236 -16790 graph;
+#X text 1245 -16475 RESET DEFAULT TONE;
+#X obj 1308 -16553 tgl 35 0 Pause PauseBang empty 17 7 0 10 -262144
+-1 -1 1 1;
+#X text 1277 -16591 PLAY/PAUSE;
+#X text 232 -16874 1 min;
+#X text 769 -16876 100 min;
